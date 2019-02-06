@@ -49,12 +49,12 @@
         <mark key="^" line="7" column="11" />
         <mark key="." line="7" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/pods/infrastructure/docker-registry/docker-registry.yml" timestamp="1549483085487">
+      <file name="$USER_HOME$/projects/pods/infrastructure/docker-registry/docker-registry.yml" timestamp="1549487672430">
         <mark key="'" line="17" column="2" />
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="." line="69" column="0" />
-        <mark key="^" line="68" column="23" />
+        <mark key="[" line="62" column="5" />
+        <mark key="]" line="63" column="23" />
+        <mark key="." line="63" column="23" />
+        <mark key="^" line="63" column="23" />
       </file>
       <file name="$USER_HOME$/projects/masir/masir-journey-producer/build.gradle" timestamp="1545000076281">
         <mark key="[" line="81" column="50" />
@@ -65,11 +65,11 @@
       <file name="$USER_HOME$/projects/chapar/chapar-domain-schema/build.gradle" timestamp="1544844489525">
         <mark key="[" line="12" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/pods/infrastructure/docker-registry/docker-registry.ConfigMap.yml" timestamp="1549411434273">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="24" column="42" />
+      <file name="$USER_HOME$/projects/pods/infrastructure/docker-registry/docker-registry.ConfigMap.yml" timestamp="1549486873138">
+        <mark key="[" line="24" column="48" />
+        <mark key="]" line="24" column="44" />
+        <mark key="." line="24" column="44" />
+        <mark key="^" line="24" column="44" />
       </file>
       <file name="$USER_HOME$/projects/pods/infrastructure/docker-registry/docker-registry.Pod.yml" timestamp="1549219144077">
         <mark key="[" line="15" column="8" />
@@ -335,10 +335,10 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGluZnJhc3RydWN0dXJlOiAidHJ1ZSIK</text>
+        <text encoding="base64">ICAgICAgcG8K</text>
       </register>
       <register name="-" type="4">
-        <text>registry-1</text>
+        <text>index</text>
       </register>
       <register name="/" type="4">
         <text>met</text>
@@ -347,31 +347,31 @@
         <text encoding="base64">ICAgICAgcmVtb3RldXJsOiBodHRwczovL2luZGV4LmRvY2tlci5pby92MQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGluZnJhc3RydWN0dXJlOiAidHJ1ZSIK</text>
+        <text encoding="base64">ICAgICAgcG8K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICNsYW5ndWFnZT15YW1sCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGluZnJhc3RydWN0dXJlOiAidHJ1ZSIK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICNsYW5ndWFnZT15YW1sCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxvZzoKICAgICAgZmllbGRzOgogICAgICAgIHNlcnZpY2U6IHJlZ2lzdHJ5CiAgICBzdG9yYWdlOgogICAgICBjYWNoZToKICAgICAgICBibG9iZGVzY3JpcHRvcjogaW5tZW1vcnkKICAgICAgZmlsZXN5c3RlbToKICAgICAgICByb290ZGlyZWN0b3J5OiAvdmFyL2xpYi9yZWdpc3RyeQogICAgaHR0cDoKICAgICAgYWRkcjogOjUwMDAKICAgICAgaGVhZGVyczoKICAgICAgICBYLUNvbnRlbnQtVHlwZS1PcHRpb25zOiBbbm9zbmlmZl0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICNsYW5ndWFnZT15YW1sCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIGxvZzoKICAgICAgZmllbGRzOgogICAgICAgIHNlcnZpY2U6IHJlZ2lzdHJ5CiAgICBzdG9yYWdlOgogICAgICBjYWNoZToKICAgICAgICBibG9iZGVzY3JpcHRvcjogaW5tZW1vcnkKICAgICAgZmlsZXN5c3RlbToKICAgICAgICByb290ZGlyZWN0b3J5OiAvdmFyL2xpYi9yZWdpc3RyeQogICAgaHR0cDoKICAgICAgYWRkcjogOjUwMDAKICAgICAgaGVhZGVyczoKICAgICAgICBYLUNvbnRlbnQtVHlwZS1PcHRpb25zOiBbbm9zbmlmZl0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGhlYWx0aDoKICAgICAgc3RvcmFnZWRyaXZlcjoKICAgICAgICBlbmFibGVkOiB0cnVlCiAgICAgICAgaW50ZXJ2YWw6IDEwcwogICAgICAgIHRocmVzaG9sZDogMwo=</text>
+        <text encoding="base64">ICAgICNsYW5ndWFnZT15YW1sCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGF1dGg6CiAgICAgIGh0cGFzc3dkOgogICAgICAgIHJlYWxtOiBiYXNpYy1yZWFsbQogICAgICAgIHBhdGg6IC9ldGMvcmVnaXN0cnkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/chapar.//g</text>
