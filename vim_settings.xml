@@ -55,12 +55,12 @@
         <mark key="^" line="7" column="11" />
         <mark key="." line="7" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/pods/infrastructure/docker-registry/docker-registry.yml" timestamp="1549652057339">
-        <mark key="'" line="24" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="28" column="27" />
-        <mark key="^" line="28" column="27" />
+      <file name="$USER_HOME$/projects/pods/infrastructure/docker-registry/docker-registry.yml" timestamp="1549656012451">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="41" column="36" />
       </file>
       <file name="$USER_HOME$/projects/masir/masir-journey-producer/build.gradle" timestamp="1545000076281">
         <mark key="[" line="81" column="50" />
@@ -134,6 +134,12 @@
         <mark key="[" line="101" column="0" />
         <mark key="]" line="102" column="24" />
       </file>
+      <file name="$USER_HOME$/projects/pods/infrastructure/infrastructure.PVC.yml" timestamp="1549655282371">
+        <mark key="[" line="3" column="26" />
+        <mark key="]" line="3" column="28" />
+        <mark key="^" line="3" column="28" />
+        <mark key="." line="3" column="28" />
+      </file>
       <file name="$USER_HOME$/projects/masir/masir-journey-producer/src/main/kotlin/com/artronics/masir/journey/producer/MasirJourneyProducerApplication.kt" timestamp="1544991594811">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -161,11 +167,11 @@
         <mark key="." line="38" column="41" />
         <mark key="^" line="38" column="41" />
       </file>
-      <file name="$USER_HOME$/projects/pods/infrastructure/infrastructure.PV.yml" timestamp="1549408711029">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="27" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="15" column="38" />
+      <file name="$USER_HOME$/projects/pods/infrastructure/infrastructure.PV.yml" timestamp="1549655213171">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="18" column="0" />
       </file>
       <file name="$USER_HOME$/projects/pods/infrastructure/docker-registry/docker-registry.pod.yml" timestamp="1549218279152">
         <mark key="[" line="1" column="6" />
@@ -215,11 +221,11 @@
         <mark key="." line="9" column="49" />
         <mark key="^" line="9" column="49" />
       </file>
-      <file name="$USER_HOME$/projects/pods/infrastructure/postgres/postgres.yml" timestamp="1549652844043">
-        <mark key="[" line="38" column="35" />
-        <mark key="]" line="39" column="11" />
-        <mark key="^" line="39" column="11" />
-        <mark key="." line="39" column="11" />
+      <file name="$USER_HOME$/projects/pods/infrastructure/postgres/postgres.yml" timestamp="1549655406324">
+        <mark key="[" line="38" column="23" />
+        <mark key="]" line="38" column="40" />
+        <mark key="^" line="38" column="40" />
+        <mark key="." line="38" column="40" />
       </file>
       <file name="$USER_HOME$/projects/pods/infrastructure/docker-registry/docker-registry.PVC.yml" timestamp="1549654909936">
         <mark key="'" line="29" column="2" />
@@ -365,44 +371,44 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>infrastructure</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgc2VjdXJpdHlDb250ZXh0OgogICAgICAgIHJ1bkFzVXNlcjogMAo=</text>
       </register>
       <register name="-" type="4">
-        <text>infrastructure</text>
+        <text>postgres-pvc</text>
       </register>
       <register name="/" type="4">
         <text>regis</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YXBpVmVyc2lvbjogdjEKa2luZDogUGVyc2lzdGVudFZvbHVtZQptZXRhZGF0YToKICBuYW1lOiBpbmZyYXN0cnVjdHVyZS1uZnMKICBuYW1lc3BhY2U6IGluZnJhc3RydWN0dXJlCiAgbGFiZWxzOgogICAgcm9sZTogaW5mcmFzdHJ1Y3R1cmUKCnNwZWM6CiAgY2FwYWNpdHk6CiAgICBzdG9yYWdlOiAxMDBHaQogIGFjY2Vzc01vZGVzOgogICAgLSBSZWFkV3JpdGVNYW55CiAgbmZzOgogICAgc2VydmVyOiAiMTkyLjE2OC4xMS4xIgogICAgcGF0aDogIi9tbnQvSEQvSERfYTIvaW5mcmFzdHJ1Y3R1cmUiCg==</text>
+        <text encoding="base64">YXBpVmVyc2lvbjogdjEKa2luZDogUGVyc2lzdGVudFZvbHVtZQptZXRhZGF0YToKICBuYW1lOiBkb2NrZXItcmVnaXN0cnktbmZzCiAgbmFtZXNwYWNlOiBpbmZyYXN0cnVjdHVyZQogIGxhYmVsczoKICAgIHJvbGU6IGluZnJhc3RydWN0dXJlCgpzcGVjOgogIGNhcGFjaXR5OgogICAgc3RvcmFnZTogMTAwR2kKICBhY2Nlc3NNb2RlczoKICAgIC0gUmVhZFdyaXRlTWFueQogIG5mczoKICAgIHNlcnZlcjogIjE5Mi4xNjguMTEuMSIKICAgIHBhdGg6ICIvbW50L0hEL0hEX2EyL2luZnJhc3RydWN0dXJlIgoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgYXBwOiBwb3N0Z3Jlcwo=</text>
+        <text encoding="base64">ICAgICAgc2VjdXJpdHlDb250ZXh0OgogICAgICAgIHJ1bkFzVXNlcjogMAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAtIG5hbWU6IGRvY2tlci1yZWdpc3RyeS1jb25maWcKICAgICAgICAgIGNvbmZpZ01hcDoKICAgICAgICAgICAgbmFtZTogZG9ja2VyLXJlZ2lzdHJ5LWNvbmZpZwogICAgICAgICAgICBpdGVtczoKICAgICAgICAgICAgICAtIGtleTogY29uZmlnCiAgICAgICAgICAgICAgICBwYXRoOiBjb25maWcueW1sCgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIC0gbW91bnRQYXRoOiAiL2V0Yy9kb2NrZXIvcmVnaXN0cnkiCiAgICAgICAgICAgICAgbmFtZTogZG9ja2VyLXJlZ2lzdHJ5LWNvbmZpZwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLSBtb3VudFBhdGg6ICIvdmFyL2xpYi9yZWdpc3RyeSIK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICBob3N0UG9ydDogNTAwMAo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY2xhaW1OYW1lOiBwb3N0Z3Jlcy1wdmMK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">YXBpVmVyc2lvbjogdjEKa2luZDogUGVyc2lzdGVudFZvbHVtZQptZXRhZGF0YToKICBuYW1lOiBkb2NrZXItcmVnaXN0cnktbmZzCiAgbmFtZXNwYWNlOiBpbmZyYXN0cnVjdHVyZQogIGxhYmVsczoKICAgIHJvbGU6IGluZnJhc3RydWN0dXJlCgpzcGVjOgogIGNhcGFjaXR5OgogICAgc3RvcmFnZTogMTAwR2kKICBhY2Nlc3NNb2RlczoKICAgIC0gUmVhZFdyaXRlTWFueQogIG5mczoKICAgIHNlcnZlcjogIjE5Mi4xNjguMTEuMSIKICAgIHBhdGg6ICIvbW50L0hEL0hEX2EyL2luZnJhc3RydWN0dXJlIgoK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgYXBwOiBwb3N0Z3Jlcwo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgc2VjdXJpdHlDb250ZXh0Ogo=</text>
+        <text encoding="base64">ICAgICAgICAtIG5hbWU6IGRvY2tlci1yZWdpc3RyeS1jb25maWcKICAgICAgICAgIGNvbmZpZ01hcDoKICAgICAgICAgICAgbmFtZTogZG9ja2VyLXJlZ2lzdHJ5LWNvbmZpZwogICAgICAgICAgICBpdGVtczoKICAgICAgICAgICAgICAtIGtleTogY29uZmlnCiAgICAgICAgICAgICAgICBwYXRoOiBjb25maWcueW1sCgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBydW5Bc1VzZXI6IDAK</text>
+        <text encoding="base64">CiAgICAgICAgICAgIC0gbW91bnRQYXRoOiAiL2V0Yy9kb2NrZXIvcmVnaXN0cnkiCiAgICAgICAgICAgICAgbmFtZTogZG9ja2VyLXJlZ2lzdHJ5LWNvbmZpZwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByb2xlOiBpbmZyYXN0cnVjdHVyZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLSBtb3VudFBhdGg6ICIvdmFyL2xpYi9yZWdpc3RyeSIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgYXBwOiBwb3N0Z3Jlc19pbmZyYXN0cnVjdHVyZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBob3N0UG9ydDogNTAwMAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/chapar.//g</text>
