@@ -221,11 +221,11 @@
         <mark key="." line="9" column="49" />
         <mark key="^" line="9" column="49" />
       </file>
-      <file name="$USER_HOME$/projects/pods/infrastructure/postgres/postgres.yml" timestamp="1549722779947">
-        <mark key="[" line="25" column="33" />
-        <mark key="]" line="25" column="34" />
-        <mark key="." line="25" column="34" />
-        <mark key="^" line="25" column="34" />
+      <file name="$USER_HOME$/projects/pods/infrastructure/postgres/postgres.yml" timestamp="1549723510272">
+        <mark key="[" line="32" column="27" />
+        <mark key="]" line="40" column="27" />
+        <mark key="." line="40" column="27" />
+        <mark key="^" line="40" column="27" />
       </file>
       <file name="$USER_HOME$/projects/pods/infrastructure/docker-registry/docker-registry.PVC.yml" timestamp="1549654909936">
         <mark key="'" line="29" column="2" />
@@ -372,10 +372,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>999</text>
+        <text>var/lib/postgresql/data</text>
       </register>
       <register name="-" type="4">
-        <text>999</text>
+        <text>var/lib/postgresql/data</text>
       </register>
       <register name="/" type="4">
         <text>regis</text>
