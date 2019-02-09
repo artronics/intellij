@@ -220,11 +220,11 @@
         <mark key="." line="9" column="49" />
         <mark key="^" line="9" column="49" />
       </file>
-      <file name="$USER_HOME$/projects/pods/infrastructure/postgres/postgres.yml" timestamp="1549738800787">
-        <mark key="[" line="42" column="21" />
-        <mark key="]" line="42" column="25" />
-        <mark key="." line="42" column="25" />
-        <mark key="^" line="42" column="25" />
+      <file name="$USER_HOME$/projects/pods/infrastructure/postgres/postgres.yml" timestamp="1549742280878">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="33" column="26" />
       </file>
       <file name="$USER_HOME$/projects/pods/infrastructure/docker-registry/docker-registry.PVC.yml" timestamp="1549654909936">
         <mark key="'" line="29" column="2" />
@@ -370,11 +370,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>Always</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CiMgICAgICAgICAgY29tbWFuZDoKIyAgICAgICAgICAgIC0gc2gKIyAgICAgICAgICAgIC0gLUMKIyAgICAgICAgICAgIC0gfAojICAgICAgICAgICAgICAvYmluL2Nob3duIC1SIDk5OTo5OTkgL3Zhci9saWIvcG9zdGdyZXNxbAojICAgICAgICAgICAgICAvYmluL2NobW9kIDA3MDAgL3Zhci9saWIvcG9zdGdyZXNxbC9kYXRhCg==</text>
       </register>
       <register name="-" type="4">
-        <text>Always</text>
+        <text>Never</text>
       </register>
       <register name="/" type="4">
         <text>regis</text>
@@ -383,31 +383,31 @@
         <text>/var/lib/</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBzZQo=</text>
+        <text encoding="base64">CiMgICAgICAgICAgY29tbWFuZDoKIyAgICAgICAgICAgIC0gc2gKIyAgICAgICAgICAgIC0gLUMKIyAgICAgICAgICAgIC0gfAojICAgICAgICAgICAgICAvYmluL2Nob3duIC1SIDk5OTo5OTkgL3Zhci9saWIvcG9zdGdyZXNxbAojICAgICAgICAgICAgICAvYmluL2NobW9kIDA3MDAgL3Zhci9saWIvcG9zdGdyZXNxbC9kYXRhCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">IyAgICAgIHNlY3VyaXR5Q29udGV4dDoKIyAgICAgICAgcnVuQXNVc2VyOiAwCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBydW5Bc0dyb3VwOiA5OTkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBzZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBlbmEK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBydW5Bc0dyb3VwOiA5OTkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBlbmEK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAtIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgc2VjdXJpdHlDb250ZXh0OgogICAgICAgIHJ1bkFzVXNlcjogMAo=</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBob3N0UG9ydDogNTAwMAo=</text>
+        <text encoding="base64">ICAgICAgICAtIAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/chapar.//g</text>
