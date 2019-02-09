@@ -220,11 +220,11 @@
         <mark key="." line="9" column="49" />
         <mark key="^" line="9" column="49" />
       </file>
-      <file name="$USER_HOME$/projects/pods/infrastructure/postgres/postgres.yml" timestamp="1549726143925">
-        <mark key="[" line="37" column="27" />
-        <mark key="]" line="37" column="33" />
-        <mark key="." line="37" column="33" />
-        <mark key="^" line="37" column="33" />
+      <file name="$USER_HOME$/projects/pods/infrastructure/postgres/postgres.yml" timestamp="1549727809911">
+        <mark key="[" line="42" column="21" />
+        <mark key="]" line="42" column="25" />
+        <mark key="." line="42" column="25" />
+        <mark key="^" line="42" column="25" />
       </file>
       <file name="$USER_HOME$/projects/pods/infrastructure/docker-registry/docker-registry.PVC.yml" timestamp="1549654909936">
         <mark key="'" line="29" column="2" />
@@ -371,16 +371,16 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>var/lib/postgresql</text>
+        <text>Always</text>
       </register>
       <register name="-" type="4">
-        <text>var/lib/postgresql</text>
+        <text>Always</text>
       </register>
       <register name="/" type="4">
         <text>regis</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">YXBpVmVyc2lvbjogdjEKa2luZDogUGVyc2lzdGVudFZvbHVtZQptZXRhZGF0YToKICBuYW1lOiBkb2NrZXItcmVnaXN0cnktbmZzCiAgbmFtZXNwYWNlOiBpbmZyYXN0cnVjdHVyZQogIGxhYmVsczoKICAgIHJvbGU6IGluZnJhc3RydWN0dXJlCgpzcGVjOgogIGNhcGFjaXR5OgogICAgc3RvcmFnZTogMTAwR2kKICBhY2Nlc3NNb2RlczoKICAgIC0gUmVhZFdyaXRlTWFueQogIG5mczoKICAgIHNlcnZlcjogIjE5Mi4xNjguMTEuMSIKICAgIHBhdGg6ICIvbW50L0hEL0hEX2EyL2luZnJhc3RydWN0dXJlIgoK</text>
+      <register name="0" type="4">
+        <text>/var/lib/</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICBzZQo=</text>
