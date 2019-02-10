@@ -226,10 +226,11 @@
         <mark key="." line="9" column="49" />
         <mark key="^" line="9" column="49" />
       </file>
-      <file name="$USER_HOME$/projects/pods/infrastructure/postgres/postgres.yml" timestamp="1549808297751">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="41" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/projects/pods/infrastructure/postgres/postgres.yml" timestamp="1549810725053">
+        <mark key="[" line="33" column="33" />
+        <mark key="]" line="33" column="38" />
+        <mark key="." line="33" column="38" />
+        <mark key="^" line="33" column="38" />
       </file>
       <file name="$USER_HOME$/projects/pods/infrastructure/docker-registry/docker-registry.PVC.yml" timestamp="1549654909936">
         <mark key="'" line="29" column="2" />
@@ -375,17 +376,17 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgbmFtZTogcG9zdGdyZXMtcGFzc3dvcmQK</text>
+      <register name="&quot;" type="4">
+        <text>password</text>
       </register>
       <register name="-" type="4">
-        <text>Never</text>
+        <text>password</text>
       </register>
       <register name="/" type="4">
         <text>regis</text>
       </register>
       <register name="0" type="4">
-        <text>/var/lib/</text>
+        <text encoding="base64">UE9TVEdSRVNfUEFTU1dPUkQKICAgICAgICAgICAgICA=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgbmFtZTogcG9zdGdyZXMtcGFzc3dvcmQK</text>
