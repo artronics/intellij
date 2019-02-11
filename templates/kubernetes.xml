@@ -76,4 +76,40 @@
       <option name="XML" value="false" />
     </context>
   </template>
+  <template name="deployment" value="apiVersion: apps/v1&#10;kind: Deployment&#10;metadata:&#10;  name: $NAME$&#10;  namespace: $NAMESPACE$&#10;spec:&#10;  selector:&#10;    matchLabels:&#10;&#9;  $SEL_KEY$: $SEL_VALUE$&#10;    &#10;  replicas: 1&#10;  &#10;  template:&#10;    metadata:&#10;      labels:&#10;        $SEL_KEY$: $SEL_VALUE$&#10;        &#10;    spec:&#10;      containers:&#10;        - name: $NAME$     &#10;          image: $IMAGE$&#10;          ports:&#10;            - containerPort: $PORT$&#10;            &#10;      restartPolicy: Always&#10;      &#10;      $END$&#10;  &#10;    " description="Kubernetes Deployment" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="NAMESPACE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="SEL_KEY" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="SEL_VALUE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="IMAGE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PORT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="ACTION_SCRIPT" value="false" />
+      <option name="ASPECTJ" value="false" />
+      <option name="Bash" value="false" />
+      <option name="CSS" value="false" />
+      <option name="CUCUMBER_FEATURE_FILE" value="false" />
+      <option name="CoffeeScript" value="false" />
+      <option name="ColdFusion" value="false" />
+      <option name="ECMAScript6" value="false" />
+      <option name="ELM" value="false" />
+      <option name="GROOVY" value="false" />
+      <option name="GSP" value="false" />
+      <option name="HAML" value="false" />
+      <option name="HTML" value="false" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSON" value="false" />
+      <option name="JSP" value="false" />
+      <option name="KOTLIN" value="false" />
+      <option name="MAVEN" value="false" />
+      <option name="MXML" value="false" />
+      <option name="OGNL" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="REQUEST" value="false" />
+      <option name="SQL" value="false" />
+      <option name="TypeScript" value="false" />
+      <option name="XML" value="false" />
+    </context>
+  </template>
 </templateSet>
