@@ -99,11 +99,11 @@
         <mark key="[" line="17" column="11" />
         <mark key="]" line="17" column="56" />
       </file>
-      <file name="$USER_HOME$/projects/pods/infrastructure/artifactory/docker/Dockerfile" timestamp="1550100869993">
-        <mark key="[" line="6" column="146" />
-        <mark key="]" line="6" column="121" />
-        <mark key="." line="6" column="121" />
-        <mark key="^" line="6" column="121" />
+      <file name="$USER_HOME$/projects/pods/infrastructure/artifactory/docker/Dockerfile" timestamp="1550101841855">
+        <mark key="[" line="8" column="35" />
+        <mark key="]" line="8" column="10" />
+        <mark key="." line="8" column="10" />
+        <mark key="^" line="8" column="10" />
       </file>
       <file name="$USER_HOME$/projects/masir/masir-schema/build.gradle" timestamp="1544982681432">
         <mark key="'" line="76" column="0" />
@@ -380,11 +380,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IC1xIC1udg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICYmIAo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC1xIC1udg==</text>
+        <text>echo 'Downloading artifactory ...'</text>
       </register>
       <register name="/" type="4">
         <text>ha</text>
@@ -395,20 +395,20 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgICYmIAo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">d2dldCAtTyAtcSAtbnYgYXJ0aWZhY3RvcnkuemlwXAogICAgICAgICAgaHR0cHM6Ly9iaW50cmF5LmNvbS9qZnJvZy9hcnRpZmFjdG9yeS9kb3dubG9hZF9maWxlXD9maWxlX3BhdGhcPWpmcm9nLWFydGlmYWN0b3J5LW9zcy0ke0FSVElGQUNUT1JZX1ZFUlNJT059LnppcCA+IC9kZXYvbnVsbCAyPi9kZXYvbnVsbA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICYmIGVjaG8gJ0Rvd25sb2FkaW5nIGFydGlmYWN0b3J5IC4uLicK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICYmIAo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICA+IC9kZXYvbnVsbFwK</text>
+      <register name="4" type="4">
+        <text encoding="base64">d2dldCAtTyAtcSAtbnYgYXJ0aWZhY3RvcnkuemlwXAogICAgICAgICAgaHR0cHM6Ly9iaW50cmF5LmNvbS9qZnJvZy9hcnRpZmFjdG9yeS9kb3dubG9hZF9maWxlXD9maWxlX3BhdGhcPWpmcm9nLWFydGlmYWN0b3J5LW9zcy0ke0FSVElGQUNUT1JZX1ZFUlNJT059LnppcCA+IC9kZXYvbnVsbCAyPi9kZXYvbnVsbA==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICA+IC9kZXYvbnVsbFwK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
