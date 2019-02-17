@@ -1,9 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="docker/Dockerfile" type="Docker file" />
+      <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping pattern="docker/Dockerfile" type="Docker file" />
     </extensionMap>
   </component>
 </application>
