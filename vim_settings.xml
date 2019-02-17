@@ -420,7 +420,7 @@
         <text encoding="base64">d2dldCAtTyAtcSAtbnYgYXJ0aWZhY3RvcnkuemlwXAogICAgICAgICAgaHR0cHM6Ly9iaW50cmF5LmNvbS9qZnJvZy9hcnRpZmFjdG9yeS9kb3dubG9hZF9maWxlXD9maWxlX3BhdGhcPWpmcm9nLWFydGlmYWN0b3J5LW9zcy0ke0FSVElGQUNUT1JZX1ZFUlNJT059LnppcCA+IC9kZXYvbnVsbCAyPi9kZXYvbnVsbA==</text>
       </register>
       <register name=":" type="4">
-        <text>action KJumpAction</text>
+        <text>action KJumpAction.Word0</text>
       </register>
     </registers>
     <search>
@@ -458,6 +458,9 @@
       <history-cmd>
         <entry>%s/chapar.//g</entry>
         <entry>action KJumpAction</entry>
+        <entry>source ~/.ideavimrc</entry>
+        <entry>action KJumpAction.Line</entry>
+        <entry>action KJumpAction.Word0</entry>
       </history-cmd>
       <history-expr />
       <history-input />
