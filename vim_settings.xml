@@ -246,6 +246,12 @@
       <file name="/fragment.java" timestamp="1544924384876">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/pods/infrastructure/gogs/docker/Dockerfile" timestamp="1550523403468">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="20" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/masir/masir-journey-producer/Jenkinsfile" timestamp="1544923944309">
         <mark key="'" line="30" column="0" />
         <mark key="[" line="0" column="0" />
@@ -386,8 +392,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>k</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Q01EIFsidGFpbCIsICItZiIsICIvZGV2L251bGwiXQo=</text>
       </register>
       <register name="-" type="4">
         <text>k</text>
@@ -399,31 +405,31 @@
         <text encoding="base64">ICAgICAgYXBwOiBhcnRpZmFjdG9yeQogICAgICByb2xlOiBpbmZyYXN0cnVjdHVyZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB0ZW1wbGF0ZToKICAgIG1ldGFkYXRhOgogICAgICBsYWJlbHM6CiAgICAgICAgYXBwOiBhcnRpZmFjdG9yeQogICAgICAgIHJvbGU6IGluZnJhc3RydWN0dXJlCg==</text>
+        <text encoding="base64">Q01EIFsidGFpbCIsICItZiIsICIvZGV2L251bGwiXQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyAgSEFfSVNfUFJJTUFSWTogInRydWUiCiMgIEhBX0RBVEFfRElSOiAiL3Zhci9vcHQvamZyb2cvYXJ0aWZhY3RvcnktaGEiCiMgIEhBX0JBQ0tVUF9ESVI6ICIvdmFyL29wdC9qZnJvZy9hcnRpZmFjdG9yeS1iYWNrdXAiCiMgIEhBX01FTUJFUlNISVBfUE9SVDogIjEwMDE3Igo=</text>
+        <text encoding="base64">ICB0ZW1wbGF0ZToKICAgIG1ldGFkYXRhOgogICAgICBsYWJlbHM6CiAgICAgICAgYXBwOiBhcnRpZmFjdG9yeQogICAgICAgIHJvbGU6IGluZnJhc3RydWN0dXJlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGVudjoK</text>
+        <text encoding="base64">IyAgSEFfSVNfUFJJTUFSWTogInRydWUiCiMgIEhBX0RBVEFfRElSOiAiL3Zhci9vcHQvamZyb2cvYXJ0aWZhY3RvcnktaGEiCiMgIEhBX0JBQ0tVUF9ESVI6ICIvdmFyL29wdC9qZnJvZy9hcnRpZmFjdG9yeS1iYWNrdXAiCiMgIEhBX01FTUJFUlNISVBfUE9SVDogIjEwMDE3Igo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGVudjoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB2b2x1bWVzOgogICAgLSBuYW1lOiBhcnRpZmFjdG9yeS1kYXRhLXZvbAogICAgICBwZXJzaXN0ZW50Vm9sdW1lQ2xhaW06CiAgICAgICAgY2xhaW1OYW1lOiBpbmZyYXN0cnVjdHVyZS1wdmMKIyAgICAgICAgLSBuYW1lOiBhcnRpZmFjdG9yeS1oYS12b2wKIyAgICAgICAgICBwZXJzaXN0ZW50Vm9sdW1lQ2xhaW06CiMgICAgICAgICAgICBjbGFpbU5hbWU6IGluZnJhc3RydWN0dXJlLXB2YwojICAgICAgICAtIG5hbWU6IGFydGlmYWN0b3J5LWJhY2t1cC12b2wKIyAgICAgICAgICBwZXJzaXN0ZW50Vm9sdW1lQ2xhaW06CiMgICAgICAgICAgICBjbGFpbU5hbWU6IGluZnJhc3RydWN0dXJlLXB2YwoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICByZXN0YXJ0UG9saWN5OiBBbHdheXMK</text>
+        <text encoding="base64">ICB2b2x1bWVzOgogICAgLSBuYW1lOiBhcnRpZmFjdG9yeS1kYXRhLXZvbAogICAgICBwZXJzaXN0ZW50Vm9sdW1lQ2xhaW06CiAgICAgICAgY2xhaW1OYW1lOiBpbmZyYXN0cnVjdHVyZS1wdmMKIyAgICAgICAgLSBuYW1lOiBhcnRpZmFjdG9yeS1oYS12b2wKIyAgICAgICAgICBwZXJzaXN0ZW50Vm9sdW1lQ2xhaW06CiMgICAgICAgICAgICBjbGFpbU5hbWU6IGluZnJhc3RydWN0dXJlLXB2YwojICAgICAgICAtIG5hbWU6IGFydGlmYWN0b3J5LWJhY2t1cC12b2wKIyAgICAgICAgICBwZXJzaXN0ZW50Vm9sdW1lQ2xhaW06CiMgICAgICAgICAgICBjbGFpbU5hbWU6IGluZnJhc3RydWN0dXJlLXB2YwoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHNwZWM6Cg==</text>
+        <text encoding="base64">ICByZXN0YXJ0UG9saWN5OiBBbHdheXMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29udGFpbmVyczoK</text>
+        <text encoding="base64">ICAgIHNwZWM6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC0gbmFtZTogYXJ0aWZhY3RvcnkK</text>
+        <text encoding="base64">ICAgICAgY29udGFpbmVyczoK</text>
       </register>
       <register name=":" type="4">
         <text>action KJumpAction.Line</text>
