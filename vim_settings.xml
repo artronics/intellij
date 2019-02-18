@@ -246,11 +246,11 @@
       <file name="/fragment.java" timestamp="1544924384876">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/pods/infrastructure/gogs/docker/Dockerfile" timestamp="1550523403468">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="2" column="20" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/projects/pods/infrastructure/gogs/docker/Dockerfile" timestamp="1550524478013">
+        <mark key="[" line="0" column="23" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="6" column="20" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/projects/masir/masir-journey-producer/Jenkinsfile" timestamp="1544923944309">
         <mark key="'" line="30" column="0" />
