@@ -206,12 +206,12 @@
         <mark key="^" line="7" column="45" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/pods/infrastructure/artifactory/artifactory.Pod.yml" timestamp="1550534656575">
+      <file name="$USER_HOME$/projects/pods/infrastructure/artifactory/artifactory.Pod.yml" timestamp="1550536023588">
         <mark key="'" line="0" column="13" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="^" line="26" column="18" />
-        <mark key="." line="27" column="0" />
+        <mark key="[" line="25" column="18" />
+        <mark key="]" line="25" column="19" />
+        <mark key="^" line="25" column="19" />
+        <mark key="." line="25" column="19" />
       </file>
       <file name="$USER_HOME$/projects/masir/masir-journey-producer/Dockerfile" timestamp="1544997869048">
         <mark key="[" line="7" column="12" />
@@ -397,11 +397,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>512M</text>
       </register>
       <register name="-" type="4">
-        <text>10022</text>
+        <text>512M</text>
       </register>
       <register name="/" type="4">
         <text>ha</text>
