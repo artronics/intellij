@@ -65,19 +65,18 @@
         <mark key="." line="11" column="6" />
         <mark key="^" line="11" column="6" />
       </file>
-      <file name="$USER_HOME$/projects/pawncade/frontend/app/components/Button/index.js" timestamp="1550940123179">
-        <mark key="'" line="30" column="0" />
-        <mark key="[" line="32" column="40" />
-        <mark key="]" line="33" column="40" />
-        <mark key="." line="33" column="40" />
-        <mark key="^" line="33" column="40" />
+      <file name="$USER_HOME$/projects/pawncade/frontend/app/components/Button/index.js" timestamp="1550953710953">
+        <mark key="'" line="32" column="0" />
+        <mark key="[" line="25" column="41" />
+        <mark key="]" line="26" column="5" />
+        <mark key="^" line="26" column="5" />
+        <mark key="." line="26" column="5" />
       </file>
-      <file name="$USER_HOME$/projects/pawncade/frontend/app/components/LoginForm/index.js" timestamp="1550952280162">
-        <mark key="'" line="18" column="1" />
-        <mark key="[" line="46" column="25" />
-        <mark key="]" line="46" column="25" />
-        <mark key="." line="46" column="25" />
-        <mark key="^" line="46" column="25" />
+      <file name="$USER_HOME$/projects/pawncade/frontend/app/components/LoginForm/index.js" timestamp="1550953447075">
+        <mark key="[" line="39" column="39" />
+        <mark key="]" line="39" column="54" />
+        <mark key="." line="39" column="54" />
+        <mark key="^" line="39" column="54" />
       </file>
       <file name="$USER_HOME$/projects/pods/infrastructure/infrastructure.PV.yml" timestamp="1549655213171">
         <mark key="[" line="19" column="0" />
@@ -125,7 +124,7 @@
       <file name="$USER_HOME$/projects/pawncade/frontend/app/components/NavLink/tests/index.test.js" timestamp="1550949944407">
         <mark key="[" line="17" column="44" />
         <mark key="]" line="17" column="44" />
-        <mark key="^" line="2" column="26" />
+        <mark key="^" line="4" column="26" />
         <mark key="." line="17" column="44" />
       </file>
       <file name="$USER_HOME$/projects/pawncade/frontend/internals/generators/component/class.js.hbs" timestamp="1550863520933">
@@ -269,14 +268,14 @@
         <mark key="^" line="12" column="23" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/pawncade/frontend/app/components/LoginForm/messages.js" timestamp="1550936679594">
-        <mark key="[" line="15" column="21" />
-        <mark key="]" line="15" column="25" />
-        <mark key="." line="15" column="25" />
-        <mark key="^" line="15" column="25" />
+      <file name="$USER_HOME$/projects/pawncade/frontend/app/components/LoginForm/messages.js" timestamp="1550953387374">
+        <mark key="[" line="27" column="27" />
+        <mark key="]" line="27" column="27" />
+        <mark key="^" line="27" column="27" />
+        <mark key="." line="27" column="27" />
       </file>
       <file name="$USER_HOME$/projects/pawncade/frontend/app/components/LoginForm/tests/index.test.js" timestamp="1550952258995">
-        <mark key="'" line="3" column="21" />
+        <mark key="'" line="8" column="21" />
         <mark key="[" line="106" column="39" />
         <mark key="]" line="106" column="38" />
         <mark key="." line="106" column="38" />
@@ -299,7 +298,7 @@
         <mark key="." line="8" column="22" />
         <mark key="^" line="8" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550943113245">
+      <file name="/Dummy.txt" timestamp="1550953481009">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="20" />
@@ -383,7 +382,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="4" filename="$USER_HOME$/projects/chapar/chapar-darwin/chapar-darwin-integration-tests/src/test/resources/data/darwin/timetable/timetable_v8.json" />
       <jump line="75" column="0" filename="$USER_HOME$/projects/chapar/chapar-darwin/chapar-darwin-integration-tests/src/test/resources/data/darwin/timetable/timetable_v8.json" />
       <jump line="74" column="0" filename="$USER_HOME$/projects/chapar/chapar-darwin/chapar-darwin-integration-tests/src/test/resources/data/darwin/timetable/timetable_v8.json" />
       <jump line="27" column="6" filename="$USER_HOME$/projects/chapar/chapar-darwin/chapar-darwin-integration-tests/src/test/resources/data/darwin/timetable/timetable_v8.json" />
@@ -483,6 +481,7 @@
       <jump line="71" column="35" filename="$USER_HOME$/projects/pawncade/frontend/app/components/LoginForm/tests/index.test.js" />
       <jump line="3" column="21" filename="$USER_HOME$/projects/pawncade/frontend/app/components/LoginForm/tests/index.test.js" />
       <jump line="16" column="1" filename="$USER_HOME$/projects/pawncade/frontend/app/components/LoginForm/index.js" />
+      <jump line="26" column="42" filename="$USER_HOME$/projects/pawncade/frontend/app/components/LoginForm/index.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -510,43 +509,46 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>n</text>
+        <text encoding="base64">YnRuIA==</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text encoding="base64">YnRuIA==</text>
       </register>
       <register name="/" type="4">
         <text>router</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBpdCgnc2hvdWxkIHJlbmRlciB0ZXh0IEZvcmdvdCBwYXNzd29yZD8gJywgKCkgPT4gewogICAgY29uc3QgZm9yZ290UGFzc3dvcmQgPSBtb3VudCgKICAgICAgPE1lbW9yeVJvdXRlcj4KICAgICAgICA8TG9naW5Gb3JtLldyYXBwZWRDb21wb25lbnQgaW50bD17aW50bH0gLz4KICAgICAgPC9NZW1vcnlSb3V0ZXI+LAogICAgKTsKCiAgICBleHBlY3QoZm9yZ290UGFzc3dvcmQuZmluZCgnYScpLnRleHQoKSkudG9CZSgnRm9yZ290IHBhc3N3b3JkPycpOwogIH0pOwoKICBpdCgnc2hvdWxkIHJlbmRlciBmb3Jnb3QgcGFzc3dvcmQgbGluayB0byBmb3Jnb3QtcGFzc3dvcmQgd2l0aCBjZW50ZXIgYWxpZ25tZW50JywgKCkgPT4gewogICAgY29uc3QgbG9naW4gPSBzaGFsbG93KDxMb2dpbkZvcm0uV3JhcHBlZENvbXBvbmVudCBpbnRsPXtpbnRsfSAvPik7CgogICAgY29uc3QgZm9yZ290UGFzc3dvcmQgPSBsb2dpbi5maW5kKE5hdkxpbmspOwoKICAgIGV4cGVjdChmb3Jnb3RQYXNzd29yZC5wYXJlbnQoKS5oYXNDbGFzcygndGV4dC1jZW50ZXInKSkudG9CZSh0cnVlKTsKICAgIGNvbnN0IGxpbmsgPSBmb3Jnb3RQYXNzd29yZC5zaGFsbG93KCk7CiAgICBleHBlY3QobGluay5wcm9wKCd0bycpKS50b0JlKCcvZm9yZ290LXBhc3N3b3JkJyk7CiAgfSk7Cg==</text>
+        <text encoding="base64">ICBjb25zdCBmb3Jnb3RQYXNzd29yZCA9IGludGwuZm9ybWF0TWVzc2FnZShtZXNzYWdlcy5mb3Jnb3RQYXNzd29yZCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBgYnRuICR7cHJvcHMuY2xhc3NOYW1lfSAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgPHA+b3I8L3A+Cg==</text>
+        <text encoding="base64">ICAgICAgICAiYnRuIiArIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBpdCgnc2hvdWxkIHJlbmRlciBmb3Jnb3QgcGFzc3dvcmQgbGluayB0byBmb3Jnb3QtcGFzc3dvcmQgd2l0aCBjZW50ZXIgYWxpZ25tZW50JywgKCkgPT4gewogICAgY29uc3QgbG9naW4gPSBzaGFsbG93KDxMb2dpbkZvcm0uV3JhcHBlZENvbXBvbmVudCBpbnRsPXtpbnRsfSAvPik7CgogICAgY29uc3QgZm9yZ290UGFzc3dvcmQgPSBsb2dpbi5maW5kKE5hdkxpbmspOwoKICAgIGV4cGVjdChmb3Jnb3RQYXNzd29yZC5wYXJlbnQoKS5oYXNDbGFzcygndGV4dC1jZW50ZXInKSkudG9CZSh0cnVlKTsKICAgIGV4cGVjdChmb3Jnb3RQYXNzd29yZC5zaGFsbG93KCkucHJvcCgndG8nKSkudG9CZSgnL2ZvcmdvdC1wYXNzd29yZCcpOwogIH0pOwoK</text>
+        <text encoding="base64">ICBjb25zdCBvciA9IGludGwuZm9ybWF0TWVzc2FnZShtZXNzYWdlcy5vcik7Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="6" type="4">
+        <text>or: {
+    id: `${scope}.or`,
+    defaultMessage: 'Or',
+  },</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHQgPSBtb3VudCgKICAgICAgPE1lbW9yeVJvdXRlcj4KICAgICAgICA8TG9naW5Gb3JtLldyYXBwZWRDb21wb25lbnQgaW50bD17aW50bH0gLz4KICAgICAgPC9NZW1vcnlSb3V0ZXI+LAogICAgKTsKCiAgICBleHBlY3QodC5maW5kKCdhJykudGV4dCgpKS50b0JlKCdGb3Jnb3QgcGFzc3dvcmQ/Jyk7Cg==</text>
+        <text encoding="base64">ICAgICAgIE9yCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdChmb3Jnb3RQYXNzd29yZC5oYXNDbGFzcygndGV4dC1jZW50ZXInKSkudG9CZSh0cnVlKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgPHA+b3I8L3A+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action KJumpAction.Line</text>
