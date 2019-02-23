@@ -52,10 +52,10 @@
         <mark key="^" line="11" column="6" />
       </file>
       <file name="$USER_HOME$/projects/pawncade/frontend/app/components/SignUpForm/tests/index.test.js" timestamp="1550958788395">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="16" column="37" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="15" column="37" />
       </file>
       <file name="$USER_HOME$/projects/pawncade/frontend/app/components/Button/index.js" timestamp="1550957740915">
         <mark key="'" line="32" column="0" />
@@ -232,7 +232,7 @@
         <mark key="." line="8" column="22" />
         <mark key="^" line="8" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550957744611">
+      <file name="/Dummy.txt" timestamp="1550964473919">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="20" />
