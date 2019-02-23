@@ -256,11 +256,11 @@
         <mark key="." line="7" column="23" />
         <mark key="^" line="7" column="23" />
       </file>
-      <file name="$USER_HOME$/projects/pawncade/frontend/app/components/LoginForm/tests/index.test.js" timestamp="1550883459289">
-        <mark key="[" line="14" column="81" />
-        <mark key="]" line="14" column="81" />
-        <mark key="." line="14" column="81" />
-        <mark key="^" line="14" column="81" />
+      <file name="$USER_HOME$/projects/pawncade/frontend/app/components/LoginForm/tests/index.test.js" timestamp="1550883561314">
+        <mark key="[" line="14" column="84" />
+        <mark key="]" line="14" column="92" />
+        <mark key="." line="14" column="92" />
+        <mark key="^" line="14" column="92" />
       </file>
       <file name="$USER_HOME$/projects/pods/infrastructure/docker-registry/docker-registry.ConfigMap.yml" timestamp="1549563438650">
         <mark key="[" line="23" column="0" />
