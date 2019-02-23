@@ -66,11 +66,11 @@
         <mark key="." line="27" column="18" />
         <mark key="^" line="27" column="18" />
       </file>
-      <file name="$USER_HOME$/projects/pawncade/frontend/app/components/LoginForm/index.js" timestamp="1550877145661">
-        <mark key="[" line="12" column="13" />
-        <mark key="]" line="12" column="22" />
-        <mark key="." line="12" column="22" />
-        <mark key="^" line="12" column="22" />
+      <file name="$USER_HOME$/projects/pawncade/frontend/app/components/LoginForm/index.js" timestamp="1550882438081">
+        <mark key="[" line="10" column="50" />
+        <mark key="]" line="10" column="50" />
+        <mark key="." line="10" column="50" />
+        <mark key="^" line="10" column="50" />
       </file>
       <file name="$USER_HOME$/projects/pods/infrastructure/infrastructure.PV.yml" timestamp="1549655213171">
         <mark key="[" line="19" column="0" />
@@ -250,17 +250,17 @@
         <mark key="^" line="12" column="23" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/pawncade/frontend/app/components/LoginForm/messages.js" timestamp="1550880956125">
+      <file name="$USER_HOME$/projects/pawncade/frontend/app/components/LoginForm/messages.js" timestamp="1550882064109">
         <mark key="[" line="7" column="21" />
-        <mark key="]" line="7" column="25" />
-        <mark key="." line="7" column="25" />
-        <mark key="^" line="7" column="25" />
+        <mark key="]" line="7" column="23" />
+        <mark key="." line="7" column="23" />
+        <mark key="^" line="7" column="23" />
       </file>
-      <file name="$USER_HOME$/projects/pawncade/frontend/app/components/LoginForm/tests/index.test.js" timestamp="1550880889382">
-        <mark key="[" line="5" column="9" />
-        <mark key="]" line="5" column="9" />
-        <mark key="." line="5" column="9" />
-        <mark key="^" line="31" column="48" />
+      <file name="$USER_HOME$/projects/pawncade/frontend/app/components/LoginForm/tests/index.test.js" timestamp="1550883459289">
+        <mark key="[" line="14" column="81" />
+        <mark key="]" line="14" column="81" />
+        <mark key="." line="14" column="81" />
+        <mark key="^" line="14" column="81" />
       </file>
       <file name="$USER_HOME$/projects/pods/infrastructure/docker-registry/docker-registry.ConfigMap.yml" timestamp="1549563438650">
         <mark key="[" line="23" column="0" />
@@ -481,10 +481,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>This is the LoginForm component!</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>This is the LoginForm component!</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>tex</text>
@@ -493,31 +493,33 @@
         <text encoding="base64">ICBpdCgnc2hvdWxkIHJlbmRlciB3aXRoIHR5cGUnLCAoKSA9PiB7CiAgICBjb25zdCBidXR0b24gPSBtb3VudCg8QnV0dG9uIGJ1dHRvblR5cGU9InN1Ym1pdCI+aGVsbG88L0J1dHRvbj4pOwoKICAgIGV4cGVjdChidXR0b24uZmluZCgnYnV0dG9uJykucHJvcCgndHlwZScpKS50b0JlKCdzdWJtaXQnKTsKICB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LyoKICogTG9naW5Gb3JtIE1lc3NhZ2VzCiAqCiAqIFRoaXMgY29udGFpbnMgYWxsIHRoZSB0ZXh0IGZvciB0aGUgTG9naW5Gb3JtIGNvbXBvbmVudC4KICovCgo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IHsgZW56eW1lRmluZCB9IGZyb20gJ3N0eWxlZC1jb21wb25lbnRzL3Rlc3QtdXRpbHMnOwo=</text>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IEludGxQcm92aWRlciBmcm9tICdyZWFjdC1pbnRsL3NyYy9jb21wb25lbnRzL3Byb3ZpZGVyJzsK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="3" type="2">
+        <text encoding="base64">dHlwZSBzZGYK</text>
+      </register>
+      <register name="4" type="4">
+        <text>S = {
+  
+}</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb2wK</text>
+        <text encoding="base64">LyoKICogTG9naW5Gb3JtIE1lc3NhZ2VzCiAqCiAqIFRoaXMgY29udGFpbnMgYWxsIHRoZSB0ZXh0IGZvciB0aGUgTG9naW5Gb3JtIGNvbXBvbmVudC4KICovCgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBsZXQgY29sb3IgPSAnJzsKICBzd2l0Y2ggKHByb3BzLmNvbG9yKSB7CiAgICBjYXNlICdwcmltYXJ5JzoKICAgICAgY29sb3IgPSAnYnRuLXByaW1hcnknOwogIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zdCBjb2xvciA9IAo=</text>
+        <text encoding="base64">Ly8gaW1wb3J0IHsgZW56eW1lRmluZCB9IGZyb20gJ3N0eWxlZC1jb21wb25lbnRzL3Rlc3QtdXRpbHMnOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBpdCgnc2hvdWxkICcsIGZ1bmN0aW9uICgpIHsKICAgIAogIH0pOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zdCBjbGFzc05hbWVzID0gewogICAgJ2J0bic6IHRydWUKICB9Owo=</text>
+        <text encoding="base64">ICBjb2wK</text>
       </register>
       <register name=":" type="4">
         <text>action KJumpAction.Line</text>
