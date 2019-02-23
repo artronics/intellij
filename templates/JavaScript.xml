@@ -1,8 +1,0 @@
-<templateSet group="JavaScript">
-  <template name="it" value="it('$DESCRIPTION$', () =&gt; {&#10;  $END$&#10;});" description="it -&gt; unit test" toReformat="false" toShortenFQNames="true">
-    <variable name="DESCRIPTION" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="JAVA_SCRIPT" value="true" />
-    </context>
-  </template>
-</templateSet>
