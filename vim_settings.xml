@@ -170,12 +170,12 @@
         <mark key="." line="21" column="33" />
         <mark key="^" line="21" column="33" />
       </file>
-      <file name="$USER_HOME$/projects/pawncade/frontend/app/components/SignUpForm/index.js" timestamp="1550958797169">
+      <file name="$USER_HOME$/projects/pawncade/frontend/app/components/SignUpForm/index.js" timestamp="1550960241218">
         <mark key="'" line="25" column="15" />
-        <mark key="[" line="14" column="53" />
-        <mark key="]" line="14" column="43" />
-        <mark key="." line="14" column="43" />
-        <mark key="^" line="14" column="43" />
+        <mark key="[" line="16" column="46" />
+        <mark key="]" line="16" column="46" />
+        <mark key="." line="16" column="46" />
+        <mark key="^" line="16" column="47" />
       </file>
       <file name="$USER_HOME$/projects/pods/infrastructure/docker-registry/docker-registry.PV.yml" timestamp="1549401826500">
         <mark key="[" line="0" column="0" />
@@ -420,11 +420,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBpdCgnRXhwZWN0IHRvIGhhdmUgdW5pdCB0ZXN0cyBzcGVjaWZpZWQnLCAoKSA9PiB7CiAgICBleHBlY3QodHJ1ZSkudG9FcXVhbChmYWxzZSk7CiAgfSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>header</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>title</text>
@@ -433,31 +433,31 @@
         <text encoding="base64">ICBjb25zdCBpbnRsUHJvdmlkZXIgPSBuZXcgSW50bFByb3ZpZGVyKHsgbG9jYWxlOiAnZW4nIH0sIHt9KTsKICBjb25zdCB7IGludGwgfSA9IGludGxQcm92aWRlci5nZXRDaGlsZENvbnRleHQoKTsKCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBpdCgnRXhwZWN0IHRvIGhhdmUgdW5pdCB0ZXN0cyBzcGVjaWZpZWQnLCAoKSA9PiB7CiAgICBleHBlY3QodHJ1ZSkudG9FcXVhbChmYWxzZSk7CiAgfSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LyoKICogU2lnblVwRm9ybSBNZXNzYWdlcwogKgogKiBUaGlzIGNvbnRhaW5zIGFsbCB0aGUgdGV4dCBmb3IgdGhlIFNpZ25VcEZvcm0gY29tcG9uZW50LgogKi8KCg==</text>
+        <text encoding="base64">ICBpdCgnRXhwZWN0IHRvIGhhdmUgdW5pdCB0ZXN0cyBzcGVjaWZpZWQnLCAoKSA9PiB7CiAgICBleHBlY3QodHJ1ZSkudG9FcXVhbChmYWxzZSk7CiAgfSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSW50bFByb3ZpZGVyIH0gZnJvbSAncmVhY3QtaW50bCc7Cg==</text>
+        <text encoding="base64">LyoKICogU2lnblVwRm9ybSBNZXNzYWdlcwogKgogKiBUaGlzIGNvbnRhaW5zIGFsbCB0aGUgdGV4dCBmb3IgdGhlIFNpZ25VcEZvcm0gY29tcG9uZW50LgogKi8KCg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IHsgSW50bFByb3ZpZGVyIH0gZnJvbSAncmVhY3QtaW50bCc7Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">aW1wb3J0IHN0eWxlZCBmcm9tICdzdHlsZWQtY29tcG9uZW50cyc7Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICAgIDxkaXY+CiAgICAgIDxGb3JtYXR0ZWRNZXNzYWdlIHsuLi5tZXNzYWdlcy5oZWFkZXJ9IC8+CiAgICA8L2Rpdj4=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">LyoqCiAqCiAqIFNpZ251cAogKgogKi8KCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">LyoKICoKICoge3twcm9wZXJDYXNlIG5hbWUgfX0KICoKICovCgo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IFByb3BUeXBlcyBmcm9tICdwcm9wLXR5cGVzJzsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgU2luZ3VwIH0gZnJvbSAnLi4vU2luZ3VwJzsK</text>
+        <text encoding="base64">aW1wb3J0IFByb3BUeXBlcyBmcm9tICdwcm9wLXR5cGVzJzsK</text>
       </register>
       <register name=":" type="4">
         <text>action KJumpAction.Line</text>
