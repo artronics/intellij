@@ -59,18 +59,18 @@
         <mark key="^" line="5" column="23" />
         <mark key="." line="5" column="23" />
       </file>
-      <file name="$USER_HOME$/projects/pawncade/frontend/app/components/Button/index.js" timestamp="1550880266307">
-        <mark key="'" line="8" column="12" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="8" column="68" />
+      <file name="$USER_HOME$/projects/pawncade/frontend/app/components/Button/index.js" timestamp="1550880763405">
+        <mark key="'" line="9" column="12" />
+        <mark key="[" line="27" column="18" />
+        <mark key="]" line="27" column="18" />
+        <mark key="." line="27" column="18" />
+        <mark key="^" line="27" column="18" />
       </file>
       <file name="$USER_HOME$/projects/pawncade/frontend/app/components/LoginForm/index.js" timestamp="1550877145661">
-        <mark key="[" line="11" column="13" />
-        <mark key="]" line="11" column="22" />
-        <mark key="." line="11" column="22" />
-        <mark key="^" line="11" column="22" />
+        <mark key="[" line="12" column="13" />
+        <mark key="]" line="12" column="22" />
+        <mark key="." line="12" column="22" />
+        <mark key="^" line="12" column="22" />
       </file>
       <file name="$USER_HOME$/projects/pods/infrastructure/infrastructure.PV.yml" timestamp="1549655213171">
         <mark key="[" line="19" column="0" />
@@ -146,11 +146,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/pawncade/frontend/app/components/Button/tests/index.test.js" timestamp="1550879931686">
-        <mark key="[" line="22" column="53" />
-        <mark key="]" line="22" column="58" />
-        <mark key="." line="22" column="58" />
-        <mark key="^" line="22" column="58" />
+      <file name="$USER_HOME$/projects/pawncade/frontend/app/components/Button/tests/index.test.js" timestamp="1550880861765">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="21" column="5" />
+        <mark key="^" line="32" column="41" />
+        <mark key="." line="32" column="41" />
       </file>
       <file name="$USER_HOME$/projects/masir/darwin-schema-v12/build.gradle" timestamp="1544978166250">
         <mark key="[" line="32" column="0" />
@@ -250,10 +250,16 @@
         <mark key="^" line="12" column="23" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/pawncade/frontend/app/components/LoginForm/tests/index.test.js" timestamp="1550876015758">
-        <mark key="[" line="31" column="41" />
-        <mark key="]" line="31" column="48" />
-        <mark key="." line="31" column="48" />
+      <file name="$USER_HOME$/projects/pawncade/frontend/app/components/LoginForm/messages.js" timestamp="1550880956125">
+        <mark key="[" line="7" column="21" />
+        <mark key="]" line="7" column="25" />
+        <mark key="." line="7" column="25" />
+        <mark key="^" line="7" column="25" />
+      </file>
+      <file name="$USER_HOME$/projects/pawncade/frontend/app/components/LoginForm/tests/index.test.js" timestamp="1550880889382">
+        <mark key="[" line="5" column="9" />
+        <mark key="]" line="5" column="9" />
+        <mark key="." line="5" column="9" />
         <mark key="^" line="31" column="48" />
       </file>
       <file name="$USER_HOME$/projects/pods/infrastructure/docker-registry/docker-registry.ConfigMap.yml" timestamp="1549563438650">
@@ -267,11 +273,11 @@
         <mark key="^" line="4" column="26" />
         <mark key="." line="4" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550871701017">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1550880897285">
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="0" column="4" />
+        <mark key="^" line="0" column="20" />
+        <mark key="." line="0" column="4" />
       </file>
       <file name="$USER_HOME$/projects/pods/infrastructure/postgres/postgres-users.ConfigMap.yml" timestamp="1549817667172">
         <mark key="[" line="6" column="15" />
@@ -474,44 +480,44 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBsZXQgY29sb3IgPSAnJzsKICBzd2l0Y2ggKHByb3BzLmNvbG9yKSB7CiAgICBjYXNlICdwcmltYXJ5JzoKICAgICAgY29sb3IgPSAnYnRuLXByaW1hcnknOwogIH0K</text>
+      <register name="&quot;" type="4">
+        <text>This is the LoginForm component!</text>
       </register>
       <register name="-" type="4">
-        <text>primary</text>
+        <text>This is the LoginForm component!</text>
       </register>
       <register name="/" type="4">
         <text>tex</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBpdCgnc2hvdWxkIHJlbmRlciB3aXRoIGRlZmF1bHQgdHlwZSB0byBidXR0b24nLCAoKSA9PiB7CiAgICBjb25zdCBidXR0b24gPSBtb3VudCg8QnV0dG9uPmhlbGxvPC9CdXR0b24+KTsKCiAgICBleHBlY3QoYnV0dG9uLmZpbmQoJ2J1dHRvbicpLnByb3AoJ3R5cGUnKSkudG9CZSgnYnV0dG9uJyk7CiAgfSk7Cg==</text>
+        <text encoding="base64">ICBpdCgnc2hvdWxkIHJlbmRlciB3aXRoIHR5cGUnLCAoKSA9PiB7CiAgICBjb25zdCBidXR0b24gPSBtb3VudCg8QnV0dG9uIGJ1dHRvblR5cGU9InN1Ym1pdCI+aGVsbG88L0J1dHRvbj4pOwoKICAgIGV4cGVjdChidXR0b24uZmluZCgnYnV0dG9uJykucHJvcCgndHlwZScpKS50b0JlKCdzdWJtaXQnKTsKICB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBsZXQgY29sb3IgPSAnJzsKICBzd2l0Y2ggKHByb3BzLmNvbG9yKSB7CiAgICBjYXNlICdwcmltYXJ5JzoKICAgICAgY29sb3IgPSAnYnRuLXByaW1hcnknOwogIH0K</text>
+        <text encoding="base64">LyoKICogTG9naW5Gb3JtIE1lc3NhZ2VzCiAqCiAqIFRoaXMgY29udGFpbnMgYWxsIHRoZSB0ZXh0IGZvciB0aGUgTG9naW5Gb3JtIGNvbXBvbmVudC4KICovCgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zdCBjb2xvciA9IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBpdCgnc2hvdWxkICcsIGZ1bmN0aW9uICgpIHsKICAgIAogIH0pOwo=</text>
+        <text encoding="base64">Ly8gaW1wb3J0IHsgZW56eW1lRmluZCB9IGZyb20gJ3N0eWxlZC1jb21wb25lbnRzL3Rlc3QtdXRpbHMnOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zdCBjbGFzc05hbWVzID0gewogICAgJ2J0bic6IHRydWUKICB9Owo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICBjb2wK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gQnV0dG9uKHByb3BzKSB7CiAgcmV0dXJuICgKICAgIDxidXR0b24+e3Byb3BzLnRleHR9PC9idXR0b24+CiAgKTsK</text>
+        <text encoding="base64">ICBsZXQgY29sb3IgPSAnJzsKICBzd2l0Y2ggKHByb3BzLmNvbG9yKSB7CiAgICBjYXNlICdwcmltYXJ5JzoKICAgICAgY29sb3IgPSAnYnRuLXByaW1hcnknOwogIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBpdCgnc2hvdWxkIHJlbmRlciB0ZXh0JywgKCkgPT4gewogICAgY29uc3QgYnV0dG9uID0gbW91bnQoPEJ1dHRvbiB0ZXh0PSJoZWxsbyIgLz4pOwoKICAgIGV4cGVjdChidXR0b24udGV4dCgpKS50b0JlKCdoZWxsbycpOwo=</text>
+        <text encoding="base64">ICBjb25zdCBjb2xvciA9IAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdCh0cnVlKS50b0VxdWFsKGZhbHNlKTsK</text>
+        <text encoding="base64">ICBpdCgnc2hvdWxkICcsIGZ1bmN0aW9uICgpIHsKICAgIAogIH0pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPElucHV0IGlucHV0VHlwZT0icGFzc3dvcmQiIGxhYmVsPSJFbWFpbCIgcGxhY2Vob2xkZXI9IkVtYWlsIiAvPgo=</text>
+        <text encoding="base64">ICBjb25zdCBjbGFzc05hbWVzID0gewogICAgJ2J0bic6IHRydWUKICB9Owo=</text>
       </register>
       <register name=":" type="4">
         <text>action KJumpAction.Line</text>
