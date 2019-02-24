@@ -36,12 +36,11 @@
         <mark key="^" line="2" column="10" />
         <mark key="." line="2" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/pawncade/frontend/app/containers/Login/index.js" timestamp="1550980625665">
-        <mark key="'" line="42" column="33" />
-        <mark key="[" line="23" column="6" />
-        <mark key="]" line="23" column="19" />
-        <mark key="." line="23" column="19" />
-        <mark key="^" line="23" column="19" />
+      <file name="$USER_HOME$/projects/pawncade/frontend/app/containers/Login/index.js" timestamp="1551022434344">
+        <mark key="'" line="38" column="33" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/projects/pawncade/frontend/app/components/Card/index.js" timestamp="1550868067282">
         <mark key="[" line="8" column="0" />
@@ -97,11 +96,10 @@
         <mark key="." line="36" column="41" />
         <mark key="^" line="36" column="41" />
       </file>
-      <file name="$USER_HOME$/projects/pawncade/frontend/app/containers/Login/selectors.js" timestamp="1550980564983">
-        <mark key="[" line="18" column="61" />
-        <mark key="]" line="18" column="64" />
-        <mark key="^" line="18" column="64" />
-        <mark key="." line="18" column="64" />
+      <file name="$USER_HOME$/projects/pawncade/frontend/app/containers/Login/selectors.js" timestamp="1551021861592">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/projects/pawncade/frontend/app/containers/NotFoundPage/tests/index.test.js" timestamp="1550957103251">
         <mark key="[" line="4" column="27" />
@@ -318,6 +316,11 @@
         <mark key="^" line="12" column="23" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/pawncade/frontend/internals/generators/container/selectors.js.hbs" timestamp="1551021930440">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/pawncade/frontend/app/components/LoginForm/messages.js" timestamp="1550953387374">
         <mark key="[" line="27" column="27" />
         <mark key="]" line="27" column="27" />
@@ -436,7 +439,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="4" filename="$USER_HOME$/projects/chapar/chapar-consumer-darwin/src/test/kotlin/com/artronics/chapar/consumer/darwin/consumer/DarwinTimetableRouteTest.kt" />
       <jump line="40" column="8" filename="$USER_HOME$/projects/chapar/chapar-consumer-darwin/src/test/kotlin/com/artronics/chapar/consumer/darwin/consumer/DarwinTimetableRouteTest.kt" />
       <jump line="14" column="3" filename="$USER_HOME$/projects/chapar/chapar-consumer-darwin/src/main/kotlin/com/artronics/chapar/consumer/darwin/converter/converter.kt" />
       <jump line="70" column="0" filename="$USER_HOME$/projects/chapar/chapar-consumer-darwin/src/main/kotlin/com/artronics/chapar/consumer/darwin/consumer/darwin-route.kt" />
@@ -536,6 +538,7 @@
       <jump line="42" column="50" filename="$USER_HOME$/projects/pawncade/frontend/app/containers/Login/index.js" />
       <jump line="24" column="25" filename="$USER_HOME$/projects/pawncade/frontend/app/containers/Login/index.js" />
       <jump line="38" column="33" filename="$USER_HOME$/projects/pawncade/frontend/app/containers/Login/index.js" />
+      <jump line="17" column="13" filename="$USER_HOME$/projects/pawncade/frontend/app/containers/Login/selectors.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -562,53 +565,53 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>n</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBmb286IG1ha2VTZWxlY3RGb28oKSwK</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>, { makeSelectFoo }</text>
       </register>
       <register name="/" type="4">
-        <text>button</text>
+        <text>Foo</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgPHA+e3Byb3BzLmZvb308L3A+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocHJvcHMuZm9vKTsK</text>
+        <text encoding="base64">ICBmb286IG1ha2VTZWxlY3RGb28oKSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhwcm9wcy5mb28pOwo=</text>
+        <text encoding="base64">LyoqCiAqIE90aGVyIHNwZWNpZmljIHNlbGVjdG9ycwogKi8KCi8qKgogKiBEZWZhdWx0IHNlbGVjdG9yIHVzZWQgYnkge3sgcHJvcGVyQ2FzZSBuYW1lIH19CiAqLwoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPHA+e3Byb3BzLmZvb308L3A+CiAgICAgIDxwPmZvbzwvcD4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPHA+e3Byb3BzLmxvZ2lufTwvcD4K</text>
+        <text encoding="base64">Ki8K</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Ly8gSW5kaXZpZHVhbCBleHBvcnRzIGZvciB0ZXN0aW5nCg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">LyoqCiAqIERpcmVjdCBzZWxlY3RvciB0byB0aGUge3sgY2FtZWxDYXNlIG5hbWUgfX0gc3RhdGUgZG9tYWluCiA=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAvLyBTZWUgZXhhbXBsZSBpbiBjb250YWluZXJzL0hvbWVQYWdlL3NhZ2EuanMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb3VudGVyOiAwLAogIGxvZ2luOiAna2lyJywK</text>
+        <text encoding="base64">LyoqCiAqIERpcmVjdCBzZWxlY3RvciB0byB0aGUgbG9naW4gc3RhdGUgZG9tYWluCiAqLwoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LyoKICoKICogTG9naW4gYWN0aW9ucwogKgogKi8KCg==</text>
+        <text encoding="base64">LyoqCiAqIE90aGVyIHNwZWNpZmljIHNlbGVjdG9ycwogKi8KCi8qKgogKiBEZWZhdWx0IHNlbGVjdG9yIHVzZWQgYnkgTG9naW4KICovCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LyoKICoKICogTG9naW4gY29uc3RhbnRzCiAqCiAqLwoK</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IG1ha2VTZWxlY3RGb28gPSAoKSA9PgogIGNyZWF0ZVNlbGVjdG9yKHNlbGVjdExvZ2luRG9tYWluLCBzdWJzdGF0ZSA9PiBzdWJzdGF0ZS5nZXQoJ2ZvbycpKTsKCg==</text>
       </register>
       <register name=":" type="4">
         <text>action KJumpAction.Line</text>
       </register>
     </registers>
     <search>
-      <last-search>button</last-search>
+      <last-search>Foo</last-search>
       <last-offset />
-      <last-pattern>button</last-pattern>
+      <last-pattern>Foo</last-pattern>
       <last-replace />
       <last-substitute>chapar.</last-substitute>
       <last-dir>1</last-dir>
@@ -616,7 +619,6 @@
     </search>
     <history>
       <history-search>
-        <entry>%s</entry>
         <entry>s%</entry>
         <entry>chapar.</entry>
         <entry>dist</entry>
@@ -636,6 +638,7 @@
         <entry>router</entry>
         <entry>title</entry>
         <entry>button</entry>
+        <entry>Foo</entry>
       </history-search>
       <history-cmd>
         <entry>%s/chapar.//g</entry>
