@@ -8,31 +8,31 @@
         <mark key="]" line="1" column="35" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/pawncade/frontend/app/containers/Login/tests/index.test.js" timestamp="1551034437924">
+      <file name="$USER_HOME$/projects/pawncade/frontend/app/containers/Login/tests/index.test.js" timestamp="1551036461930">
         <mark key="'" line="6" column="29" />
-        <mark key="[" line="28" column="7" />
-        <mark key="]" line="17" column="29" />
-        <mark key="^" line="17" column="29" />
-        <mark key="." line="17" column="29" />
+        <mark key="[" line="42" column="63" />
+        <mark key="]" line="42" column="62" />
+        <mark key="." line="42" column="62" />
+        <mark key="^" line="42" column="62" />
       </file>
-      <file name="$USER_HOME$/projects/pawncade/frontend/app/containers/Login/index.js" timestamp="1551034394166">
-        <mark key="'" line="39" column="33" />
-        <mark key="[" line="29" column="25" />
-        <mark key="]" line="29" column="35" />
-        <mark key="." line="29" column="35" />
-        <mark key="^" line="29" column="35" />
+      <file name="$USER_HOME$/projects/pawncade/frontend/app/containers/Login/index.js" timestamp="1551036517009">
+        <mark key="'" line="43" column="33" />
+        <mark key="[" line="30" column="24" />
+        <mark key="]" line="30" column="24" />
+        <mark key="." line="30" column="24" />
+        <mark key="^" line="23" column="35" />
       </file>
       <file name="$USER_HOME$/projects/pawncade/frontend/app/components/Card/index.js" timestamp="1550868067282">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/pawncade/frontend/app/components/LoginForm/index.js" timestamp="1551023274909">
-        <mark key="'" line="6" column="30" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="6" />
-        <mark key="." line="23" column="6" />
-        <mark key="^" line="23" column="6" />
+      <file name="$USER_HOME$/projects/pawncade/frontend/app/components/LoginForm/index.js" timestamp="1551036220141">
+        <mark key="'" line="24" column="8" />
+        <mark key="[" line="37" column="7" />
+        <mark key="]" line="37" column="7" />
+        <mark key="." line="37" column="7" />
+        <mark key="^" line="23" column="40" />
       </file>
       <file name="$USER_HOME$/projects/masir/masir-journey-consumer/Jenkinsfile" timestamp="1544923946938">
         <mark key="[" line="0" column="0" />
@@ -286,18 +286,18 @@
         <mark key="." line="4" column="27" />
         <mark key="^" line="4" column="27" />
       </file>
-      <file name="$USER_HOME$/projects/pawncade/frontend/app/components/LoginForm/messages.js" timestamp="1550953387374">
-        <mark key="[" line="27" column="27" />
-        <mark key="]" line="27" column="27" />
-        <mark key="^" line="27" column="27" />
-        <mark key="." line="27" column="27" />
+      <file name="$USER_HOME$/projects/pawncade/frontend/app/components/LoginForm/messages.js" timestamp="1551035822757">
+        <mark key="[" line="32" column="3" />
+        <mark key="]" line="32" column="3" />
+        <mark key="^" line="32" column="3" />
+        <mark key="." line="32" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/pawncade/frontend/app/components/LoginForm/tests/index.test.js" timestamp="1551022751603">
-        <mark key="'" line="47" column="26" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="12" column="50" />
-        <mark key="." line="51" column="38" />
-        <mark key="^" line="51" column="38" />
+      <file name="$USER_HOME$/projects/pawncade/frontend/app/components/LoginForm/tests/index.test.js" timestamp="1551036010938">
+        <mark key="'" line="22" column="42" />
+        <mark key="[" line="123" column="0" />
+        <mark key="]" line="123" column="0" />
+        <mark key="." line="123" column="0" />
+        <mark key="^" line="122" column="39" />
       </file>
       <file name="$USER_HOME$/projects/pods/infrastructure/docker-registry/docker-registry.ConfigMap.yml" timestamp="1549563438650">
         <mark key="[" line="23" column="0" />
@@ -309,9 +309,6 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1551024213002">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/pods/infrastructure/infrastructure.PVC.yml" timestamp="1549724674679">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -319,8 +316,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="43" filename="$USER_HOME$/projects/masir/darwin-schema-v12/build.gradle" />
-      <jump line="75" column="43" filename="$USER_HOME$/projects/masir/darwin-schema-v12/build.gradle" />
       <jump line="80" column="43" filename="$USER_HOME$/projects/masir/darwin-schema-v12/build.gradle" />
       <jump line="0" column="4" filename="$USER_HOME$/projects/masir/darwin-schema-v12/Jenkinsfile" />
       <jump line="20" column="5" filename="$USER_HOME$/projects/masir/darwin-schema-v12/Jenkinsfile" />
@@ -419,6 +414,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/samples/react-boilerplate/app/utils/tests/request.test.js" />
       <jump line="23" column="49" filename="$USER_HOME$/projects/pawncade/frontend/app/containers/Login/tests/reducer.test.js" />
       <jump line="12" column="10" filename="$USER_HOME$/projects/pawncade/frontend/app/containers/Login/tests/selectors.test.js" />
+      <jump line="22" column="42" filename="$USER_HOME$/projects/pawncade/frontend/app/components/LoginForm/tests/index.test.js" />
+      <jump line="24" column="8" filename="$USER_HOME$/projects/pawncade/frontend/app/components/LoginForm/index.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -446,43 +443,43 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>false</text>
+        <text>.isRequired</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>.isRequired</text>
       </register>
       <register name="/" type="4">
         <text>Foo</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdChzZWxlY3RMb2dpbkRvbWFpbihsb2dpbikpLnRvRXF1YWwoc3RhdGUpOwo=</text>
+        <text encoding="base64">ICAgIGxvZ2luQ29tcG9uZW50ID0gbW91bnQoCiAgICAgIDxNZW1vcnlSb3V0ZXI+CiAgICAgICAgPEludGxQcm92aWRlciBsb2NhbGU9ImVuIj4KICAgICAgICAgIDxMb2dpbiBvbkxvZ2luPXtvbkxvZ2lufSAvPgogICAgICAgIDwvSW50bFByb3ZpZGVyPgogICAgICA8L01lbW9yeVJvdXRlcj4sCiAgICApOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgbG9naW5Db21wb25lbnQgPSBtb3VudCgKICAgICAgICA8TWVtb3J5Um91dGVyPgogICAgICAgICAgPEludGxQcm92aWRlciBsb2NhbGU9ImVuIj4KICAgICAgICAgICAgPExvZ2luIG9uTG9naW49e29uTG9naW59IC8+CiAgICAgICAgICA8L0ludGxQcm92aWRlcj4KICAgICAgICA8L01lbW9yeVJvdXRlcj4sCiAgICAgICk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBsZXQgaW5pdGlhbFN0YXRlOwogIGJlZm9yZUVhY2goKCkgPT4gewogICAgaW5pdGlhbFN0YXRlID0gCiAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBiZWZvcmVFYWNoCg==</text>
+        <text encoding="base64">ICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LWRhbmdlciI+e2Vycm9yTWVzc2FnZX08L3A+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGxvZ2luUmVkdWNlciBmcm9tICcuLi9yZWR1Y2VyJzsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHJlcXVlc3QgZnJvbSAndXRpbHMvcmVxdWVzdCc7Cg==</text>
+        <text encoding="base64">ICAgICAgPHA+PC9wPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHJlcXVlc3QgZnJvbSAndXRpbHMvcmVxdWVzdCc7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LyoqCiAqIFRlc3QgdGhlIHJlcXVlc3QgZnVuY3Rpb24KICovCgo=</text>
+        <text encoding="base64">ICBsZXQgaW5pdGlhbFN0YXRlOwogIGJlZm9yZUVhY2goKCkgPT4gewogICAgaW5pdGlhbFN0YXRlID0gCiAgfSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHJlcXVlc3QgZnJvbSAndXRpbHMvcmVxdWVzdCc7Cg==</text>
+        <text encoding="base64">ICBiZWZvcmVFYWNoCg==</text>
       </register>
       <register name=":" type="4">
         <text>action KJumpAction.Line</text>
