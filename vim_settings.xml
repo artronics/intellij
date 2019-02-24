@@ -8,25 +8,25 @@
         <mark key="]" line="63" column="0" />
         <mark key="." line="63" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/pawncade/frontend/app/containers/Login/index.js" timestamp="1551040026510">
-        <mark key="'" line="43" column="33" />
-        <mark key="[" line="38" column="28" />
-        <mark key="]" line="38" column="28" />
+      <file name="$USER_HOME$/projects/pawncade/frontend/app/containers/Login/index.js" timestamp="1551050438662">
+        <mark key="'" line="29" column="36" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="32" />
         <mark key="." line="38" column="28" />
         <mark key="^" line="38" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/pawncade/frontend/app/components/Input/index.js" timestamp="1550872357405">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="24" column="13" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/projects/pawncade/frontend/app/components/Input/index.js" timestamp="1551051320784">
+        <mark key="[" line="24" column="2" />
+        <mark key="]" line="24" column="5" />
+        <mark key="." line="24" column="5" />
+        <mark key="^" line="24" column="5" />
       </file>
-      <file name="$USER_HOME$/projects/pawncade/frontend/app/components/LoginForm/index.js" timestamp="1551036220141">
+      <file name="$USER_HOME$/projects/pawncade/frontend/app/components/LoginForm/index.js" timestamp="1551051382495">
         <mark key="'" line="24" column="8" />
-        <mark key="[" line="37" column="7" />
-        <mark key="]" line="37" column="7" />
-        <mark key="." line="37" column="7" />
-        <mark key="^" line="23" column="40" />
+        <mark key="[" line="36" column="13" />
+        <mark key="]" line="36" column="13" />
+        <mark key="." line="36" column="13" />
+        <mark key="^" line="35" column="13" />
       </file>
       <file name="$USER_HOME$/projects/pods/infrastructure/infrastructure.PV.yml" timestamp="1549655213171">
         <mark key="[" line="19" column="0" />
@@ -68,16 +68,16 @@
         <mark key="^" line="10" column="106" />
         <mark key="." line="25" column="11" />
       </file>
+      <file name="$USER_HOME$/projects/pawncade/frontend/app/components/CustomerForm/tests/index.test.js" timestamp="1551049184406">
+        <mark key="[" line="8" column="11" />
+        <mark key="]" line="8" column="11" />
+        <mark key="." line="8" column="15" />
+      </file>
       <file name="$USER_HOME$/projects/pods/infrastructure/docker-registry/docker-registry.PersistentVolume.yml" timestamp="1549226058823">
         <mark key="[" line="11" column="15" />
         <mark key="]" line="11" column="30" />
         <mark key="." line="11" column="30" />
         <mark key="^" line="11" column="30" />
-      </file>
-      <file name="$USER_HOME$/projects/samples/react-boilerplate/app/utils/tests/request.test.js" timestamp="1551027120268">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="79" column="3" />
       </file>
       <file name="$USER_HOME$/projects/pawncade/frontend/app/containers/Login/constants.js" timestamp="1551026754263">
         <mark key="[" line="2" column="45" />
@@ -102,6 +102,12 @@
         <mark key="]" line="16" column="32" />
         <mark key="^" line="11" column="15" />
         <mark key="." line="11" column="15" />
+      </file>
+      <file name="$USER_HOME$/projects/pawncade/frontend/app/containers/Signup/tests/saga.test.js" timestamp="1551049118064">
+        <mark key="[" line="12" column="11" />
+        <mark key="]" line="12" column="15" />
+        <mark key="." line="12" column="15" />
+        <mark key="^" line="12" column="15" />
       </file>
       <file name="$USER_HOME$/projects/pawncade/frontend/.prettierignore" timestamp="1550862168799">
         <mark key="[" line="7" column="0" />
@@ -132,10 +138,17 @@
         <mark key="." line="14" column="21" />
         <mark key="^" line="14" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/samples/react-boilerplate/app/utils/request.js" timestamp="1551027098571">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="43" column="1" />
+      <file name="$USER_HOME$/projects/pawncade/frontend/app/reducers.js" timestamp="1551048429951">
+        <mark key="[" line="16" column="38" />
+        <mark key="]" line="17" column="21" />
+        <mark key="^" line="17" column="21" />
+        <mark key="." line="17" column="21" />
+      </file>
+      <file name="$USER_HOME$/projects/pawncade/frontend/app/containers/customer/NewCustomer/index.js" timestamp="1551051268712">
+        <mark key="[" line="12" column="80" />
+        <mark key="]" line="12" column="80" />
+        <mark key="." line="12" column="80" />
+        <mark key="^" line="12" column="95" />
       </file>
       <file name="$USER_HOME$/projects/masir/masir-journey-producer/Dockerfile" timestamp="1544997869048">
         <mark key="[" line="7" column="12" />
@@ -167,11 +180,17 @@
         <mark key="^" line="8" column="42" />
         <mark key="." line="8" column="42" />
       </file>
-      <file name="$USER_HOME$/projects/pawncade/frontend/app/containers/App/index.js" timestamp="1550974492274">
-        <mark key="[" line="17" column="14" />
-        <mark key="]" line="17" column="14" />
-        <mark key="." line="17" column="14" />
-        <mark key="^" line="25" column="52" />
+      <file name="$USER_HOME$/projects/pawncade/frontend/app/containers/Signup/tests/index.test.js" timestamp="1551049122233">
+        <mark key="[" line="8" column="11" />
+        <mark key="]" line="8" column="15" />
+        <mark key="." line="8" column="15" />
+        <mark key="^" line="8" column="15" />
+      </file>
+      <file name="$USER_HOME$/projects/pawncade/frontend/app/containers/App/index.js" timestamp="1551049936775">
+        <mark key="[" line="27" column="49" />
+        <mark key="]" line="27" column="59" />
+        <mark key="^" line="27" column="59" />
+        <mark key="." line="27" column="59" />
       </file>
       <file name="$USER_HOME$/projects/pods/infrastructure/gogs/gogs.yml" timestamp="1549845633456">
         <mark key="[" line="31" column="33" />
@@ -253,9 +272,6 @@
         <mark key="." line="35" column="52" />
         <mark key="^" line="35" column="52" />
       </file>
-      <file name="$USER_HOME$/projects/pawncade/frontend/app/components/Panel/index.js" timestamp="1551042169318">
-        <mark key="[" line="12" column="33" />
-      </file>
       <file name="$USER_HOME$/projects/masir/darwin-schema-v12/build.gradle" timestamp="1544978166250">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="51" column="0" />
@@ -281,17 +297,23 @@
         <mark key="." line="25" column="57" />
         <mark key="^" line="25" column="57" />
       </file>
+      <file name="$USER_HOME$/projects/pawncade/frontend/app/containers/customer/messages.js" timestamp="1551050134135">
+        <mark key="[" line="6" column="23" />
+        <mark key="]" line="6" column="23" />
+        <mark key="^" line="6" column="23" />
+        <mark key="." line="6" column="23" />
+      </file>
       <file name="$USER_HOME$/projects/pawncade/frontend/app/containers/HomePage/index.js" timestamp="1550953863027">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="34" />
         <mark key="^" line="0" column="20" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/pawncade/frontend/app/components/Input/tests/index.test.js" timestamp="1551042036445">
-        <mark key="[" line="19" column="85" />
-        <mark key="]" line="19" column="85" />
-        <mark key="." line="19" column="85" />
-        <mark key="^" line="19" column="55" />
+      <file name="$USER_HOME$/projects/pawncade/frontend/app/components/Input/tests/index.test.js" timestamp="1551051337618">
+        <mark key="[" line="19" column="31" />
+        <mark key="]" line="19" column="31" />
+        <mark key="." line="19" column="31" />
+        <mark key="^" line="19" column="31" />
       </file>
       <file name="$USER_HOME$/projects/pawncade/frontend/app/containers/Login/tests/selectors.test.js" timestamp="1551042468192">
         <mark key="'" line="12" column="10" />
@@ -335,18 +357,18 @@
         <mark key="^" line="12" column="23" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/pawncade/frontend/app/components/LoginForm/messages.js" timestamp="1551035822757">
+      <file name="$USER_HOME$/projects/pawncade/frontend/app/components/LoginForm/messages.js" timestamp="1551050001150">
         <mark key="[" line="32" column="3" />
         <mark key="]" line="32" column="3" />
         <mark key="^" line="32" column="3" />
         <mark key="." line="32" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/pawncade/frontend/app/components/LoginForm/tests/index.test.js" timestamp="1551042056709">
-        <mark key="'" line="20" column="42" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
-        <mark key="^" line="119" column="39" />
+      <file name="$USER_HOME$/projects/pawncade/frontend/app/components/LoginForm/tests/index.test.js" timestamp="1551051415862">
+        <mark key="'" line="20" column="38" />
+        <mark key="[" line="31" column="38" />
+        <mark key="]" line="31" column="38" />
+        <mark key="." line="31" column="38" />
+        <mark key="^" line="20" column="38" />
       </file>
       <file name="$USER_HOME$/projects/pods/infrastructure/postgres/postgres.Secret.yml" timestamp="1550447928071">
         <mark key="[" line="3" column="23" />
@@ -360,7 +382,7 @@
         <mark key="." line="8" column="22" />
         <mark key="^" line="8" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551042503294">
+      <file name="/Dummy.txt" timestamp="1551049296640">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="20" />
@@ -378,20 +400,19 @@
         <mark key="." line="61" column="0" />
         <mark key="^" line="61" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/pawncade/frontend/app/containers/Signup/tests/selectors.test.js" timestamp="1551049133004">
+        <mark key="[" line="5" column="11" />
+        <mark key="]" line="5" column="11" />
+        <mark key="." line="5" column="15" />
+      </file>
       <file name="$USER_HOME$/projects/masir/masir-journey-producer/src/main/kotlin/com/artronics/masir/journey/producer/MasirJourneyProducerApplication.kt" timestamp="1544991594811">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="^" line="6" column="3" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1551024213002">
-        <mark key="[" line="0" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="0" filename="$USER_HOME$/projects/masir/masir-journey-producer/Jenkinsfile" />
-      <jump line="46" column="0" filename="$USER_HOME$/projects/masir/masir-journey-producer/build.gradle" />
-      <jump line="64" column="59" filename="$USER_HOME$/projects/masir/masir-journey-producer/src/main/kotlin/com/artronics/masir/journey/producer/consumer/darwin-route.kt" />
       <jump line="29" column="0" filename="$USER_HOME$/projects/masir/masir-schema/build.gradle" />
       <jump line="57" column="0" filename="$USER_HOME$/projects/masir/masir-schema/build.gradle" />
       <jump line="39" column="41" filename="$USER_HOME$/projects/masir/masir-journey-producer/src/main/kotlin/com/artronics/masir/journey/producer/converter/converter.kt" />
@@ -489,6 +510,9 @@
       <jump line="65" column="24" filename="$USER_HOME$/projects/pawncade/frontend/app/containers/Login/tests/index.test.js" />
       <jump line="13" column="46" filename="$USER_HOME$/projects/pawncade/frontend/app/containers/Login/tests/saga.test.js" />
       <jump line="18" column="0" filename="$USER_HOME$/projects/pawncade/frontend/app/components/SignUpForm/index.js" />
+      <jump line="29" column="36" filename="$USER_HOME$/projects/pawncade/frontend/app/containers/Login/index.js" />
+      <jump line="14" column="87" filename="$USER_HOME$/projects/pawncade/frontend/app/components/LoginForm/tests/index.test.js" />
+      <jump line="20" column="38" filename="$USER_HOME$/projects/pawncade/frontend/app/components/LoginForm/tests/index.test.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -516,53 +540,52 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>state</text>
+        <text>inputT</text>
       </register>
       <register name="-" type="4">
-        <text>state</text>
+        <text>inputT</text>
       </register>
       <register name="/" type="4">
-        <text>empty</text>
+        <text>inputTyp</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBpdCgnc2hvdWxkIGNhbGwgbG9naW5TdWNjZXNzZnVsIGFjdGlvbiBpZiBsb2dpbiBpcyBzdWNjZXNzZnVsJywgKCkgPT4gewogICAgLy8gR2l2ZW4KICAgIGNvbnN0IHJlc3BvbnNlID0ge307CgogICAgLy8gV2hlbgogICAgY29uc3QgbG9naW5EZXNjcmlwdG9yID0gbG9naW5HZW5lcmF0b3IubmV4dChyZXNwb25zZSkudmFsdWU7CgogICAgLy8gVGhlbgogICAgZXhwZWN0KGxvZ2luRGVzY3JpcHRvcikudG9FcXVhbChwdXQobG9naW5TdWNjZXNzZnVsKCkpKTsKICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICA8RmllbGQgbmFtZT0iZmlyc3ROYW1lIiBjb21wb25lbnQ9e0lucHV0fSBsYWJlbD0iRmlyc3QgTmFtZSIgcGxhY2Vob2xkZXI9IkZpcnN0IE5hbWUiIHR5cGU9InRleHQiIC8+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgZnMgPSByZXF1aXJlKCdmcycpOwpjb25zdCBwYXRoID0gcmVxdWlyZSgncGF0aCcpOwoK</text>
+        <text encoding="base64">ICAgICAgPGRpdj4KICAgICAgICA8bGFiZWwgaHRtbEZvcj0ibGFzdE5hbWUiPkxhc3QgTmFtZTwvbGFiZWw+CiAgICAgICAgPEZpZWxkIG5hbWU9Imxhc3ROYW1lIiBjb21wb25lbnQ9ImlucHV0IiB0eXBlPSJ0ZXh0IiAvPgogICAgICA8L2Rpdj4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CmNvbnN0IHByZXR0aWVyT3B0aW9ucyA9IEpTT04ucGFyc2UoCiAgZnMucmVhZEZpbGVTeW5jKHBhdGgucmVzb2x2ZShfX2Rpcm5hbWUsICcucHJldHRpZXJyYycpLCAndXRmOCcpLAopOwo=</text>
+        <text encoding="base64">ICAgICAgICA8RmllbGQgbmFtZT0iZW1haWwiIGNvbXBvbmVudD0iaW5wdXQiIHR5cGU9ImVtYWlsIiAvPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICdwcmV0dGllci9wcmV0dGllcic6IFsnZXJyb3InLCBwcmV0dGllck9wdGlvbnNdLAo=</text>
+        <text encoding="base64">ICAgICAgICA8bGFiZWwgaHRtbEZvcj0iZW1haWwiPkVtYWlsPC9sYWJlbD4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAicHJpbnRXaWR0aCI6IDEwMCwK</text>
+        <text encoding="base64">ICAgICAgPHA+Zm9vPC9wPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAibm8tbXVsdGlwbGUtZW1wdHktbGluZXMiOiBbImVycm9yIiwgeyAibWF4IjogMiB9XQo=</text>
+        <text encoding="base64">ICAgICAgICA8bGFiZWwgaHRtbEZvcj0iZmlyc3ROYW1lIj5GaXJzdCBOYW1lPC9sYWJlbD4K</text>
       </register>
-      <register name="6" type="4">
-        <text>[&quot;error&quot;, { &quot;max&quot;: 2 }]
-}</text>
+      <register name="6" type="2">
+        <text encoding="base64">Y29uc3Qgd2l0aEZvcm0gPSA7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICduby1tdWx0aXBsZS1lbXB0eS1saW5lcyc6IFsnZXJyb3InLCB7J21heCc6IDJ9XSwK</text>
+        <text encoding="base64">aW1wb3J0IGNvbXBvc2UgZnJvbQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IEN1c3RvbWVyRm9ybSBmcm9tICdjb21wb25lbnRzL0N1c3RvbWVyRm9ybSc7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IEN1c3RvbWVyRm9ybSBmcm9tICdjb21wb25lbnRzL0N1c3RvbWVyRm9ybSc7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action KJumpAction.Line</text>
       </register>
     </registers>
     <search>
-      <last-search>empty</last-search>
+      <last-search>inputTyp</last-search>
       <last-offset />
-      <last-pattern>empty</last-pattern>
+      <last-pattern>inputTyp</last-pattern>
       <last-replace />
       <last-substitute>chapar.</last-substitute>
       <last-dir>1</last-dir>
@@ -570,7 +593,6 @@
     </search>
     <history>
       <history-search>
-        <entry>dist</entry>
         <entry>print</entry>
         <entry>jarN</entry>
         <entry>M</entry>
@@ -590,6 +612,7 @@
         <entry>Foo</entry>
         <entry>multiple</entry>
         <entry>empty</entry>
+        <entry>inputTyp</entry>
       </history-search>
       <history-cmd>
         <entry>%s/chapar.//g</entry>
