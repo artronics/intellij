@@ -8,19 +8,19 @@
         <mark key="]" line="1" column="35" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/pawncade/frontend/app/containers/Login/tests/index.test.js" timestamp="1551025378791">
+      <file name="$USER_HOME$/projects/pawncade/frontend/app/containers/Login/tests/index.test.js" timestamp="1551034437924">
         <mark key="'" line="6" column="29" />
-        <mark key="[" line="40" column="15" />
-        <mark key="]" line="40" column="22" />
-        <mark key="^" line="40" column="22" />
-        <mark key="." line="40" column="22" />
+        <mark key="[" line="28" column="7" />
+        <mark key="]" line="17" column="29" />
+        <mark key="^" line="17" column="29" />
+        <mark key="." line="17" column="29" />
       </file>
-      <file name="$USER_HOME$/projects/pawncade/frontend/app/containers/Login/index.js" timestamp="1551025065941">
-        <mark key="'" line="38" column="33" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="6" />
-        <mark key="." line="36" column="6" />
-        <mark key="^" line="36" column="6" />
+      <file name="$USER_HOME$/projects/pawncade/frontend/app/containers/Login/index.js" timestamp="1551034394166">
+        <mark key="'" line="39" column="33" />
+        <mark key="[" line="29" column="25" />
+        <mark key="]" line="29" column="35" />
+        <mark key="." line="29" column="35" />
+        <mark key="^" line="29" column="35" />
       </file>
       <file name="$USER_HOME$/projects/pawncade/frontend/app/components/Card/index.js" timestamp="1550868067282">
         <mark key="[" line="8" column="0" />
@@ -446,10 +446,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>selectLoginDomain</text>
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text>selectLoginDomain</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>Foo</text>
