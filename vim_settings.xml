@@ -21,12 +21,12 @@
         <mark key="^" line="2" column="10" />
         <mark key="." line="2" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/pawncade/frontend/app/containers/Login/index.js" timestamp="1550972578873">
-        <mark key="'" line="26" column="25" />
-        <mark key="[" line="18" column="29" />
-        <mark key="]" line="18" column="32" />
-        <mark key="^" line="18" column="32" />
-        <mark key="." line="18" column="32" />
+      <file name="$USER_HOME$/projects/pawncade/frontend/app/containers/Login/index.js" timestamp="1550975090681">
+        <mark key="'" line="28" column="25" />
+        <mark key="[" line="17" column="17" />
+        <mark key="]" line="17" column="16" />
+        <mark key="." line="17" column="16" />
+        <mark key="^" line="17" column="16" />
       </file>
       <file name="$USER_HOME$/projects/pods/infrastructure/docker-registry/docker-registry.pod.yml" timestamp="1549218279152">
         <mark key="[" line="1" column="6" />
@@ -71,6 +71,12 @@
         <mark key="]" line="36" column="41" />
         <mark key="." line="36" column="41" />
         <mark key="^" line="36" column="41" />
+      </file>
+      <file name="$USER_HOME$/projects/pawncade/frontend/app/containers/Login/selectors.js" timestamp="1550973569722">
+        <mark key="[" line="7" column="35" />
+        <mark key="]" line="7" column="39" />
+        <mark key="^" line="7" column="39" />
+        <mark key="." line="7" column="39" />
       </file>
       <file name="$USER_HOME$/projects/pawncade/frontend/app/containers/NotFoundPage/tests/index.test.js" timestamp="1550957103251">
         <mark key="[" line="4" column="27" />
@@ -287,10 +293,10 @@
         <mark key="^" line="8" column="42" />
         <mark key="." line="8" column="42" />
       </file>
-      <file name="$USER_HOME$/projects/pawncade/frontend/app/containers/App/index.js" timestamp="1550957910825">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/projects/pawncade/frontend/app/containers/App/index.js" timestamp="1550974492274">
+        <mark key="[" line="17" column="14" />
+        <mark key="]" line="17" column="14" />
+        <mark key="." line="17" column="14" />
         <mark key="^" line="25" column="52" />
       </file>
       <file name="$USER_HOME$/projects/masir/masir-journey-producer/src/main/kotlin/com/artronics/masir/journey/producer/MasirJourneyProducerApplication.kt" timestamp="1544991594811">
@@ -428,10 +434,10 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">MTIwcHggYXV0byA=</text>
       </register>
       <register name="/" type="4">
         <text>button</text>
@@ -440,31 +446,33 @@
         <text encoding="base64">ICAgIGNvbnN0IGxvZ2luQnRuID0gbG9naW4uZmluZChQYW5lbCkuZmluZChMb2dpbkJ1dHRvbldyYXBwZXIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgaW5pdGlhbFN0YXRlID0gMDsKY29uc3QgaW5jcmVtZW50QWN0aW9uID0gKCkgPT4gewogIHJldHVybiB7CiAgICB0eXBlOiAnSU5DUkVNRU5UJywKICB9Owp9Owo=</text>
+        <text encoding="base64">LyogZXNsaW50LWRpc2FibGUgcmVhY3QvcHJlZmVyLXN0YXRlbGVzcy1mdW5jdGlvbiAqLwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgbWFwU3RhdGVUb1Byb3BzID0gY3JlYXRlU3RydWN0dXJlZFNlbGVjdG9yKHsKICBsb2dpbjogbWFrZVNlbGVjdExvZ2luKCksCn0pOwo=</text>
+        <text encoding="base64">ICAgICAgPHA+e3Byb3BzfSBraXI8L3A+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgbWFwU3RhdGVUb1Byb3BzID0gc3RhdGUgPT4gewogIHJldHVybiB7Y291bnQ6IHN0YXRlfTsKfTsK</text>
+        <text encoding="base64">ICAgIHJldHVybiAoCiAgICAgIDxkaXY+CiAgICAgICAgPHA+e3RoaXMucHJvcHMubG9naW59IGtpcjwvcD4KICAgICAgICA8TG9naW5Gb3JtIG9uTG9naW49eygpID0+IGNvbnNvbGUubG9nKCdraXInKX0vPgogICAgICA8L2Rpdj4KICAgICk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ki8K</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LyoK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gcmVkdWNlcihzdGF0ZSA9IGluaXRpYWxTdGF0ZSwgYWN0aW9uKSB7CiAgaWYgKGFjdGlvbi50eXBlID09PSAnSU5DUkVNRU5UJykgewogICAgcmV0dXJuIHN0YXRlKys7CiAgfQogIHJldHVybiBzdGF0ZTsKfQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">LyoK</text>
+      <register name="9" type="4">
+        <text>export class Login extends React.Component {
+  render() {
+    console.log(this.props.login);</text>
       </register>
       <register name=":" type="4">
         <text>action KJumpAction.Line</text>
