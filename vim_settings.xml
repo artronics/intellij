@@ -89,6 +89,13 @@
         <mark key="." line="4" column="27" />
         <mark key="^" line="4" column="27" />
       </file>
+      <file name="$USER_HOME$/projects/latex /resume/main.tex" timestamp="1552754618638">
+        <mark key="'" line="36" column="38" />
+        <mark key="[" line="106" column="1" />
+        <mark key="]" line="106" column="1" />
+        <mark key="." line="106" column="1" />
+        <mark key="^" line="106" column="39" />
+      </file>
       <file name="$USER_HOME$/projects/pods/infrastructure/infrastructure.PV.yml" timestamp="1549655213171">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -422,8 +429,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="0" filename="$USER_HOME$/projects/masir/masir-schema/build.gradle" />
-      <jump line="57" column="0" filename="$USER_HOME$/projects/masir/masir-schema/build.gradle" />
       <jump line="39" column="41" filename="$USER_HOME$/projects/masir/masir-journey-producer/src/main/kotlin/com/artronics/masir/journey/producer/converter/converter.kt" />
       <jump line="42" column="44" filename="$USER_HOME$/projects/masir/masir-journey-producer/src/test/kotlin/com/artronics/masir/journey/producer/converter/converter.kt" />
       <jump line="27" column="41" filename="$USER_HOME$/projects/masir/masir-journey-producer/src/test/kotlin/com/artronics/masir/journey/producer/converter/converter.kt" />
@@ -522,6 +527,8 @@
       <jump line="29" column="36" filename="$USER_HOME$/projects/pawncade/frontend/app/containers/Login/index.js" />
       <jump line="14" column="87" filename="$USER_HOME$/projects/pawncade/frontend/app/components/LoginForm/tests/index.test.js" />
       <jump line="20" column="38" filename="$USER_HOME$/projects/pawncade/frontend/app/components/LoginForm/tests/index.test.js" />
+      <jump line="60" column="22" filename="$USER_HOME$/projects/latex /resume/main.tex" />
+      <jump line="36" column="38" filename="$USER_HOME$/projects/latex /resume/main.tex" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -549,40 +556,40 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>inputT</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>inputT</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>inputTyp</text>
+        <text>928</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8RmllbGQgbmFtZT0iZmlyc3ROYW1lIiBjb21wb25lbnQ9e0lucHV0fSBsYWJlbD0iRmlyc3QgTmFtZSIgcGxhY2Vob2xkZXI9IkZpcnN0IE5hbWUiIHR5cGU9InRleHQiIC8+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgPGRpdj4KICAgICAgICA8bGFiZWwgaHRtbEZvcj0ibGFzdE5hbWUiPkxhc3QgTmFtZTwvbGFiZWw+CiAgICAgICAgPEZpZWxkIG5hbWU9Imxhc3ROYW1lIiBjb21wb25lbnQ9ImlucHV0IiB0eXBlPSJ0ZXh0IiAvPgogICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8RmllbGQgbmFtZT0iZW1haWwiIGNvbXBvbmVudD0iaW5wdXQiIHR5cGU9ImVtYWlsIiAvPgo=</text>
+        <text encoding="base64">ICAgICAgPGRpdj4KICAgICAgICA8bGFiZWwgaHRtbEZvcj0ibGFzdE5hbWUiPkxhc3QgTmFtZTwvbGFiZWw+CiAgICAgICAgPEZpZWxkIG5hbWU9Imxhc3ROYW1lIiBjb21wb25lbnQ9ImlucHV0IiB0eXBlPSJ0ZXh0IiAvPgogICAgICA8L2Rpdj4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8bGFiZWwgaHRtbEZvcj0iZW1haWwiPkVtYWlsPC9sYWJlbD4K</text>
+        <text encoding="base64">ICAgICAgICA8RmllbGQgbmFtZT0iZW1haWwiIGNvbXBvbmVudD0iaW5wdXQiIHR5cGU9ImVtYWlsIiAvPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPHA+Zm9vPC9wPgo=</text>
+        <text encoding="base64">ICAgICAgICA8bGFiZWwgaHRtbEZvcj0iZW1haWwiPkVtYWlsPC9sYWJlbD4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8bGFiZWwgaHRtbEZvcj0iZmlyc3ROYW1lIj5GaXJzdCBOYW1lPC9sYWJlbD4K</text>
+        <text encoding="base64">ICAgICAgPHA+Zm9vPC9wPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3Qgd2l0aEZvcm0gPSA7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8bGFiZWwgaHRtbEZvcj0iZmlyc3ROYW1lIj5GaXJzdCBOYW1lPC9sYWJlbD4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbXBvc2UgZnJvbQo=</text>
+        <text encoding="base64">Y29uc3Qgd2l0aEZvcm0gPSA7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IEN1c3RvbWVyRm9ybSBmcm9tICdjb21wb25lbnRzL0N1c3RvbWVyRm9ybSc7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbXBvc2UgZnJvbQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">aW1wb3J0IEN1c3RvbWVyRm9ybSBmcm9tICdjb21wb25lbnRzL0N1c3RvbWVyRm9ybSc7Cg==</text>
@@ -592,9 +599,9 @@
       </register>
     </registers>
     <search>
-      <last-search>inputTyp</last-search>
+      <last-search>928</last-search>
       <last-offset />
-      <last-pattern>inputTyp</last-pattern>
+      <last-pattern>928</last-pattern>
       <last-replace />
       <last-substitute>chapar.</last-substitute>
       <last-dir>1</last-dir>
@@ -602,8 +609,6 @@
     </search>
     <history>
       <history-search>
-        <entry>print</entry>
-        <entry>jarN</entry>
         <entry>M</entry>
         <entry>app</entry>
         <entry>met</entry>
@@ -622,6 +627,8 @@
         <entry>multiple</entry>
         <entry>empty</entry>
         <entry>inputTyp</entry>
+        <entry>Partha</entry>
+        <entry>928</entry>
       </history-search>
       <history-cmd>
         <entry>%s/chapar.//g</entry>
