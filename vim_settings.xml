@@ -39,6 +39,12 @@
         <mark key="^" line="1" column="9" />
         <mark key="." line="1" column="6" />
       </file>
+      <file name="$USER_HOME$/projects/latex /resume/src/USA STEM CV/section_headline.tex" timestamp="1552846060460">
+        <mark key="[" line="14" column="7" />
+        <mark key="]" line="14" column="7" />
+        <mark key="." line="14" column="7" />
+        <mark key="^" line="14" column="7" />
+      </file>
       <file name="$USER_HOME$/projects/pawncade/frontend/app/components/Input/index.js" timestamp="1551051320784">
         <mark key="[" line="24" column="2" />
         <mark key="]" line="24" column="5" />
@@ -404,6 +410,12 @@
         <mark key="]" line="47" column="14" />
         <mark key="." line="47" column="14" />
       </file>
+      <file name="$USER_HOME$/projects/latex /resume/src/USA STEM CV/cv.tex" timestamp="1552845702867">
+        <mark key="[" line="18" column="44" />
+        <mark key="]" line="18" column="45" />
+        <mark key="." line="18" column="45" />
+        <mark key="^" line="18" column="45" />
+      </file>
       <file name="$USER_HOME$/projects/pawncade/frontend/.prettierrc" timestamp="1551042219751">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -568,45 +580,44 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">L1VzZXJzL2FydHJvbmljcy9sYXRleC91c3IvbG9jYWwvdGV4bGl2ZS8yMDE4L2Jpbi94ODZfNjQtZGFyd2luCg==</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>Développeur et concepteur JEE depuis plusieurs années, j'ai également une expérience de développement sur l'ensemble de l'écosystème Java (Android, J2ME sur PDA et Javacard sur chipset NFC). J'occupe aujourd'hui un poste d'architecte logiciel et reste passionné par mon métier et par les nouvelles technologies en général. Particulièrement intéressé par les nouveaux usages  et les opportunités que peut amener le développement de la 4G sur le territoire, je souhaite poursuivre ma carrière sur des projets de développement mobile innovants en qualité d'architecte logiciel et/ou développeur/concepteur.</text>
       </register>
       <register name="/" type="4">
         <text>mobile</text>
       </register>
       <register name="0" type="4">
-        <text>}
-\usepackage{tabularx</text>
+        <text>jalalhosseiny@gmail.com</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">L1VzZXJzL2FydHJvbmljcy9sYXRleC91c3IvbG9jYWwvdGV4bGl2ZS8yMDE4L2Jpbi94ODZfNjQtZGFyd2luCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgPGRpdj4KICAgICAgICA8bGFiZWwgaHRtbEZvcj0ibGFzdE5hbWUiPkxhc3QgTmFtZTwvbGFiZWw+CiAgICAgICAgPEZpZWxkIG5hbWU9Imxhc3ROYW1lIiBjb21wb25lbnQ9ImlucHV0IiB0eXBlPSJ0ZXh0IiAvPgogICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">CVxsaW5rZWRpbntqYWxhbGhvc3NlaW5pfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8RmllbGQgbmFtZT0iZW1haWwiIGNvbXBvbmVudD0iaW5wdXQiIHR5cGU9ImVtYWlsIiAvPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8bGFiZWwgaHRtbEZvcj0iZW1haWwiPkVtYWlsPC9sYWJlbD4K</text>
+        <text encoding="base64">ICAgICAgPGRpdj4KICAgICAgICA8bGFiZWwgaHRtbEZvcj0ibGFzdE5hbWUiPkxhc3QgTmFtZTwvbGFiZWw+CiAgICAgICAgPEZpZWxkIG5hbWU9Imxhc3ROYW1lIiBjb21wb25lbnQ9ImlucHV0IiB0eXBlPSJ0ZXh0IiAvPgogICAgICA8L2Rpdj4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPHA+Zm9vPC9wPgo=</text>
+        <text encoding="base64">ICAgICAgICA8RmllbGQgbmFtZT0iZW1haWwiIGNvbXBvbmVudD0iaW5wdXQiIHR5cGU9ImVtYWlsIiAvPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8bGFiZWwgaHRtbEZvcj0iZmlyc3ROYW1lIj5GaXJzdCBOYW1lPC9sYWJlbD4K</text>
+        <text encoding="base64">ICAgICAgICA8bGFiZWwgaHRtbEZvcj0iZW1haWwiPkVtYWlsPC9sYWJlbD4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3Qgd2l0aEZvcm0gPSA7Cg==</text>
+        <text encoding="base64">ICAgICAgPHA+Zm9vPC9wPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbXBvc2UgZnJvbQo=</text>
+        <text encoding="base64">ICAgICAgICA8bGFiZWwgaHRtbEZvcj0iZmlyc3ROYW1lIj5GaXJzdCBOYW1lPC9sYWJlbD4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IEN1c3RvbWVyRm9ybSBmcm9tICdjb21wb25lbnRzL0N1c3RvbWVyRm9ybSc7Cg==</text>
+        <text encoding="base64">Y29uc3Qgd2l0aEZvcm0gPSA7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action KJumpAction.Line</text>
