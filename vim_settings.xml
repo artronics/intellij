@@ -28,12 +28,12 @@
         <mark key="^" line="2" column="10" />
         <mark key="." line="2" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/latex /resume/src/USA STEM CV/section_skills.tex" timestamp="1552907238794">
+      <file name="$USER_HOME$/projects/latex /resume/src/USA STEM CV/section_skills.tex" timestamp="1552915543146">
         <mark key="'" line="19" column="106" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
-        <mark key="^" line="37" column="41" />
+        <mark key="[" line="38" column="98" />
+        <mark key="]" line="38" column="97" />
+        <mark key="." line="38" column="97" />
+        <mark key="^" line="38" column="97" />
       </file>
       <file name="$USER_HOME$/projects/pods/infrastructure/docker-registry/docker-registry.pod.yml" timestamp="1549218279152">
         <mark key="[" line="1" column="6" />
@@ -574,16 +574,16 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>item</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CXtKYXZhLCBTcHJpbmcgYm9vdCwgQW5ndWxhciwgVHlwZXNjcmlwdH0K</text>
+        <text encoding="base64">CQlca2V5d29yZHNlbnRyeXtEYXRhYmFzZX17CgkJXHRleHRiZntQb3N0Z3JlU1FMLCBNeVNRTCB8IEhpYmVybmF0ZSwgSlBBfQoJCVxiZWdpbntpdGVtaXplfQoJCQlcaXRlbSBGYW1pbGlhciB3aXRoIFJlbGF0aW9uYWwgRGF0YWJhc2UsIGRlc2lnbiBwcmluY2lwbGVzCgkJCVxpdGVtIFNraWxsIGluIE9STSBmcmFtZXdvcmtzCgkJXGVuZHtpdGVtaXplfQoJCX0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CXtUZW1wbGF0ZSBcTGFUZVggcG91ciBDdXJpY3VsdW0gVml0w6YgdXRpbGlzYW50IGxlcyBpY8O0bmVzIFxocmVme2h0dHBzOi8vZm9udGF3ZXNvbWUuY29tfXtGb250IEF3ZXNvbWV9IGV0IGxhIHBvbGljZSBkZSBjYXJhY3TDqHJlIFxocmVme2h0dHBzOi8vZm9udHMuZ29vZ2xlLmNvbS9zcGVjaW1lbi9Tb3VyY2UrU2FucytQcm99e0Fkb2JlIFNvdXJjZSBTYW5zIFByb30uIFlBQUMgQW5vdGhlciBBd2Vzb21lIENWIGEgZCdhYm9yZCDDqXTDqSBjcsOpw6kgY29tbWUgdW4gdGVtcGxhdGUgc2ltcGxlIHBvdXIgQ1Ygw6Agdm9jYXRpb24gdGVjaG5vbG9naXF1ZS59Cg==</text>
