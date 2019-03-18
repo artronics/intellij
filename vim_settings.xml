@@ -214,12 +214,12 @@
         <mark key="." line="2" column="50" />
         <mark key="^" line="2" column="50" />
       </file>
-      <file name="$USER_HOME$/projects/latex /resume/src/USA STEM CV/section_honors_awards.tex" timestamp="1552907975915">
+      <file name="$USER_HOME$/projects/latex /resume/src/USA STEM CV/section_honors_awards.tex" timestamp="1552908569260">
         <mark key="'" line="16" column="21" />
-        <mark key="[" line="18" column="128" />
-        <mark key="]" line="18" column="131" />
-        <mark key="." line="18" column="131" />
-        <mark key="^" line="18" column="131" />
+        <mark key="[" line="27" column="150" />
+        <mark key="]" line="28" column="100" />
+        <mark key="." line="28" column="100" />
+        <mark key="^" line="28" column="100" />
       </file>
       <file name="$USER_HOME$/projects/masir/masir-journey-consumer/src/main/kotlin/com/artronics/masir/journey/consumer/MasirJourneyConsumerApplication.kt" timestamp="1544924691806">
         <mark key="[" line="9" column="19" />
@@ -561,16 +561,16 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Italy</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>Italy</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>item</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CVxzY2hvbGFyc2hpcGVudHJ5ezIwMTZ9CgkJCQkJe1x0ZXh0YmZ7TS5TYyBpbiBUZWxlY29tbXVuaWNhdGlvbiBFbmdpbmVlcmluZ30sIFxlbXBoe1VuaXZlcnNpdHkgb2YgQm9sb2duYX0sIEJvbG9nbmEsIEl0YWx5fQo=</text>
+        <text encoding="base64">CVxzY2hvbGFyc2hpcGVudHJ5ezIwMTB9CiAgICAgICAgICAgICAgICAgICAge1x0ZXh0YmZ7Qi5TYyBpbiBFbGVjdHJvbmljcyBhbmQgVGVsZWNvbW11bmljYXRpb24gRW5naW5lZXJpbmcgKEVUTSl9LCBcZW1waHtVbml2ZXJzaXR5IG9mIFphbmphbn0sIFphbmphbiwgSXJhbn0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CVxzY2hvbGFyc2hpcGVudHJ5ezIwMDV9CgkJCQkJe0xpY2VuY2UgU2NpZW5jZXMgZXQgVGVjaG5vbG9naWVzLCBNZW50aW9uIEluZm9ybWF0aXF1ZSwgZGUgbCdVbml2ZXJzaXTDqSBkZSBOb3V2ZWxsZS1DYWzDqWRvbmllfQoJXHNjaG9sYXJzaGlwZW50cnl7MjAwNH0KCQkJCQl7QlRTIEluZm9ybWF0aXF1ZSBkZSBHZXN0aW9uIG9wdGlvbiBhZG1pbmlzdHJhdGV1cnMgZGUgcsOpc2VhdXh9Cglcc2Nob2xhcnNoaXBlbnRyeXsyMDAwfQoJCQkJCXtCYWNjYWxhdXLDqWF0IFNjaWVudGlmaXF1ZSBvcHRpb24gTWF0aMOpbWF0aXF1ZXN9Cg==</text>
