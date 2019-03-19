@@ -28,12 +28,12 @@
         <mark key="^" line="2" column="10" />
         <mark key="." line="2" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/latex /resume/src/USA STEM CV/section_skills.tex" timestamp="1553019350377">
+      <file name="$USER_HOME$/projects/latex /resume/src/USA STEM CV/section_skills.tex" timestamp="1553037468415">
         <mark key="'" line="19" column="106" />
-        <mark key="[" line="12" column="25" />
-        <mark key="]" line="12" column="28" />
-        <mark key="." line="12" column="28" />
-        <mark key="^" line="12" column="28" />
+        <mark key="[" line="46" column="28" />
+        <mark key="]" line="46" column="27" />
+        <mark key="." line="46" column="27" />
+        <mark key="^" line="46" column="27" />
       </file>
       <file name="$USER_HOME$/projects/pods/infrastructure/docker-registry/docker-registry.pod.yml" timestamp="1549218279152">
         <mark key="[" line="1" column="6" />
@@ -41,11 +41,11 @@
         <mark key="^" line="1" column="9" />
         <mark key="." line="1" column="6" />
       </file>
-      <file name="$USER_HOME$/projects/latex /resume/src/USA STEM CV/section_headline.tex" timestamp="1553019992346">
-        <mark key="[" line="16" column="80" />
-        <mark key="]" line="16" column="80" />
-        <mark key="." line="16" column="80" />
-        <mark key="^" line="16" column="80" />
+      <file name="$USER_HOME$/projects/latex /resume/src/USA STEM CV/section_headline.tex" timestamp="1553037159783">
+        <mark key="[" line="16" column="87" />
+        <mark key="]" line="16" column="85" />
+        <mark key="." line="16" column="85" />
+        <mark key="^" line="16" column="85" />
       </file>
       <file name="$USER_HOME$/projects/pawncade/frontend/app/components/Input/index.js" timestamp="1551051320784">
         <mark key="[" line="24" column="2" />
@@ -135,18 +135,18 @@
         <mark key="." line="81" column="50" />
         <mark key="^" line="81" column="48" />
       </file>
-      <file name="$USER_HOME$/projects/latex /resume/src/USA STEM CV/section_experience.tex" timestamp="1553019486881">
-        <mark key="[" line="11" column="45" />
-        <mark key="]" line="11" column="45" />
-        <mark key="^" line="11" column="45" />
-        <mark key="." line="11" column="45" />
+      <file name="$USER_HOME$/projects/latex /resume/src/USA STEM CV/section_experience.tex" timestamp="1553037369726">
+        <mark key="[" line="61" column="95" />
+        <mark key="]" line="61" column="129" />
+        <mark key="." line="61" column="129" />
+        <mark key="^" line="61" column="129" />
       </file>
-      <file name="$USER_HOME$/projects/latex /resume/src/USA STEM CV/section_projects.tex" timestamp="1553019920012">
+      <file name="$USER_HOME$/projects/latex /resume/src/USA STEM CV/section_projects.tex" timestamp="1553037059356">
         <mark key="'" line="24" column="4" />
-        <mark key="[" line="19" column="44" />
-        <mark key="]" line="20" column="5" />
-        <mark key="." line="20" column="5" />
-        <mark key="^" line="20" column="5" />
+        <mark key="[" line="26" column="87" />
+        <mark key="]" line="26" column="87" />
+        <mark key="." line="26" column="87" />
+        <mark key="^" line="26" column="108" />
       </file>
       <file name="$USER_HOME$/projects/pawncade/frontend/app/components/NavLink/tests/index.test.js" timestamp="1550949944407">
         <mark key="[" line="17" column="44" />
@@ -234,12 +234,12 @@
         <mark key="." line="2" column="50" />
         <mark key="^" line="2" column="50" />
       </file>
-      <file name="$USER_HOME$/projects/latex /resume/src/USA STEM CV/section_honors_awards.tex" timestamp="1552920430698">
+      <file name="$USER_HOME$/projects/latex /resume/src/USA STEM CV/section_honors_awards.tex" timestamp="1553037528861">
         <mark key="'" line="16" column="21" />
-        <mark key="[" line="16" column="113" />
-        <mark key="]" line="17" column="31" />
-        <mark key="." line="17" column="31" />
-        <mark key="^" line="17" column="31" />
+        <mark key="[" line="34" column="76" />
+        <mark key="]" line="34" column="76" />
+        <mark key="." line="34" column="76" />
+        <mark key="^" line="34" column="76" />
       </file>
       <file name="$USER_HOME$/projects/masir/masir-journey-consumer/src/main/kotlin/com/artronics/masir/journey/consumer/MasirJourneyConsumerApplication.kt" timestamp="1544924691806">
         <mark key="[" line="9" column="19" />
@@ -581,10 +581,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">Y29vcGVyYXRpdmUgYW5kIA==</text>
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y29vcGVyYXRpdmUgYW5kIA==</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>projects</text>
@@ -593,31 +593,31 @@
         <text encoding="base64">XG5ld2NvbW1hbmRccHJvamVjdFs1XXsKICBcYmVnaW57bWluaXBhZ2V9W3Rde1xkaW1leHByKFxsaW5ld2lkdGgpIC0gMS41ZW19CiAgICBcdGV4dGJme1x0ZXh0c2N7IzF9fSBcaGZpbGwgXHRleHRzY3sjMn1cc21hbGxza2lwXFwKICAgICMzXFwKICAgICM0XHNtYWxsc2tpcFxcCiAgICBcZm9vdG5vdGVzaXple1xmb3JlYWNoIFxuIGluIHsjNX17XGN2dGFne1xufX19XFwKICBcZW5ke21pbmlwYWdlfQogIFxcKgp9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgRHVyaW5nIHRoaXMgcGVyaW9kIEkgZGlkbid0IGhhdmUgcGVybWlzc2lvbiB0byB3b3JrIGluIFVLLCBleGNlcHQgZm9yIHZvbHVudGVlciB3b3JrCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgRAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBcaXRlbSAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQl7LX0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CVxyZWZlcmVlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgRAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CVxyZWZlcmVlbm9waG9uZQo=</text>
+        <text encoding="base64">CQl7LX0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB7LX0K</text>
+        <text encoding="base64">CVxyZWZlcmVlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgXHF1YWQgXGZhUGhvbmUgJiAjNSBcXAo=</text>
+        <text encoding="base64">CVxyZWZlcmVlbm9waG9uZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBcaXRlbSBXb3JraW5nIG9uIGRpZmZlcmVudCBwcm9qZWN0cywgdmFyaWV0eSBvZiBwcm9ncmFtbWluZyBsYW5ndWFnZXMgYW5kIGZyYW1ld29ya3MK</text>
+        <text encoding="base64">ICAgICAgICB7LX0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgXGl0ZW0gRXZvbHV0aW9ucyBldCBjb3JyZWN0aW9ucyBkZXMgYnVncyBkdSBmcmFtZXdvcmsgZGUgZMOpdmVsb3BwZW1lbnQgaW50ZXJuZSAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgXHF1YWQgXGZhUGhvbmUgJiAjNSBcXAo=</text>
       </register>
       <register name=":" type="4">
         <text>action KJumpAction.Line</text>
