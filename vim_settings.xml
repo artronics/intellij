@@ -9,24 +9,18 @@
         <mark key="." line="32" column="26" />
         <mark key="^" line="32" column="26" />
       </file>
-      <file name="$USER_HOME$/projects/latex/resume/src/embedded-system-eng/section_skills.tex" timestamp="1553132272230">
-        <mark key="[" line="16" column="60" />
-        <mark key="]" line="16" column="59" />
-        <mark key="^" line="16" column="59" />
-        <mark key="." line="16" column="59" />
+      <file name="$USER_HOME$/projects/latex/resume/src/embedded-system-eng/section_skills.tex" timestamp="1553133147017">
+        <mark key="'" line="25" column="80" />
+        <mark key="[" line="51" column="37" />
+        <mark key="]" line="51" column="59" />
+        <mark key="^" line="51" column="59" />
+        <mark key="." line="51" column="59" />
       </file>
       <file name="$USER_HOME$/projects/pawncade/frontend/app/components/SignUpForm/messages.js" timestamp="1550958737833">
         <mark key="[" line="5" column="2" />
         <mark key="]" line="5" column="7" />
         <mark key="." line="5" column="7" />
         <mark key="^" line="5" column="7" />
-      </file>
-      <file name="$USER_HOME$/projects/pawncade/frontend/app/containers/Login/index.js" timestamp="1551050438662">
-        <mark key="'" line="29" column="36" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="32" />
-        <mark key="." line="38" column="28" />
-        <mark key="^" line="38" column="28" />
       </file>
       <file name="$USER_HOME$/projects/masir/masir-journey-producer/docker/.gitignore" timestamp="1544999396891">
         <mark key="[" line="1" column="11" />
@@ -77,26 +71,12 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="15" column="37" />
       </file>
-      <file name="$USER_HOME$/projects/pawncade/frontend/app/components/Button/index.js" timestamp="1550969220393">
-        <mark key="'" line="36" column="36" />
-        <mark key="[" line="27" column="15" />
-        <mark key="]" line="27" column="37" />
-        <mark key="^" line="27" column="37" />
-        <mark key="." line="27" column="37" />
-      </file>
       <file name="$USER_HOME$/projects/latex /resume/src/USA STEM CV/documentMETADATA.cls" timestamp="1553098009083">
         <mark key="'" line="236" column="100" />
         <mark key="[" line="227" column="85" />
         <mark key="]" line="227" column="85" />
         <mark key="." line="227" column="85" />
         <mark key="^" line="437" column="24" />
-      </file>
-      <file name="$USER_HOME$/projects/pawncade/frontend/app/components/LoginForm/index.js" timestamp="1551051382495">
-        <mark key="'" line="24" column="8" />
-        <mark key="[" line="36" column="13" />
-        <mark key="]" line="36" column="13" />
-        <mark key="." line="36" column="13" />
-        <mark key="^" line="35" column="13" />
       </file>
       <file name="$USER_HOME$/projects/pawncade/frontend/app/containers/Login/selectors.js" timestamp="1551040185235">
         <mark key="[" line="9" column="60" />
@@ -166,12 +146,12 @@
         <mark key="^" line="4" column="26" />
         <mark key="." line="17" column="44" />
       </file>
-      <file name="$USER_HOME$/projects/pawncade/frontend/app/containers/Login/tests/saga.test.js" timestamp="1551041032603">
-        <mark key="'" line="13" column="46" />
-        <mark key="[" line="35" column="40" />
-        <mark key="]" line="35" column="52" />
-        <mark key="." line="35" column="52" />
-        <mark key="^" line="35" column="52" />
+      <file name="$USER_HOME$/projects/latex/resume/src/embedded-system-eng/section_projects.tex" timestamp="1553133889835">
+        <mark key="'" line="22" column="17" />
+        <mark key="[" line="37" column="5" />
+        <mark key="]" line="38" column="105" />
+        <mark key="." line="37" column="5" />
+        <mark key="^" line="36" column="29" />
       </file>
       <file name="$USER_HOME$/projects/pawncade/frontend/app/components/Button/tests/index.test.js" timestamp="1550966516893">
         <mark key="[" line="65" column="50" />
@@ -209,13 +189,6 @@
         <mark key="^" line="10" column="106" />
         <mark key="." line="25" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/pawncade/frontend/app/containers/Login/tests/reducer.test.js" timestamp="1551027906384">
-        <mark key="'" line="23" column="49" />
-        <mark key="[" line="25" column="53" />
-        <mark key="]" line="25" column="57" />
-        <mark key="." line="25" column="57" />
-        <mark key="^" line="25" column="57" />
-      </file>
       <file name="$USER_HOME$/projects/pawncade/frontend/app/containers/customer/messages.js" timestamp="1551050134135">
         <mark key="[" line="6" column="23" />
         <mark key="]" line="6" column="23" />
@@ -246,11 +219,11 @@
         <mark key="." line="2" column="50" />
         <mark key="^" line="2" column="50" />
       </file>
-      <file name="$USER_HOME$/projects/latex/resume/src/embedded-system-eng/embedde.tex" timestamp="1553131034091">
-        <mark key="[" line="11" column="31" />
-        <mark key="]" line="11" column="56" />
+      <file name="$USER_HOME$/projects/latex/resume/src/embedded-system-eng/embedde.tex" timestamp="1553133989278">
+        <mark key="[" line="19" column="11" />
+        <mark key="]" line="19" column="11" />
         <mark key="^" line="11" column="56" />
-        <mark key="." line="11" column="56" />
+        <mark key="." line="19" column="11" />
       </file>
       <file name="$USER_HOME$/projects/latex /resume/src/USA STEM CV/section_honors_awards.tex" timestamp="1553097771009">
         <mark key="'" line="16" column="21" />
@@ -271,25 +244,11 @@
         <mark key="." line="19" column="31" />
         <mark key="^" line="19" column="31" />
       </file>
-      <file name="$USER_HOME$/projects/pawncade/frontend/app/containers/Login/tests/selectors.test.js" timestamp="1551042468192">
-        <mark key="'" line="12" column="10" />
-        <mark key="[" line="24" column="42" />
-        <mark key="]" line="24" column="46" />
-        <mark key="." line="24" column="46" />
-        <mark key="^" line="24" column="46" />
-      </file>
       <file name="$USER_HOME$/projects/masir/masir-journey-consumer/src/main/kotlin/com/artronics/masir/journey/consumer/route.kt" timestamp="1544926297333">
         <mark key="[" line="21" column="21" />
         <mark key="]" line="21" column="33" />
         <mark key="." line="21" column="33" />
         <mark key="^" line="21" column="33" />
-      </file>
-      <file name="$USER_HOME$/projects/pawncade/frontend/app/components/SignUpForm/index.js" timestamp="1551041235172">
-        <mark key="'" line="17" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="15" column="47" />
       </file>
       <file name="$USER_HOME$/projects/pods/infrastructure/docker-registry/docker-registry.PV.yml" timestamp="1549401826500">
         <mark key="[" line="0" column="0" />
@@ -332,13 +291,6 @@
         <mark key="]" line="32" column="3" />
         <mark key="^" line="32" column="3" />
         <mark key="." line="32" column="3" />
-      </file>
-      <file name="$USER_HOME$/projects/pawncade/frontend/app/components/LoginForm/tests/index.test.js" timestamp="1551051415862">
-        <mark key="'" line="20" column="38" />
-        <mark key="[" line="31" column="38" />
-        <mark key="]" line="31" column="38" />
-        <mark key="." line="31" column="38" />
-        <mark key="^" line="20" column="38" />
       </file>
       <file name="$USER_HOME$/projects/pods/infrastructure/postgres/postgres.Secret.yml" timestamp="1550447928071">
         <mark key="[" line="3" column="23" />
@@ -470,10 +422,13 @@
         <mark key="^" line="6" column="3" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/latex/resume/src/embedded-system-eng/section_honors_awards.tex" timestamp="1553133933005">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="16" filename="$USER_HOME$/projects/pods/infrastructure/docker-registry/docker-registry.yml" />
-      <jump line="28" column="23" filename="$USER_HOME$/projects/pods/infrastructure/docker-registry/docker-registry.yml" />
       <jump line="0" column="18" filename="$USER_HOME$/projects/pods/infrastructure/docker-registry/docker-registry.yml" />
       <jump line="24" column="0" filename="$USER_HOME$/projects/pods/infrastructure/docker-registry/docker-registry.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/pods/infrastructure/postgres/postgres.PVC.yml" />
@@ -572,6 +527,8 @@
       <jump line="58" column="23" filename="$USER_HOME$/projects/latex /resume/src/USA STEM CV/documentMETADATA.cls" />
       <jump line="227" column="85" filename="$USER_HOME$/projects/latex /resume/src/USA STEM CV/documentMETADATA.cls" />
       <jump line="236" column="100" filename="$USER_HOME$/projects/latex /resume/src/USA STEM CV/documentMETADATA.cls" />
+      <jump line="25" column="80" filename="$USER_HOME$/projects/latex/resume/src/embedded-system-eng/section_skills.tex" />
+      <jump line="22" column="17" filename="$USER_HOME$/projects/latex/resume/src/embedded-system-eng/section_projects.tex" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -599,52 +556,55 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Permission to work in the UK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Permission to work in the UK</text>
       </register>
       <register name="/" type="4">
-        <text>fr</text>
+        <text>emp</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIFxiZWdpbntpdGVtaXplfQogICAgICAgICAgICAgICAgICAgICAgICAgIFxpdGVtIFRpbWUgYW5kIEF0dGVuZGFuY2UgU3lzdGVtIChUZWNoIExlYWQsIEVtYmVkZGVkIEMsIE1pY3JvY29udHJvbGxlcikKICAgICAgICAgICAgICAgICAgICAgICAgICBcaXRlbSBFeHBhbmRhYmxlIExpZnQgQ29udHJvbGxlciBib2FyZCB1c2luZyBDQU4gcHJvdG9jb2wgKEVtYmVkZGVkIEMsIE1pY3JvY29udHJvbGxlcikKICAgICAgICAgICAgICAgICAgICAgICAgICBcaXRlbSBJbmR1c3RyaWFsIEVtZXJnZW5jeSBTTVMgdHJhbnNtaXR0ZXIgdXNpbmcgR1NNIE1vZGVtIGFuZCBMQUJWaWV3CiAgICAgICAgICAgICAgICAgICAgICBcZW5ke2l0ZW1pemV9Cg==</text>
+      <register name="0" type="4">
+        <text>The system utilises an ARM Contex-M3 board running uC/OS-II which is a Real-Time Operating System (RTOS).
+	A fixed number of real-time processes analyses sensors' data and controls the servo motors positions.</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIFxpdGVtIEV4cGFuZGFibGUgTGlmdCBDb250cm9sbGVyIGJvYXJkIHVzaW5nIENBTiBwcm90b2NvbCAoRW1iZWRkZWQgQywgTWljcm9jb250cm9sbGVyKQo=</text>
+        <text encoding="base64">CiAgICBcXAoJXHNjaG9sYXJzaGlwZW50cnl7TWFzdGVyIFRoZXNpc30KCXtcdGV4dGJme1NvZnR3YXJlLURlZmluZWQgV2lyZWxlc3MgU2Vuc29yIE5ldHdvcmtzIChTRFdTTikufSBBIE5ldHdvcmsgQ29udHJvbGxlciAoSmF2YSkgaXMgcmVzcG9uc2libGUgdG8KCW1hbmFnZSByZXNvdXJjZXMgYW5kIHByb3ZpZGVzIHJvdXRpbmcgc3RyYXRlZ2llcyBmb3IgaXRzIFdpcmVsZXNzIFNlbnNvciBOZXR3b3JrcyAoV1NOKSBpbiBib3RoIGNlbnRyYWxpc2VkIGFuZCBkaXN0cmlidXRlZCB3YXkuCglUaGlzIENvbnRyb2xsZXIgZXhwb3NlcyBSRVNUIEFQSSBmb3IgYSBjbGllbnQgYXBwbGljYXRpb24gKGFuZ3VsYXIpLgoJXHZzcGFjZXsuMmNtfQoJfQoKCglcc2Nob2xhcnNoaXBlbnRyeXs0dGggeWVhcn0KCXtcdGV4dGJme01vdGlvbiBDb250cm9sbGVkIFJvYm90aWMgQXJtLn0gVGhlIHN5c3RlbSB1dGlsaXNlcyBhbiBBUk0gQ29udGV4LU0zIGJvYXJkIHJ1bm5pbmcgdUMvT1MtSUkgd2hpY2ggaXMgYSBSZWFsLVRpbWUgT3BlcmF0aW5nIFN5c3RlbSAoUlRPUykuCglBIGZpeGVkIG51bWJlciBvZiByZWFsLXRpbWUgcHJvY2Vzc2VzIGFuYWx5c2VzIHNlbnNvcnMnIGRhdGEgYW5kIGNvbnRyb2xzIHRoZSBzZXJ2byBtb3RvcnMgcG9zaXRpb25zLn0K</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIFxpdGVtIFRpbWUgYW5kIEF0dGVuZGFuY2UgU3lzdGVtIChUZWNoIExlYWQsIEVtYmVkZGVkIEMsIE1pY3JvY29udHJvbGxlcikK</text>
+      <register name="2" type="4">
+        <text>A Network Controller (Java) is responsible to
+	manage resources and provides routing strategies for its Wireless Sensor Networks (WSN) in both centralised and distributed way.
+	This Controller exposes REST API for a client application (angular).</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBcaXRlbSBEZXNpZ24gCiAgICAgICAgICAgICAgICAgICAgICAgICAgXGl0ZW0gRmFtaWxpYXIgd2l0aCAK</text>
+      <register name="3" type="4">
+        <text encoding="base64">QSBzeXN0ZW0gd2hpY2ggYWdncmVnYXRlcyBkaWZmZXJlbnQgcmFpbCBkYXRhIGZlZWRzIGFuZCBmZWVkIHRoZW0gdG8gdHdvIGRpZmZlcmVudCBzdWJzeXN0ZW1zIHRvIHByb3ZpZGUgcHJlZGljdGlvbnMuCglJIGFjY29tcGxpc2hlZCB0aGUgY29udmVyc2lvbiBvZiAzSyBsaW5lcyBvZiBQeXRob24gY29kZSB0byBKYXZhIHVuZGVyIHRoZSBwcmVzc3VyZSBvZiBhIHRpZ2h0IGRlYWRsaW5lLiA=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CVRoaXMgQ29udHJvbGxlciB3b3JrcyBib3RoIGFzIENlbnRyYWxpc2VkIGFuZCBEaXN0cmlidXRlZAo=</text>
+        <text encoding="base64">CSUJe30K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgXGl0ZW0gCg==</text>
+        <text encoding="base64">JQl7fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgRHVyaW5nIHRoaXMgcGVyaW9kIEkgZGlkbid0IGhhdmUgcGVybWlzc2lvbiB0byB3b3JrIGluIFVLLCBleGNlcHQgZm9yIHZvbHVudGVlciB3b3JrCg==</text>
+        <text encoding="base64">CVxpbnB1dHtzZWN0aW9uX2hvbm9yc19hd2FyZHN9CQkJJSBTZWN0aW9uIEhvbm9ycyBhbmQgQXdhcmRzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBcaXRlbSAK</text>
+        <text encoding="base64">CQkJXGl0ZW0gRXhwZXJpZW5jZSB3aXRoIFx0ZXh0YmZ7U1BJLCBJMkMsIFVBUlQsIFVTQiwgQ0FOLCBQV00sIERNQSwgQURDfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">CQkJXGl0ZW0gQ29tcHJlaGVuc2l2ZSBrbm93bGVkZ2UgaW4gXHRleHRiZntJRUVFLTgwMi4xNS4wNH0gYW5kIGZhbWlsaWFyIHdpdGggXHRleHRiZntaaWdiZWV9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgRAo=</text>
+        <text encoding="base64">CQkJXGl0ZW0gRmFtaWxpYXIgd2l0aCBcdGV4dGJme1JFU1R9IHByaW5jaXBsZXMgYW5kIFx0ZXh0YmZ7QVBJfSBkZXNpZ24gYmVzdCBwcmFjdGljZXMK</text>
       </register>
       <register name=":" type="4">
         <text>action KJumpAction.Line</text>
       </register>
     </registers>
     <search>
-      <last-search>fr</last-search>
+      <last-search>emp</last-search>
       <last-offset />
-      <last-pattern>fr</last-pattern>
+      <last-pattern>emp</last-pattern>
       <last-replace />
       <last-substitute>chapar.</last-substitute>
       <last-dir>1</last-dir>
@@ -652,8 +612,6 @@
     </search>
     <history>
       <history-search>
-        <entry>title</entry>
-        <entry>button</entry>
         <entry>Foo</entry>
         <entry>multiple</entry>
         <entry>empty</entry>
@@ -672,6 +630,8 @@
         <entry>projects</entry>
         <entry>french</entry>
         <entry>fr</entry>
+        <entry>Vim</entry>
+        <entry>emp</entry>
       </history-search>
       <history-cmd>
         <entry>%s/chapar.//g</entry>
