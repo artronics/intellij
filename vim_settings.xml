@@ -9,6 +9,12 @@
         <mark key="." line="32" column="26" />
         <mark key="^" line="32" column="26" />
       </file>
+      <file name="$USER_HOME$/projects/latex/resume/src/embedded-system-eng/section_skills.tex" timestamp="1553132272230">
+        <mark key="[" line="16" column="60" />
+        <mark key="]" line="16" column="59" />
+        <mark key="^" line="16" column="59" />
+        <mark key="." line="16" column="59" />
+      </file>
       <file name="$USER_HOME$/projects/pawncade/frontend/app/components/SignUpForm/messages.js" timestamp="1550958737833">
         <mark key="[" line="5" column="2" />
         <mark key="]" line="5" column="7" />
@@ -116,6 +122,12 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
         <mark key="^" line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/latex/resume/src/embedded-system-eng/section_experience.tex" timestamp="1553132031996">
+        <mark key="[" line="78" column="32" />
+        <mark key="]" line="78" column="86" />
+        <mark key="^" line="78" column="86" />
+        <mark key="." line="78" column="86" />
       </file>
       <file name="$USER_HOME$/projects/masir/masir-journey-consumer/src/test/kotlin/com/artronics/masir/journey/consumer/JourneyConsumerRouteTest.kt" timestamp="1544926466553">
         <mark key="[" line="47" column="0" />
@@ -233,6 +245,12 @@
         <mark key="]" line="2" column="50" />
         <mark key="." line="2" column="50" />
         <mark key="^" line="2" column="50" />
+      </file>
+      <file name="$USER_HOME$/projects/latex/resume/src/embedded-system-eng/embedde.tex" timestamp="1553131034091">
+        <mark key="[" line="11" column="31" />
+        <mark key="]" line="11" column="56" />
+        <mark key="^" line="11" column="56" />
+        <mark key="." line="11" column="56" />
       </file>
       <file name="$USER_HOME$/projects/latex /resume/src/USA STEM CV/section_honors_awards.tex" timestamp="1553097771009">
         <mark key="'" line="16" column="21" />
@@ -581,43 +599,43 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>/fr</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>/fr</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>fr</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">XG5ld2NvbW1hbmRccHJvamVjdFs1XXsKICBcYmVnaW57bWluaXBhZ2V9W3Rde1xkaW1leHByKFxsaW5ld2lkdGgpIC0gMS41ZW19CiAgICBcdGV4dGJme1x0ZXh0c2N7IzF9fSBcaGZpbGwgXHRleHRzY3sjMn1cc21hbGxza2lwXFwKICAgICMzXFwKICAgICM0XHNtYWxsc2tpcFxcCiAgICBcZm9vdG5vdGVzaXple1xmb3JlYWNoIFxuIGluIHsjNX17XGN2dGFne1xufX19XFwKICBcZW5ke21pbmlwYWdlfQogIFxcKgp9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIFxiZWdpbntpdGVtaXplfQogICAgICAgICAgICAgICAgICAgICAgICAgIFxpdGVtIFRpbWUgYW5kIEF0dGVuZGFuY2UgU3lzdGVtIChUZWNoIExlYWQsIEVtYmVkZGVkIEMsIE1pY3JvY29udHJvbGxlcikKICAgICAgICAgICAgICAgICAgICAgICAgICBcaXRlbSBFeHBhbmRhYmxlIExpZnQgQ29udHJvbGxlciBib2FyZCB1c2luZyBDQU4gcHJvdG9jb2wgKEVtYmVkZGVkIEMsIE1pY3JvY29udHJvbGxlcikKICAgICAgICAgICAgICAgICAgICAgICAgICBcaXRlbSBJbmR1c3RyaWFsIEVtZXJnZW5jeSBTTVMgdHJhbnNtaXR0ZXIgdXNpbmcgR1NNIE1vZGVtIGFuZCBMQUJWaWV3CiAgICAgICAgICAgICAgICAgICAgICBcZW5ke2l0ZW1pemV9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CVRoaXMgQ29udHJvbGxlciB3b3JrcyBib3RoIGFzIENlbnRyYWxpc2VkIGFuZCBEaXN0cmlidXRlZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIFxpdGVtIEV4cGFuZGFibGUgTGlmdCBDb250cm9sbGVyIGJvYXJkIHVzaW5nIENBTiBwcm90b2NvbCAoRW1iZWRkZWQgQywgTWljcm9jb250cm9sbGVyKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgXGl0ZW0gCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIFxpdGVtIFRpbWUgYW5kIEF0dGVuZGFuY2UgU3lzdGVtIChUZWNoIExlYWQsIEVtYmVkZGVkIEMsIE1pY3JvY29udHJvbGxlcikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgRHVyaW5nIHRoaXMgcGVyaW9kIEkgZGlkbid0IGhhdmUgcGVybWlzc2lvbiB0byB3b3JrIGluIFVLLCBleGNlcHQgZm9yIHZvbHVudGVlciB3b3JrCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBcaXRlbSBEZXNpZ24gCiAgICAgICAgICAgICAgICAgICAgICAgICAgXGl0ZW0gRmFtaWxpYXIgd2l0aCAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBcaXRlbSAK</text>
+        <text encoding="base64">CVRoaXMgQ29udHJvbGxlciB3b3JrcyBib3RoIGFzIENlbnRyYWxpc2VkIGFuZCBEaXN0cmlidXRlZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgXGl0ZW0gCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgRAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgRHVyaW5nIHRoaXMgcGVyaW9kIEkgZGlkbid0IGhhdmUgcGVybWlzc2lvbiB0byB3b3JrIGluIFVLLCBleGNlcHQgZm9yIHZvbHVudGVlciB3b3JrCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQl7LX0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBcaXRlbSAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CVxyZWZlcmVlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CVxyZWZlcmVlbm9waG9uZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgRAo=</text>
       </register>
       <register name=":" type="4">
         <text>action KJumpAction.Line</text>
