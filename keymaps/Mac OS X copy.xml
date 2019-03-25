@@ -1,14 +1,88 @@
 <keymap version="1" name="Mac OS X copy" parent="Mac OS X">
+  <action id="ActivateDebugToolWindow">
+    <keyboard-shortcut first-keystroke="alt 5" />
+  </action>
+  <action id="ActivateProjectToolWindow">
+    <keyboard-shortcut first-keystroke="alt 1" />
+  </action>
+  <action id="ActivateRunToolWindow">
+    <keyboard-shortcut first-keystroke="alt 4" />
+  </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt 9" />
   </action>
+  <action id="Arrangement.Rule.Match.Condition.Move.Up" />
+  <action id="CheckinProject">
+    <keyboard-shortcut first-keystroke="ctrl k" />
+  </action>
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="meta divide" />
+    <keyboard-shortcut first-keystroke="ctrl slash" />
+  </action>
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="EditorChooseLookupItemDot" />
   <action id="EditorScrollUp" />
+  <action id="ExportToTextFile" />
+  <action id="FindPrevious">
+    <keyboard-shortcut first-keystroke="shift f3" />
+  </action>
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
+  <action id="GotoClass">
+    <keyboard-shortcut first-keystroke="ctrl n" />
+  </action>
+  <action id="GotoDeclaration">
+    <mouse-shortcut keystroke="meta button1" />
+    <mouse-shortcut keystroke="button2" />
+    <keyboard-shortcut first-keystroke="ctrl b" />
+  </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="shift ctrl n" />
+  </action>
+  <action id="HideAllWindows">
+    <keyboard-shortcut first-keystroke="shift ctrl f12" />
+  </action>
+  <action id="ImplementMethods">
+    <keyboard-shortcut first-keystroke="ctrl i" />
+  </action>
   <action id="MethodOverloadSwitchUp" />
-  <action id="RunClass">
-    <keyboard-shortcut first-keystroke="shift ctrl f10" />
+  <action id="NewElement">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
+  <action id="NewScratchFile" />
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="alt tab" />
+    <keyboard-shortcut first-keystroke="ctrl period" />
+  </action>
+  <action id="OverrideMethods">
+    <keyboard-shortcut first-keystroke="ctrl o" />
+  </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="shift ctrl l" />
+  </action>
+  <action id="RemoteHost.NewRemoteItem">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
+  <action id="ReplaceInPath" />
+  <action id="Run">
     <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
+  <action id="RunClass">
+    <keyboard-shortcut first-keystroke="shift ctrl r" />
+  </action>
   <action id="ShowNavBar">
-    <keyboard-shortcut first-keystroke="meta up" />
+    <keyboard-shortcut first-keystroke="alt up" />
+  </action>
+  <action id="ShowSettings">
+    <keyboard-shortcut first-keystroke="ctrl comma" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="ctrl back_slash" />
+  </action>
+  <action id="Vcs.Push">
+    <keyboard-shortcut first-keystroke="shift ctrl k" />
   </action>
 </keymap>
