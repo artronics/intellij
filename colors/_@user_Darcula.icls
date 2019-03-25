@@ -1,14 +1,14 @@
 <scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2018-10-20T01:21:41</property>
+    <property name="created">2018-06-28T16:36:13</property>
     <property name="ide">idea</property>
-    <property name="ideVersion">2018.2.4.0.0</property>
-    <property name="modified">2018-10-29T20:50:14</property>
+    <property name="ideVersion">2018.1.5.0.0</property>
+    <property name="modified">2019-03-25T19:50:50</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
-  <option name="CONSOLE_FONT_SIZE" value="16" />
+  <option name="CONSOLE_FONT_SIZE" value="18" />
   <option name="CONSOLE_LIGATURES" value="true" />
-  <option name="CONSOLE_LINE_SPACING" value="1.0" />
+  <option name="CONSOLE_LINE_SPACING" value="1.1" />
 </scheme>
