@@ -21,12 +21,12 @@
         <mark key="^" line="51" column="59" />
         <mark key="." line="51" column="59" />
       </file>
-      <file name="$USER_HOME$/projects/rust/tut/src/main.rs" timestamp="1553658987061">
-        <mark key="'" line="8" column="13" />
-        <mark key="[" line="11" column="38" />
-        <mark key="]" line="11" column="38" />
-        <mark key="." line="11" column="38" />
-        <mark key="^" line="11" column="38" />
+      <file name="$USER_HOME$/projects/rust/tut/src/main.rs" timestamp="1553660546427">
+        <mark key="'" line="25" column="3" />
+        <mark key="[" line="18" column="40" />
+        <mark key="]" line="18" column="40" />
+        <mark key="." line="18" column="40" />
+        <mark key="^" line="18" column="40" />
       </file>
       <file name="$USER_HOME$/projects/latex/resume/src/embedded-system-eng/Jalal Hosseini-Embedded.tex" timestamp="1553139946584">
         <mark key="[" line="45" column="14" />
@@ -195,6 +195,12 @@
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/rust/tut/Cargo.toml" timestamp="1553659614282">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="13" />
+        <mark key="^" line="7" column="13" />
+        <mark key="." line="7" column="13" />
       </file>
       <file name="$USER_HOME$/projects/latex/resume/src/embedded-system-eng/section_projects.tex" timestamp="1553137945502">
         <mark key="'" line="22" column="17" />
@@ -541,7 +547,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="25" filename="$USER_HOME$/projects/pods/infrastructure/artifactory/artifactory.ConfigMap.yml" />
       <jump line="12" column="4" filename="$USER_HOME$/projects/pods/infrastructure/artifactory/artifactory.Pod.yml" />
       <jump line="0" column="13" filename="$USER_HOME$/projects/pods/infrastructure/artifactory/artifactory.Pod.yml" />
       <jump line="60" column="43" filename="$USER_HOME$/projects/pawncade/frontend/.eslintrc.js" />
@@ -641,6 +646,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/latex/resume/src/embedded-system-eng/documentMETADATA.cls" />
       <jump line="25" column="21" filename="$USER_HOME$/projects/latex/resume/src/software-developer/documentMETADATA.cls" />
       <jump line="6" column="13" filename="$USER_HOME$/projects/rust/tut/src/main.rs" />
+      <jump line="16" column="3" filename="$USER_HOME$/projects/rust/tut/src/main.rs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -667,11 +673,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHIuCiAgICBwcmludGxuISgiSGVsbG8sIHdvcmxkISIpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>guess</text>
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text>guess</text>
       </register>
       <register name="/" type="4">
         <text>referee</text>
@@ -680,31 +686,31 @@
         <text encoding="base64">ICAgICAgICBsZXQgYzEgPSBDb21wb25lbnR7bmFtZTogKCJ0ZXN0IiksIHBvcnRzOiBbXX07Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHIuCiAgICBwcmludGxuISgiSGVsbG8sIHdvcmxkISIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByLgo=</text>
+        <text encoding="base64">dXNlIHN0ZDo6Y21wOjpPcmRlcmluZzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByLgo=</text>
+        <text encoding="base64">ICAgICBsZXQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHIuCiAgICBwcmludGxuISgiSGVsbG8sIHdvcmxkISIpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">SGVsbG8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">TG9yZW0gaXBzdW0gZG9sb3Igc2l0IGFtZXQsIGNvbnNlY3RldHVyIGFkaXBpc2NpbmcgZWxpdC4gRHVpcyB1bGxhbWNvcnBlciBuZXF1ZSBzaXQgYW1ldCBsZWN0dXMgZmFjaWxpc2lzIHNlZCBsdWN0dXMgbmlzbCBpYWN1bGlzLiBWaXZhbXVzIGF0IG5lcXVlIGFyY3UsIHNlZCB0ZW1wb3IgcXVhbS4gQ3VyYWJpdHVyIHBoYXJldHJhIHRpbmNpZHVudCB0aW5jaWR1bnQuIE1vcmJpIHZvbHV0cGF0IGZldWdpYXQgbWF1cmlzLCBxdWlzIHRlbXBvciBuZXF1ZSB2ZWhpY3VsYSB2b2x1dHBhdC4gRHVpcyB0cmlzdGlxdWUganVzdG8gdmVsIG1hc3NhIGZlcm1lbnR1bSBhY2N1bXNhbi4gTWF1cmlzIGFudGUgZWxpdCwgZmV1Z2lhdCB2ZXN0aWJ1bHVtIHRlbXBvciBlZ2V0LCBlbGVpZmVuZCBhYyBpcHN1bS4gRG9uZWMgc2NlbGVyaXNxdWUgbG9ib3J0aXMgaXBzdW0gZXUgdmVzdGlidWx1bS4gUGVsbGVudGVzcXVlIHZlbCBtYXNzYSBhdCBmZWxpcyBhY2N1bXNhbiByaG9uY3VzLgoKU3VzcGVuZGlzc2UgY29tbW9kbywgbWFzc2EgZXUgY29uZ3VlIHRpbmNpZHVudCwgZWxpdCBtYXVyaXMgcGVsbGVudGVzcXVlIG9yY2ksIGN1cnN1cyB0ZW1wb3Igb2RpbyBuaXNsIGV1aXNtb2QgYXVndWUuIEFsaXF1YW0gYWRpcGlzY2luZyBuaWJoIHV0IG9kaW8gc29kYWxlcyBldCBwdWx2aW5hciB0b3J0b3IgbGFvcmVldC4gTWF1cmlzIGEgYWNjdW1zYW4gbGlndWxhLiBDbGFzcyBhcHRlbnQgdGFjaXRpIHNvY2lvc3F1IGFkIGxpdG9yYSB0b3JxdWVudCBwZXIgY29udWJpYSBub3N0cmEsIHBlciBpbmNlcHRvcyBoaW1lbmFlb3MuIFN1c3BlbmRpc3NlIHZ1bHB1dGF0ZSBzZW0gdmVoaWN1bGEgaXBzdW0gdmFyaXVzIG5lYyB0ZW1wdXMgZHVpIGRhcGlidXMuIFBoYXNlbGx1cyBldCBlc3QgdXJuYSwgdXQgYXVjdG9yIGVyYXQuIFNlZCB0aW5jaWR1bnQgb2RpbyBpZCBvZGlvIGFsaXF1YW0gbWF0dGlzLiBEb25lYyBzYXBpZW4gbnVsbGEsIGZldWdpYXQgZWdldCBhZGlwaXNjaW5nIHNpdCBhbWV0LCBsYWNpbmlhIHV0IGRvbG9yLiBQaGFzZWxsdXMgdGluY2lkdW50LCBsZW8gYSBmcmluZ2lsbGEgY29uc2VjdGV0dXIsIGZlbGlzIGRpYW0gYWxpcXVhbSB1cm5hLCB2aXRhZSBhbGlxdWV0IGxlY3R1cyBvcmNpIG5lYyB2ZWxpdC4gVml2YW11cyBkYXBpYnVzIHZhcml1cyBibGFuZGl0LgoKRHVpcyBzaXQgYW1ldCBtYWduYSBhbnRlLCBhdCBzb2RhbGVzIGRpYW0uIEFlbmVhbiBjb25zZWN0ZXR1ciBwb3J0YSByaXN1cyBldCBzYWdpdHRpcy4gVXQgaW50ZXJkdW0sIGVuaW0gdmFyaXVzIHBlbGxlbnRlc3F1ZSB0aW5jaWR1bnQsIG1hZ25hIGxpYmVybyBzb2RhbGVzIHRvcnRvciwgdXQgZmVybWVudHVtIG51bmMgbWV0dXMgYSBhbnRlLiBWaXZhbXVzIG9kaW8gbGVvLCB0aW5jaWR1bnQgZXUgbHVjdHVzIHV0LCBzb2xsaWNpdHVkaW4gc2l0IGFtZXQgbWV0dXMuIE51bmMgc2VkIG9yY2kgbGVjdHVzLiBVdCBzb2RhbGVzIG1hZ25hIHNlZCB2ZWxpdCB2b2x1dHBhdCBzaXQgYW1ldCBwdWx2aW5hciBkaWFtIHZlbmVuYXRpcy4KCkFsYmVydCBFaW5zdGVpbiBkaXNjb3ZlcmVkIHRoYXQgJGU9bWNeMiQgaW4gMTkwNS4KClxbIGU9XGxpbV97biBcdG8gXGluZnR5fSBcbGVmdCgxK1xmcmFjezF9e259XHJpZ2h0KV5uIFxdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CVxpbnB1dHtzZWN0aW9uX2xhbmd1YWdlc30JCQkJCSUgU2VjdGlvbiBsYW5ndWFxZXMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action KJumpAction.Line</text>
