@@ -178,11 +178,11 @@
         <mark key="^" line="4" column="26" />
         <mark key="." line="17" column="44" />
       </file>
-      <file name="$USER_HOME$/projects/rust/CDL/src/network.rs" timestamp="1553652274946">
-        <mark key="[" line="9" column="12" />
-        <mark key="]" line="9" column="12" />
-        <mark key="^" line="9" column="12" />
-        <mark key="." line="9" column="12" />
+      <file name="$USER_HOME$/projects/rust/CDL/src/network.rs" timestamp="1553654655051">
+        <mark key="[" line="11" column="16" />
+        <mark key="]" line="1" column="16" />
+        <mark key="^" line="1" column="16" />
+        <mark key="." line="1" column="16" />
       </file>
       <file name="$USER_HOME$/projects/latex/resume/src/embedded-system-eng/section_projects.tex" timestamp="1553137945502">
         <mark key="'" line="22" column="17" />
@@ -655,11 +655,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>str,</text>
       </register>
       <register name="-" type="4">
-        <text>C\#</text>
+        <text>str,</text>
       </register>
       <register name="/" type="4">
         <text>referee</text>
