@@ -21,12 +21,12 @@
         <mark key="^" line="51" column="59" />
         <mark key="." line="51" column="59" />
       </file>
-      <file name="$USER_HOME$/projects/rust/tut/src/main.rs" timestamp="1553740273145">
+      <file name="$USER_HOME$/projects/rust/tut/src/main.rs" timestamp="1553741280210">
         <mark key="'" line="3" column="1" />
-        <mark key="[" line="1" column="8" />
-        <mark key="]" line="1" column="11" />
-        <mark key="." line="1" column="11" />
-        <mark key="^" line="1" column="11" />
+        <mark key="[" line="4" column="14" />
+        <mark key="]" line="4" column="8" />
+        <mark key="." line="4" column="8" />
+        <mark key="^" line="4" column="8" />
       </file>
       <file name="$USER_HOME$/projects/latex/resume/src/embedded-system-eng/Jalal Hosseini-Embedded.tex" timestamp="1553139946584">
         <mark key="[" line="45" column="14" />
@@ -673,11 +673,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>guess</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>referee</text>
@@ -713,7 +713,7 @@
         <text encoding="base64">LyoKSGkgRW1teSwKVGhhbmsgeW91IHNvIG11Y2ggZm9yIGdldHRpbmcgaW4gdG91Y2guIEFjdHVhbGx5IHllc3RlcmRheSBJIHdhcyB0aGlua2luZyB0byBhcHBseSBmb3IgU2t5IEJldHRpbmcuIEx1ayBXaGl0ZWxleSwgZm9ybWVyIGNvbGxlZ3VlIG9mIG1pbmUgaXMgbm93IHdvcmtpbmcgdGhlcmUgYW5kIEkgd2FzIHRoaW5raW5nIGlmIEkgY2FuIGFkZCBoaXMgY29udGFjdApkZXRhaWxzIGFzIHJlZmVyZW5jZS4KSnVzdCByZWNlbnRseSwgSSBtYWRlIHJlZHVuZGFudCBhbW9uZ3N0IG90aGVyIHNvIEknbSBhY3RpdmVseSBsb29raW5nIGZvciBhIGpvYiBub3cuIEkndmUgYXR0YWNoZWQgbXkgQ1YuIFBsZWFzZSBmZWVsIGZyZWUgdG8gY29udGFjdCBtZSB2aWEgTGlua2VkSW4gb3IgbXkgcGhvbmUgbnVtYmVyICgwNzQ1OSAxOTQ1MDUpIGF0IGFueXRpbWUuCgoqLwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action KJumpAction.Line</text>
+        <text>action KJumpAction.Word0</text>
       </register>
     </registers>
     <search>
@@ -750,10 +750,10 @@
       </history-search>
       <history-cmd>
         <entry>%s/chapar.//g</entry>
-        <entry>action KJumpAction</entry>
         <entry>source ~/.ideavimrc</entry>
-        <entry>action KJumpAction.Word0</entry>
         <entry>action KJumpAction.Line</entry>
+        <entry>action KJumpAction</entry>
+        <entry>action KJumpAction.Word0</entry>
       </history-cmd>
       <history-expr />
       <history-input />
