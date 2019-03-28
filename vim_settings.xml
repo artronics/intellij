@@ -21,12 +21,12 @@
         <mark key="^" line="51" column="59" />
         <mark key="." line="51" column="59" />
       </file>
-      <file name="$USER_HOME$/projects/rust/tut/src/main.rs" timestamp="1553741280210">
+      <file name="$USER_HOME$/projects/rust/tut/src/main.rs" timestamp="1553742103295">
         <mark key="'" line="3" column="1" />
-        <mark key="[" line="4" column="14" />
-        <mark key="]" line="4" column="8" />
-        <mark key="." line="4" column="8" />
-        <mark key="^" line="4" column="8" />
+        <mark key="[" line="6" column="14" />
+        <mark key="]" line="6" column="17" />
+        <mark key="." line="6" column="17" />
+        <mark key="^" line="6" column="17" />
       </file>
       <file name="$USER_HOME$/projects/latex/resume/src/embedded-system-eng/Jalal Hosseini-Embedded.tex" timestamp="1553139946584">
         <mark key="[" line="45" column="14" />
@@ -673,8 +673,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>l</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>l</text>
@@ -688,29 +688,29 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIHMucHVzaF9zdHIoIiwgd29ybGQiKTsKCiAgICBsZXQgczIgPSBzLmNsb25lKCk7CgogICAgcHJpbnRsbiEoInt9Iiwgcyk7</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgIGZvciBuIGluIDEuLjMgewogICAgICAgIHByaW50bG4hKCJ7fSIsIG4pOwogICAgfQ==</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="6" type="4">
+        <text encoding="base64">ICAgIGZvciBuIGluIDEuLjMgewogICAgICAgIHByaW50bG4hKCJ7fSIsIG4pOwogICAgfQ==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">dXNlIHN0ZDo6aW87CnVzZSBzdGQ6OmNtcDo6T3JkZXJpbmc7CnVzZSByYW5kOjpSbmc7Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text encoding="base64">ICAgIGxldCBtdXQgeCA9IDQ7CiAgICB4ID0gMjM7</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgIHByaW50bG4hKCJHdWVzcyB0aGUgbnVtYmVyISIpOwoKICAgIGxldCBzZWNyZXRfbnVtYmVyID0gcmFuZDo6dGhyZWFkX3JuZygpLmdlbl9yYW5nZSgxLCAxMDEpOwoKICAgIHByaW50bG4hKCJUaGUgc2VjcmV0IG51bWJlciBpczoge30iLCBzZWNyZXRfbnVtYmVyKTsKCiAgICBwcmludGxuISgiUGxlYXNlIGlucHV0IHlvdXIgZ3Vlc3MuIik7CgogICAgbGV0IG11dCBndWVzcyA9IFN0cmluZzo6bmV3KCk7CiAgICBpbzo6c3RkaW4oKS5yZWFkX2xpbmUoJm11dCBndWVzcykKICAgICAgICAuZXhwZWN0KCJGYWlsZWQgdG8gcmVhZCBsaW5lIik7CgogICAgbGV0IGd1ZXNzOiB1MzIgPSBndWVzcy50cmltKCkucGFyc2UoKQogICAgICAgIC5leHBlY3QoIlBsZWFzZSB0eXBlIGEgbnVtYmVyISIpOwoKICAgIG1hdGNoIGd1ZXNzLmNtcCgmc2VjcmV0X251bWJlcikgewogICAgICAgIE9yZGVyaW5nOjpMZXNzID0+IHByaW50bG4hKCJUb28gc21hbGwhIiksCiAgICAgICAgT3JkZXJpbmc6OkdyZWF0ZXIgPT4gcHJpbnRsbiEoIlRvbyBiaWchIiksCiAgICAgICAgT3JkZXJpbmc6OkVxdWFsID0+IHByaW50bG4hKCJZb3Ugd2luISIpLAogICAgfQoKICAgIHByaW50bG4hKCJZb3UgZ3Vlc3NlZDoge30iLCBndWVzcyk7Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">LyoKSGkgRW1teSwKVGhhbmsgeW91IHNvIG11Y2ggZm9yIGdldHRpbmcgaW4gdG91Y2guIEFjdHVhbGx5IHllc3RlcmRheSBJIHdhcyB0aGlua2luZyB0byBhcHBseSBmb3IgU2t5IEJldHRpbmcuIEx1ayBXaGl0ZWxleSwgZm9ybWVyIGNvbGxlZ3VlIG9mIG1pbmUgaXMgbm93IHdvcmtpbmcgdGhlcmUgYW5kIEkgd2FzIHRoaW5raW5nIGlmIEkgY2FuIGFkZCBoaXMgY29udGFjdApkZXRhaWxzIGFzIHJlZmVyZW5jZS4KSnVzdCByZWNlbnRseSwgSSBtYWRlIHJlZHVuZGFudCBhbW9uZ3N0IG90aGVyIHNvIEknbSBhY3RpdmVseSBsb29raW5nIGZvciBhIGpvYiBub3cuIEkndmUgYXR0YWNoZWQgbXkgQ1YuIFBsZWFzZSBmZWVsIGZyZWUgdG8gY29udGFjdCBtZSB2aWEgTGlua2VkSW4gb3IgbXkgcGhvbmUgbnVtYmVyICgwNzQ1OSAxOTQ1MDUpIGF0IGFueXRpbWUuCgoqLwo=</text>
       </register>
       <register name=":" type="4">
         <text>action KJumpAction.Word0</text>
