@@ -504,11 +504,11 @@
         <mark key="^" line="5" column="24" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/latex /cover-letter/RedEmbedded/main.tex" timestamp="1553745955524">
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="82" column="0" />
-        <mark key="." line="58" column="16" />
-        <mark key="^" line="82" column="358" />
+      <file name="$USER_HOME$/projects/latex /cover-letter/RedEmbedded/main.tex" timestamp="1553747590084">
+        <mark key="[" line="74" column="26" />
+        <mark key="]" line="74" column="93" />
+        <mark key="." line="74" column="93" />
+        <mark key="^" line="74" column="93" />
       </file>
       <file name="$USER_HOME$/projects/pawncade/frontend/app/containers/Signup/index.js" timestamp="1550958001680">
         <mark key="[" line="0" column="0" />
@@ -674,10 +674,10 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">RGVzaWduaW5nIGRpZ2l0YWwgY2lyY3VpdCBpcyBteSBmaWVsZCBvZiBleHBlcnRpc2VEZXNpZ25pbmcgUENCLCB3cml0aW5nIGZpcm13YXJlLCAK</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>referee</text>
@@ -686,31 +686,31 @@
         <text encoding="base64">ICAgICAgICBsZXQgYzEgPSBDb21wb25lbnR7bmFtZTogKCJ0ZXN0IiksIHBvcnRzOiBbXX07Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">RGVzaWduaW5nIGRpZ2l0YWwgY2lyY3VpdCBpcyBteSBmaWVsZCBvZiBleHBlcnRpc2VEZXNpZ25pbmcgUENCLCB3cml0aW5nIGZpcm13YXJlLCAK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgIHMucHVzaF9zdHIoIiwgd29ybGQiKTsKCiAgICBsZXQgczIgPSBzLmNsb25lKCk7CgogICAgcHJpbnRsbiEoInt9Iiwgcyk7</text>
+      <register name="2" type="2">
+        <text encoding="base64">SSd2ZSBiZWVuIHdvcmtpbmcgaW4gYQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">RHVyaW5nIHRoaXMgcGVyaW9kIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">RGVhcgo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">ICAgIGZvciBuIGluIDEuLjMgewogICAgICAgIHByaW50bG4hKCJ7fSIsIG4pOwogICAgfQ==</text>
+        <text encoding="base64">ICAgIHMucHVzaF9zdHIoIiwgd29ybGQiKTsKCiAgICBsZXQgczIgPSBzLmNsb25lKCk7CgogICAgcHJpbnRsbiEoInt9Iiwgcyk7</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNlIHN0ZDo6aW87CnVzZSBzdGQ6OmNtcDo6T3JkZXJpbmc7CnVzZSByYW5kOjpSbmc7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgIGxldCBtdXQgeCA9IDQ7CiAgICB4ID0gMjM7</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action KJumpAction.Word0</text>
