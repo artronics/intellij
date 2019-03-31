@@ -9,6 +9,9 @@
         <mark key="^" line="1" column="4" />
         <mark key="." line="1" column="4" />
       </file>
+      <file name="/a.dummy" timestamp="1554065729047">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/pawncade/frontend/app/components/Input/index.js" timestamp="1551051320784">
         <mark key="[" line="24" column="2" />
         <mark key="]" line="24" column="5" />
@@ -79,10 +82,10 @@
         <mark key="." line="10" column="38" />
         <mark key="^" line="10" column="38" />
       </file>
-      <file name="$USER_HOME$/projects/kotlin/sky/feedme-consumer/src/main/kotlin/com/artronics/feedme/consumer/Feed.kt" timestamp="1554058656162">
-        <mark key="'" line="43" column="19" />
+      <file name="$USER_HOME$/projects/kotlin/sky/feedme-consumer/src/main/kotlin/com/artronics/feedme/consumer/Feed.kt" timestamp="1554065347004">
+        <mark key="'" line="39" column="19" />
         <mark key="[" line="2" column="0" />
-        <mark key="]" line="71" column="0" />
+        <mark key="]" line="67" column="0" />
       </file>
       <file name="$USER_HOME$/projects/pods/infrastructure/artifactory/docker/Dockerfile" timestamp="1550102894407">
         <mark key="[" line="25" column="11" />
@@ -324,11 +327,12 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="15" column="37" />
       </file>
-      <file name="$USER_HOME$/projects/kotlin/sky/feedme-persistence/src/main/kotlin/com/artronics/feedme/persistence/MessageConsumer.kt" timestamp="1554064704438">
-        <mark key="[" line="27" column="23" />
-        <mark key="]" line="27" column="24" />
-        <mark key="." line="27" column="24" />
-        <mark key="^" line="27" column="24" />
+      <file name="$USER_HOME$/projects/kotlin/sky/feedme-persistence/src/main/kotlin/com/artronics/feedme/persistence/MessageConsumer.kt" timestamp="1554066190267">
+        <mark key="'" line="66" column="23" />
+        <mark key="[" line="67" column="35" />
+        <mark key="]" line="67" column="40" />
+        <mark key="." line="67" column="40" />
+        <mark key="^" line="67" column="40" />
       </file>
       <file name="$USER_HOME$/projects/pawncade/frontend/app/containers/Login/selectors.js" timestamp="1551040185235">
         <mark key="[" line="9" column="60" />
@@ -483,12 +487,12 @@
         <mark key="^" line="4" column="26" />
         <mark key="." line="4" column="26" />
       </file>
-      <file name="$USER_HOME$/projects/kotlin/sky/feedme-persistence/src/main/kotlin/com/artronics/feedme/persistence/Feed.kt" timestamp="1554064728917">
+      <file name="$USER_HOME$/projects/kotlin/sky/feedme-persistence/src/main/kotlin/com/artronics/feedme/persistence/Feed.kt" timestamp="1554065944684">
         <mark key="'" line="9" column="49" />
-        <mark key="[" line="19" column="50" />
-        <mark key="]" line="19" column="50" />
-        <mark key="." line="19" column="55" />
-        <mark key="^" line="27" column="51" />
+        <mark key="[" line="22" column="30" />
+        <mark key="]" line="22" column="36" />
+        <mark key="." line="22" column="36" />
+        <mark key="^" line="22" column="36" />
       </file>
       <file name="$USER_HOME$/projects/pawncade/frontend/app/components/A/tests/index.test.js" timestamp="1550943808539">
         <mark key="[" line="8" column="22" />
@@ -564,11 +568,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="15" filename="$USER_HOME$/projects/pawncade/frontend/app/components/LoginForm/tests/index.test.js" />
-      <jump line="71" column="35" filename="$USER_HOME$/projects/pawncade/frontend/app/components/LoginForm/tests/index.test.js" />
-      <jump line="3" column="21" filename="$USER_HOME$/projects/pawncade/frontend/app/components/LoginForm/tests/index.test.js" />
-      <jump line="16" column="1" filename="$USER_HOME$/projects/pawncade/frontend/app/components/LoginForm/index.js" />
-      <jump line="26" column="42" filename="$USER_HOME$/projects/pawncade/frontend/app/components/LoginForm/index.js" />
       <jump line="77" column="36" filename="$USER_HOME$/projects/pawncade/frontend/app/components/LoginForm/tests/index.test.js" />
       <jump line="15" column="0" filename="$USER_HOME$/projects/pawncade/frontend/app/components/LoginForm/tests/index.test.js" />
       <jump line="12" column="20" filename="$USER_HOME$/projects/pawncade/frontend/app/components/LoginForm/index.js" />
@@ -664,6 +663,11 @@
       <jump line="47" column="20" filename="$USER_HOME$/projects/kotlin/sky/feedme-persistence/src/main/kotlin/com/artronics/feedme/persistence/Feed.kt" />
       <jump line="3" column="22" filename="$USER_HOME$/projects/kotlin/sky/feedme-persistence/src/main/kotlin/com/artronics/feedme/persistence/Feed.kt" />
       <jump line="9" column="49" filename="$USER_HOME$/projects/kotlin/sky/feedme-persistence/src/main/kotlin/com/artronics/feedme/persistence/Feed.kt" />
+      <jump line="42" column="23" filename="$USER_HOME$/projects/kotlin/sky/feedme-persistence/src/main/kotlin/com/artronics/feedme/persistence/MessageConsumer.kt" />
+      <jump line="57" column="22" filename="$USER_HOME$/projects/kotlin/sky/feedme-persistence/src/main/kotlin/com/artronics/feedme/persistence/MessageConsumer.kt" />
+      <jump line="41" column="77" filename="$USER_HOME$/projects/kotlin/sky/feedme-persistence/src/main/kotlin/com/artronics/feedme/persistence/MessageConsumer.kt" />
+      <jump line="44" column="18" filename="$USER_HOME$/projects/kotlin/sky/feedme-persistence/src/main/kotlin/com/artronics/feedme/persistence/MessageConsumer.kt" />
+      <jump line="66" column="23" filename="$USER_HOME$/projects/kotlin/sky/feedme-persistence/src/main/kotlin/com/artronics/feedme/persistence/MessageConsumer.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -691,16 +695,16 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>ObjectId</text>
+        <text>CRATE</text>
       </register>
       <register name="-" type="4">
-        <text>ObjectId</text>
+        <text>CRATE</text>
       </register>
       <register name="/" type="4">
-        <text>ObjectI</text>
+        <text>king\c</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIm1hcmtldCIgLT4gY3JlYXRlT3JVcGRhdGVNYXJrZXQoZ3Nvbi5mcm9tSnNvbihqc29uTXNnLCBNYXJrZXQ6OmNsYXNzLmphdmEpKQo=</text>
+        <text encoding="base64">ICAgIHZhbCBtYXJrZXRzOiBNdXRhYmxlTGlzdDxNYXJrZXQ+ID0gQXJyYXlMaXN0KCksCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgVE9ETygibm90IGltcGxlbWVudGVkIikgLy9UbyBjaGFuZ2UgYm9keSBvZiBjcmVhdGVkIGZ1bmN0aW9ucyB1c2UgRmlsZSB8IFNldHRpbmdzIHwgRmlsZSBUZW1wbGF0ZXMuCg==</text>
@@ -734,9 +738,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ObjectI</last-search>
+      <last-search>king\c</last-search>
       <last-offset />
-      <last-pattern>ObjectI</last-pattern>
+      <last-pattern>king\c</last-pattern>
       <last-replace />
       <last-substitute>chapar.</last-substitute>
       <last-dir>1</last-dir>
@@ -744,8 +748,6 @@
     </search>
     <history>
       <history-search>
-        <entry>experience</entry>
-        <entry>reference</entry>
         <entry>head</entry>
         <entry>suite</entry>
         <entry>name</entry>
@@ -764,6 +766,8 @@
         <entry>Ou</entry>
         <entry>try</entry>
         <entry>ObjectI</entry>
+        <entry>King</entry>
+        <entry>king\c</entry>
       </history-search>
       <history-cmd>
         <entry>%s/chapar.//g</entry>
