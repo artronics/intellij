@@ -22,12 +22,15 @@
         <mark key="." line="11" column="16" />
         <mark key="^" line="11" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/kotlin/feedme/src/main/kotlin/com/artronics/feedme/feed.kt" timestamp="1554002704871">
+      <file name="/a.dummy" timestamp="1554005894593">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/kotlin/feedme/src/main/kotlin/com/artronics/feedme/feed.kt" timestamp="1554006313668">
         <mark key="'" line="9" column="10" />
-        <mark key="[" line="45" column="30" />
-        <mark key="]" line="45" column="36" />
-        <mark key="^" line="45" column="36" />
-        <mark key="." line="45" column="36" />
+        <mark key="[" line="45" column="48" />
+        <mark key="]" line="45" column="47" />
+        <mark key="^" line="45" column="47" />
+        <mark key="." line="45" column="47" />
       </file>
       <file name="$USER_HOME$/projects/latex /resume/src/USA STEM CV/section_skills.tex" timestamp="1553097473956">
         <mark key="'" line="19" column="106" />
@@ -214,11 +217,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/kotlin/feedme/src/main/kotlin/com/artronics/feedme/service.kt" timestamp="1554004107386">
-        <mark key="[" line="23" column="23" />
-        <mark key="]" line="23" column="48" />
-        <mark key="^" line="23" column="48" />
-        <mark key="." line="23" column="48" />
+      <file name="$USER_HOME$/projects/kotlin/feedme/src/main/kotlin/com/artronics/feedme/service.kt" timestamp="1554007243594">
+        <mark key="[" line="27" column="18" />
+        <mark key="]" line="27" column="26" />
+        <mark key="^" line="27" column="26" />
+        <mark key="." line="27" column="26" />
       </file>
       <file name="$USER_HOME$/projects/pawncade/frontend/app/containers/Login/saga.js" timestamp="1551041649077">
         <mark key="[" line="9" column="33" />
@@ -610,11 +613,11 @@
         <mark key="." line="74" column="93" />
         <mark key="^" line="74" column="93" />
       </file>
-      <file name="$USER_HOME$/projects/kotlin/feedme/src/test/kotlin/com/artronics/feedme/service.kt" timestamp="1554004151147">
-        <mark key="[" line="44" column="37" />
-        <mark key="]" line="44" column="42" />
-        <mark key="." line="44" column="42" />
-        <mark key="^" line="44" column="42" />
+      <file name="$USER_HOME$/projects/kotlin/feedme/src/test/kotlin/com/artronics/feedme/service.kt" timestamp="1554007147260">
+        <mark key="[" line="90" column="33" />
+        <mark key="]" line="90" column="43" />
+        <mark key="." line="90" column="43" />
+        <mark key="^" line="90" column="43" />
       </file>
       <file name="$USER_HOME$/projects/masir/masir-journey-producer/src/main/kotlin/com/artronics/masir/journey/producer/MasirJourneyProducerApplication.kt" timestamp="1544991594811">
         <mark key="[" line="6" column="0" />
@@ -622,12 +625,14 @@
         <mark key="^" line="6" column="3" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1553973635987">
-        <mark key="[" line="0" column="0" />
+      <file name="/fragment.java" timestamp="1554006123921">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="13" />
+        <mark key="^" line="0" column="7" />
+        <mark key="." line="0" column="8" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="3" filename="$USER_HOME$/projects/pawncade/frontend/app/components/LoginForm/tests/index.test.js" />
       <jump line="68" column="48" filename="$USER_HOME$/projects/pawncade/frontend/app/components/LoginForm/tests/index.test.js" />
       <jump line="50" column="5" filename="$USER_HOME$/projects/pawncade/frontend/package.json" />
       <jump line="69" column="21" filename="$USER_HOME$/projects/pawncade/frontend/package.json" />
@@ -727,6 +732,7 @@
       <jump line="53" column="33" filename="$USER_HOME$/projects/kotlin/feedme/src/test/kotlin/com/artronics/feedme/consumer.kt" />
       <jump line="54" column="33" filename="$USER_HOME$/projects/kotlin/feedme/src/test/kotlin/com/artronics/feedme/consumer.kt" />
       <jump line="8" column="10" filename="$USER_HOME$/projects/kotlin/feedme/src/main/kotlin/com/artronics/feedme/feed.kt" />
+      <jump line="107" column="37" filename="$USER_HOME$/projects/kotlin/feedme/src/test/kotlin/com/artronics/feedme/service.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -754,46 +760,46 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>CREATE</text>
+        <text>findById(&quot;market-id&quot;)</text>
       </register>
       <register name="-" type="4">
-        <text>CREATE</text>
+        <text>findById(&quot;market-id&quot;)</text>
       </register>
       <register name="/" type="4">
         <text>try</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBUZXN0CiAgICBmdW4gZmVlZElzQ3JlYXRlRXZlbnRfc2F2ZU5ld0V2ZW50KCkgewogICAgICAgIC8vIEdpdmVuCiAgICAgICAgdmFsIG1zZyA9IGNyZWF0ZUV2ZW50KEVWRU5ULCBDUkVBVEUpCiAgICAgICAgdmFsIGV2ZW50ID0gRmVlZFJlY2VpdmVkRXZlbnQodGhpcywgbXNnKQoKICAgICAgICAvLyBXaGVuCiAgICAgICAgZmVlZFNlcnZpY2UuaGFuZGxlRmVlZFJlY2VpdmVkRXZlbnQoZXZlbnQpCgogICAgICAgIC8vIFRoZW4KICAgICAgICB2ZXJpZnkoZXZlbnRSZXBvc2l0b3J5KS5zYXZlKG1zZyBhcyBFdmVudCkKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB2ZXJpZnkobWFya2V0UmVwb3NpdG9yeSkuZmluZEJ5SWQoIm1hcmtldC1pZCIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgaGVhZGVycyA9IGNyZWF0ZUhlYWRlcihFVkVOVCwgQ1JFQVRFKQo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpdC5tYXJrZXRzLmFkZChtYXJrZXQpCiAgICAgICAgICAgICAgICAgICAgZXZlbnRSZXBvc2l0b3J5LnNhdmUoaXQpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgT3BlcmF0aW9uS2luZC5DUkVBVEUgLT4ge30K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNhdmVkRXZlbnQuaWZQcmVzZW50IHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKGV2ZW50Lm1zZy50b0pzb24oKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCBzYXZlZE1hcmtldCA9IAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBEQlJlZiB2YWwgbWFya2V0czogTGlzdDxNYXJrZXQ+ID0gQXJyYXlMaXN0KCksCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICBARXZlbnRMaXN0ZW5lcgogICAgZnVuIGhhbmRsZUV2ZW50KGV2ZW50OiBGZWVkUmVjZWl2ZWRFdmVudCkgewogICAgICAgIHByaW50bG4oZXZlbnQubXNnLnRvSnNvbigpKQogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICB2ZXJpZnkobWFya2V0UmVwb3NpdG9yeSkuc2F2ZSgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgcGFzc2VkTWFya2V0ID0gQXJndW1lbnRDYXB0b3IuZm9yQ2xhc3MoTWFya2V0OjpjbGFzcy5qYXZhKQogICAgICAgIHZlcmlmeShtYXJrZXRSZXBvc2l0b3J5KS5zYXZlKHBhc3NlZE1hcmtldC5jYXB0dXJlKCkpCgogICAgICAgIHBhc3NlZE1hcmtldC52YWx1ZS5vdXRjb21lcy5zaXplIHNob3VsZEVxdWFsIDEK</text>
       </register>
       <register name=":" type="4">
-        <text>action KJumpAction.Word0</text>
+        <text>action KJumpAction.Line</text>
       </register>
     </registers>
     <search>
@@ -832,8 +838,8 @@
         <entry>%s/chapar.//g</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>action KJumpAction</entry>
-        <entry>action KJumpAction.Line</entry>
         <entry>action KJumpAction.Word0</entry>
+        <entry>action KJumpAction.Line</entry>
       </history-cmd>
       <history-expr />
       <history-input />
