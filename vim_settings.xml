@@ -239,11 +239,11 @@
         <mark key="." line="14" column="21" />
         <mark key="^" line="14" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/kotlin/sky/feedme-consumer/src/test/kotlin/com/artronics/feedme/consumer/TcpConsumer.kt" timestamp="1554054767158">
-        <mark key="[" line="60" column="44" />
-        <mark key="]" line="60" column="44" />
-        <mark key="^" line="60" column="33" />
-        <mark key="." line="60" column="44" />
+      <file name="$USER_HOME$/projects/kotlin/sky/feedme-consumer/src/test/kotlin/com/artronics/feedme/consumer/TcpConsumer.kt" timestamp="1554054848681">
+        <mark key="[" line="50" column="12" />
+        <mark key="]" line="50" column="12" />
+        <mark key="^" line="50" column="15" />
+        <mark key="." line="50" column="12" />
       </file>
       <file name="$USER_HOME$/projects/pawncade/frontend/app/reducers.js" timestamp="1551048429951">
         <mark key="[" line="16" column="38" />
@@ -763,10 +763,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>\</text>
+        <text>body</text>
       </register>
       <register name="-" type="4">
-        <text>\</text>
+        <text>body</text>
       </register>
       <register name="/" type="4">
         <text>try</text>
