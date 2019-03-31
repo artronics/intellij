@@ -425,11 +425,11 @@
         <mark key="." line="83" column="14" />
         <mark key="^" line="83" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/kotlin/feedme/src/test/kotlin/com/artronics/feedme/consumer.kt" timestamp="1553990490910">
-        <mark key="[" line="12" column="4" />
-        <mark key="]" line="12" column="11" />
-        <mark key="^" line="12" column="11" />
-        <mark key="." line="12" column="11" />
+      <file name="$USER_HOME$/projects/kotlin/feedme/src/test/kotlin/com/artronics/feedme/consumer.kt" timestamp="1553990792823">
+        <mark key="[" line="30" column="76" />
+        <mark key="]" line="31" column="43" />
+        <mark key="^" line="31" column="43" />
+        <mark key="." line="31" column="43" />
       </file>
       <file name="$USER_HOME$/projects/rust/tut/Cargo.toml" timestamp="1553659614282">
         <mark key="[" line="7" column="0" />
@@ -724,8 +724,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>8282</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgd2hpCg==</text>
       </register>
       <register name="-" type="4">
         <text>8282</text>
@@ -737,31 +737,31 @@
         <text encoding="base64">ICAgIHZhbCBpbnMgPSBTY2FubmVyKHNvY2tldC5nZXRJbnB1dFN0cmVhbSgpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50bG4oImtpciIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2hpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbCBzb2NrZXQgPSBTb2NrZXQoImxvY2FsaG9zdCIsIDgyODIpCiAgICB2YWwgaW5zID0gU2Nhbm5lcihzb2NrZXQuZ2V0SW5wdXRTdHJlYW0oKSkKICAgIHByaW50KGlucy5uZXh0TGluZSgpKQoKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50bG4oImtpciIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBzb2NrZXQgPSBTb2NrZXQoImxvY2FsaG9zdCIsIDgyODIpCiAgICB2YWwgaW5zID0gU2Nhbm5lcihzb2NrZXQuZ2V0SW5wdXRTdHJlYW0oKSkKICAgIHByaW50KGlucy5uZXh0TGluZSgpKQoKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGluCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgY2hhbm5lbCA9IENoYW5uZWw8U3RyaW5nPigpCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEubmlvLmNoYW5uZWxzLkNoYW5uZWwK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGluCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgY2hhbm5lbCA9IENoYW5uZWw8U3RyaW5nPigpCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEubmlvLmNoYW5uZWxzLkNoYW5uZWwK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>action KJumpAction.Word0</text>
