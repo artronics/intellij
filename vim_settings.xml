@@ -327,12 +327,12 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="15" column="37" />
       </file>
-      <file name="$USER_HOME$/projects/kotlin/sky/feedme-persistence/src/main/kotlin/com/artronics/feedme/persistence/MessageConsumer.kt" timestamp="1554068376272">
-        <mark key="'" line="72" column="23" />
-        <mark key="[" line="60" column="18" />
-        <mark key="]" line="60" column="21" />
-        <mark key="." line="60" column="21" />
-        <mark key="^" line="60" column="21" />
+      <file name="$USER_HOME$/projects/kotlin/sky/feedme-persistence/src/main/kotlin/com/artronics/feedme/persistence/MessageConsumer.kt" timestamp="1554073620136">
+        <mark key="'" line="73" column="23" />
+        <mark key="[" line="53" column="80" />
+        <mark key="]" line="61" column="21" />
+        <mark key="." line="61" column="21" />
+        <mark key="^" line="61" column="21" />
       </file>
       <file name="$USER_HOME$/projects/pawncade/frontend/app/containers/Login/selectors.js" timestamp="1551040185235">
         <mark key="[" line="9" column="60" />
