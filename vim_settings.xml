@@ -24,12 +24,12 @@
         <mark key="^" line="2" column="11" />
         <mark key="." line="2" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/kotlin/sky/feedme-persistence/src/test/kotlin/com/artronics/feedme/persistence/MessageServiceTest.kt" timestamp="1554158078731">
-        <mark key="'" line="29" column="19" />
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="73" />
-        <mark key="." line="59" column="56" />
-        <mark key="^" line="59" column="56" />
+      <file name="$USER_HOME$/projects/kotlin/sky/feedme-persistence/src/test/kotlin/com/artronics/feedme/persistence/MessageServiceTest.kt" timestamp="1554158142068">
+        <mark key="'" line="68" column="1" />
+        <mark key="[" line="15" column="49" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="16" column="0" />
       </file>
       <file name="$USER_HOME$/projects/kotlin/feedme/src/main/kotlin/com/artronics/feedme/app.kt" timestamp="1553990534581">
         <mark key="[" line="21" column="30" />
@@ -128,6 +128,12 @@
         <mark key="." line="2" column="50" />
         <mark key="^" line="2" column="50" />
       </file>
+      <file name="$USER_HOME$/projects/kotlin/sky/feedme-persistence/src/test/kotlin/com/artronics/feedme/persistence/KafkaFeedConsumerTest.kt" timestamp="1554158757392">
+        <mark key="[" line="32" column="31" />
+        <mark key="]" line="32" column="45" />
+        <mark key="^" line="32" column="45" />
+        <mark key="." line="32" column="45" />
+      </file>
       <file name="$USER_HOME$/projects/latex/resume/src/embedded-system-eng/embedde.tex" timestamp="1553133989278">
         <mark key="[" line="19" column="11" />
         <mark key="]" line="19" column="11" />
@@ -188,6 +194,12 @@
         <mark key="]" line="141" column="69" />
         <mark key="^" line="141" column="69" />
         <mark key="." line="141" column="69" />
+      </file>
+      <file name="$USER_HOME$/projects/kotlin/sky/feedme-persistence/src/test/kotlin/com/artronics/feedme/persistence/KafkaFeedConsumer.kt" timestamp="1554158232352">
+        <mark key="[" line="7" column="23" />
+        <mark key="]" line="7" column="22" />
+        <mark key="^" line="7" column="22" />
+        <mark key="." line="7" column="22" />
       </file>
       <file name="$USER_HOME$/projects/pawncade/frontend/.prettierignore" timestamp="1550862168799">
         <mark key="[" line="7" column="0" />
@@ -624,8 +636,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="33" filename="$USER_HOME$/projects/pawncade/frontend/app/containers/Login/index.js" />
-      <jump line="17" column="13" filename="$USER_HOME$/projects/pawncade/frontend/app/containers/Login/selectors.js" />
       <jump line="44" column="48" filename="$USER_HOME$/projects/pawncade/frontend/app/containers/Login/tests/index.test.js" />
       <jump line="6" column="29" filename="$USER_HOME$/projects/pawncade/frontend/app/containers/Login/tests/index.test.js" />
       <jump line="8" column="33" filename="$USER_HOME$/projects/samples/react-boilerplate/app/utils/request.js" />
@@ -724,6 +734,8 @@
       <jump line="101" column="9" filename="$USER_HOME$/projects/kotlin/sky/feedme-persistence/src/main/kotlin/com/artronics/feedme/persistence/MessageConsumer.kt" />
       <jump line="99" column="1" filename="$USER_HOME$/projects/kotlin/sky/feedme-persistence/src/main/kotlin/com/artronics/feedme/persistence/MessageConsumer.kt" />
       <jump line="29" column="19" filename="$USER_HOME$/projects/kotlin/sky/feedme-persistence/src/test/kotlin/com/artronics/feedme/persistence/MessageServiceTest.kt" />
+      <jump line="69" column="0" filename="$USER_HOME$/projects/kotlin/sky/feedme-persistence/src/test/kotlin/com/artronics/feedme/persistence/MessageServiceTest.kt" />
+      <jump line="65" column="1" filename="$USER_HOME$/projects/kotlin/sky/feedme-persistence/src/test/kotlin/com/artronics/feedme/persistence/MessageServiceTest.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -750,11 +762,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgaGVhZGVycyA9IG1hcE9mKCJ0eXBlIiB0byAib3V0Y29tZSIsICJvcGVyYXRpb24iIHRvICJjcmVhdGUiKQo=</text>
+      <register name="&quot;" type="4">
+        <text>consumerRecords</text>
       </register>
       <register name="-" type="4">
-        <text>exchange</text>
+        <text>consumerRecords</text>
       </register>
       <register name="/" type="4">
         <text>type</text>
@@ -763,31 +775,31 @@
         <text encoding="base64">ICAgICAgICB2YWwgaGVhZGVycyA9IG1hcE9mKCJ0eXBlIiB0byAib3V0Y29tZSIsICJvcGVyYXRpb24iIHRvICJjcmVhdGUiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgZXhjaGFuZ2UgPSBleGNoYW5nZVdpbGxSZXR1cm4ob3V0Y29tZSwgd2l0aEhlYWRlcnMoUGFpcigidHlwZSIsICJvdXRjb21lIiksIFBhaXIoIm9wZXJhdGlvbiIsICJjcmVhdGUiKSkpCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgY29uc3VtZXJSZWNvcmRzOiBDb25zdW1lclJlY29yZHM8U3RyaW5nLCBTdHJpbmc+ID0gbW9jayhDb25zdW1lclJlY29yZHM6OmNsYXNzLmphdmEpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgZXhjaGFuZ2UgPSBleGNoYW5nZVdpbGxSZXR1cm4obWFya2V0LCB3aXRoSGVhZGVycyhQYWlyKCJ0eXBlIiwgIm1hcmtldCIpLCBQYWlyKCJvcGVyYXRpb24iLCAiY3JlYXRlIikpKQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgaGVhZGVycyA9IG1hcE9mKHQpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHZhbCBleGNoYW5nZSA9IGV4Y2hhbmdlV2lsbFJldHVybihldmVudCwgd2l0aEhlYWRlcnMoUGFpcigidHlwZSIsICJldmVudCIpLCBQYWlyKCJvcGVyYXRpb24iLCAiY3JlYXRlIikpKQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgaGVhZGVycyA9IG1hcE9mKCJ0eXBlIiB0byAiZXZlbnQiLCAib3BlcmF0aW9uIiB0byAiY3JlYXRlIikK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">cHJpdmF0ZSB2YWwgZ3NvbiA9IEdzb24oKQpwcml2YXRlIGZ1biB0b0pzb24oZmVlZDogQW55KSA9IGdzb24udG9Kc29uKGZlZWQpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Ci8vcHJpdmF0ZSBmdW4gPFQ+IGV4Y2hhbmdlV2lsbFJldHVybihmZWVkOiBULCBoZWFkZXJzOiBNYXA8U3RyaW5nLCBBbnk+KTogRXhjaGFuZ2UgewovLyAgICB2YWwganNvbkZlZWQgPSBnc29uLnRvSnNvbihmZWVkKQovLwovLyAgICB2YWwgZXhjaGFuZ2UgPSBtb2NrKEV4Y2hhbmdlOjpjbGFzcykKLy8gICAgdmFsIG1lc3NhZ2UgPSBtb2NrKE1lc3NhZ2U6OmNsYXNzKQovLyAgICBgd2hlbmAoZXhjaGFuZ2UuYGluYCkudGhlblJldHVybihtZXNzYWdlKQovLyAgICBgd2hlbmAobWVzc2FnZS5ib2R5KS50aGVuUmV0dXJuKGpzb25GZWVkKQovLwovLyAgICBoZWFkZXJzLmtleXMuZm9yRWFjaCB7Ci8vICAgICAgICB2YWwgdmFsdWUgPSBoZWFkZXJzW2l0XSBhcyBTdHJpbmcKLy8gICAgICAgIGB3aGVuYChtZXNzYWdlLmdldEhlYWRlcihpdCkpLnRoZW5SZXR1cm4odmFsdWUudG9CeXRlQXJyYXkoKSkKLy8gICAgfQovLwovLyAgICByZXR1cm4gZXhjaGFuZ2UKLy99Cgpwcml2YXRlIGZ1biB3aXRoSGVhZGVycyh2YXJhcmcgcGFpcnM6IFBhaXI8U3RyaW5nLCBBbnk+KTogTWFwPFN0cmluZywgQW55PiB7CiAgICB2YWwgaGVhZGVyczogTXV0YWJsZU1hcDxTdHJpbmcsIEFueT4gPSBIYXNoTWFwKCkKICAgIHBhaXJzLmZvckVhY2ggewogICAgICAgIGhlYWRlcnNbaXQuZmlyc3RdID0gaXQuc2Vjb25kCiAgICB9CgogICAgcmV0dXJuIGhlYWRlcnMKfQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgZXhjaGFuZ2UgPSBleGNoYW5nZVdpbGxSZXR1cm4ob3V0Y29tZSwgd2l0aEhlYWRlcnMoUGFpcigidHlwZSIsICJvdXRjb21lIiksIFBhaXIoIm9wZXJhdGlvbiIsICJjcmVhdGUiKSkpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgZXhjaGFuZ2UgPSBleGNoYW5nZVdpbGxSZXR1cm4obWFya2V0LCB3aXRoSGVhZGVycyhQYWlyKCJ0eXBlIiwgIm1hcmtldCIpLCBQYWlyKCJvcGVyYXRpb24iLCAiY3JlYXRlIikpKQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgaGVhZGVycyA9IG1hcE9mKHQpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBwcmludGxuKGhlYWRlcnMuZ2V0VmFsdWUoIm1zZ0lkIikudG9JbnQoKSkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>action KJumpAction.Line</text>
