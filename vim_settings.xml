@@ -215,11 +215,11 @@
         <mark key="." line="14" column="21" />
         <mark key="^" line="14" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/kotlin/sky/feedme-consumer/src/test/kotlin/com/artronics/feedme/consumer/TcpConsumer.kt" timestamp="1554088165140">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="99" />
-        <mark key="^" line="77" column="51" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/projects/kotlin/sky/feedme-consumer/src/test/kotlin/com/artronics/feedme/consumer/TcpConsumer.kt" timestamp="1554101982642">
+        <mark key="[" line="78" column="48" />
+        <mark key="]" line="78" column="48" />
+        <mark key="^" line="78" column="48" />
+        <mark key="." line="78" column="48" />
       </file>
       <file name="$USER_HOME$/projects/pawncade/frontend/app/reducers.js" timestamp="1551048429951">
         <mark key="[" line="16" column="38" />
@@ -347,12 +347,12 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="15" column="37" />
       </file>
-      <file name="$USER_HOME$/projects/kotlin/sky/feedme-persistence/src/main/kotlin/com/artronics/feedme/persistence/MessageConsumer.kt" timestamp="1554095819639">
-        <mark key="'" line="70" column="23" />
-        <mark key="[" line="64" column="80" />
-        <mark key="]" line="65" column="63" />
-        <mark key="." line="65" column="63" />
-        <mark key="^" line="65" column="63" />
+      <file name="$USER_HOME$/projects/kotlin/sky/feedme-persistence/src/main/kotlin/com/artronics/feedme/persistence/MessageConsumer.kt" timestamp="1554102080273">
+        <mark key="'" line="71" column="23" />
+        <mark key="[" line="39" column="69" />
+        <mark key="]" line="39" column="76" />
+        <mark key="." line="39" column="76" />
+        <mark key="^" line="39" column="76" />
       </file>
       <file name="$USER_HOME$/projects/pawncade/frontend/app/containers/Login/selectors.js" timestamp="1551040185235">
         <mark key="[" line="9" column="60" />
@@ -372,12 +372,12 @@
         <mark key="." line="4" column="27" />
         <mark key="^" line="4" column="27" />
       </file>
-      <file name="$USER_HOME$/projects/kotlin/sky/feedme-persistence/src/main/kotlin/com/artronics/feedme/persistence/Repository.kt" timestamp="1554099920517">
+      <file name="$USER_HOME$/projects/kotlin/sky/feedme-persistence/src/main/kotlin/com/artronics/feedme/persistence/Repository.kt" timestamp="1554101617267">
         <mark key="'" line="47" column="0" />
-        <mark key="[" line="76" column="79" />
-        <mark key="]" line="76" column="100" />
-        <mark key="." line="76" column="100" />
-        <mark key="^" line="76" column="100" />
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="." line="78" column="0" />
+        <mark key="^" line="77" column="11" />
       </file>
       <file name="$USER_HOME$/projects/masir/masir-journey-consumer/src/test/kotlin/com/artronics/masir/journey/consumer/JourneyConsumerRouteTest.kt" timestamp="1544926466553">
         <mark key="[" line="47" column="0" />
@@ -415,11 +415,11 @@
         <mark key="^" line="31" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="/fragment.kt" timestamp="1554092211801">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="49" />
-        <mark key="^" line="0" column="49" />
-        <mark key="." line="0" column="49" />
+      <file name="/fragment.kt" timestamp="1554100804765">
+        <mark key="[" line="0" column="108" />
+        <mark key="]" line="0" column="108" />
+        <mark key="^" line="0" column="56" />
+        <mark key="." line="0" column="108" />
       </file>
       <file name="$USER_HOME$/projects/chapar2/chapar-darwin/src/main/resources/application.yml" timestamp="1554044367392">
         <mark key="[" line="41" column="0" />
@@ -497,10 +497,10 @@
         <mark key="." line="4" column="27" />
         <mark key="^" line="4" column="27" />
       </file>
-      <file name="$USER_HOME$/projects/kotlin/sky/feedme-consumer/src/main/kotlin/com/artronics/feedme/consumer/TcpConsumer.kt" timestamp="1554054600889">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/projects/kotlin/sky/feedme-consumer/src/main/kotlin/com/artronics/feedme/consumer/TcpConsumer.kt" timestamp="1554101954710">
+        <mark key="[" line="45" column="24" />
+        <mark key="]" line="45" column="24" />
+        <mark key="." line="45" column="24" />
         <mark key="^" line="33" column="62" />
       </file>
       <file name="$USER_HOME$/projects/pods/infrastructure/docker-registry/docker-registry.Service.yml" timestamp="1549402465815">
@@ -729,10 +729,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>[&quot;markets&quot;]</text>
+        <text>.toInt()</text>
       </register>
       <register name="-" type="4">
-        <text>[&quot;markets&quot;]</text>
+        <text>.toInt()</text>
       </register>
       <register name="/" type="4">
         <text>outcom</text>
@@ -741,30 +741,28 @@
         <text encoding="base64">ICAgICAgICB2YWwgdXBkYXRlID0gVXBkYXRlKCkKICAgICAgICAgICAgLnNldCgibWFya2V0cy4kLm91dGNvbWVzLiQubmFtZSIsIG91dGNvbWUubmFtZSkKICAgICAgICAgICAgLnNldCgibWFya2V0cy4kLm91dGNvbWVzLiQucHJpY2UiLCBvdXRjb21lLnByaWNlKQogICAgICAgICAgICAuc2V0KCJtYXJrZXRzLiQub3V0Y29tZXMuJC5kaXNwbGF5ZWQiLCBvdXRjb21lLmRpc3BsYXllZCkKICAgICAgICAgICAgLnNldCgibWFya2V0cy4kLm91dGNvbWVzLiQuc3VzcGVuZGVkIiwgb3V0Y29tZS5zdXNwZW5kZWQpCiAgICAgICAgCiAgICAgICAgdmFsIGNyaXRlcmlhID0gQ3JpdGVyaWEud2hlcmUoIm1hcmtldHMub3V0Y29tZXMuX2lkIikuYGlzYChvdXRjb21lLm91dGNvbWVJZCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtb25nb1RlbXBsYXRlLmZpbmQoKS5wcm9qZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgY3JpdGVyaWEgPSBDcml0ZXJpYS53aGVyZSgibWFya2V0cy5faWQiKS5gaXNgKG1hcmtldC5tYXJrZXRJZCkK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgb3V0Y29tZVRvVXBkYXRlID0gZG9jWzBdLm1hcmtldHNbMF0ub3V0Y29tZXMuZmlsdGVyIHsgaXQub3V0Y29tZUlkID09IG91dGNvbWUub3V0Y29tZUlkIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgdXBkYXRlID0gVXBkYXRlKCkKICAgICAgICAgICAgLnNldCgibWFya2V0cy4kLm5hbWUiLCBtYXJrZXQubmFtZSkKICAgICAgICAgICAgLnNldCgibWFya2V0cy4kLmRpc3BsYXllZCIsIG1hcmtldC5kaXNwbGF5ZWQpCiAgICAgICAgICAgIC5zZXQoIm1hcmtldHMuJC5zdXNwZW5kZWQiLCBtYXJrZXQuc3VzcGVuZGVkKQo=</text>
+        <text encoding="base64">ICAgICAgICBtb25nb1RlbXBsYXRlLmZpbmQoKS5wcm9qZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
+        <text encoding="base64">ICAgICAgICB2YWwgY3JpdGVyaWEgPSBDcml0ZXJpYS53aGVyZSgibWFya2V0cy5faWQiKS5gaXNgKG1hcmtldC5tYXJrZXRJZCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCBvdXRjb21lczogTXV0YWJsZUxpc3Q8T3V0Y29tZT4gPSBBcnJheUxpc3QoKSwK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgdXBkYXRlID0gVXBkYXRlKCkKICAgICAgICAgICAgLnNldCgibWFya2V0cy4kLm5hbWUiLCBtYXJrZXQubmFtZSkKICAgICAgICAgICAgLnNldCgibWFya2V0cy4kLmRpc3BsYXllZCIsIG1hcmtldC5kaXNwbGF5ZWQpCiAgICAgICAgICAgIC5zZXQoIm1hcmtldHMuJC5zdXNwZW5kZWQiLCBtYXJrZXQuc3VzcGVuZGVkKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgbWFya2V0ID0gTWFya2V0KCJtYXJrZXRJZCIsICJldmVudElkIiwgQXJyYXlMaXN0KCksICJuYW1lIiwgdHJ1ZSwgZmFsc2UpCg==</text>
+        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBvdXRjb21lczogTXV0YWJsZUxpc3Q8T3V0Y29tZT4gPSBBcnJheUxpc3QoKSwK</text>
       </register>
-      <register name="8" type="8">
-        <text>$.
-$.
-$.</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgbWFya2V0ID0gTWFya2V0KCJtYXJrZXRJZCIsICJldmVudElkIiwgQXJyYXlMaXN0KCksICJuYW1lIiwgdHJ1ZSwgZmFsc2UpCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
