@@ -9,9 +9,6 @@
         <mark key="^" line="1" column="4" />
         <mark key="." line="1" column="4" />
       </file>
-      <file name="/a.dummy" timestamp="1554156961667">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/pawncade/frontend/app/components/Input/index.js" timestamp="1551051320784">
         <mark key="[" line="24" column="2" />
         <mark key="]" line="24" column="5" />
@@ -85,10 +82,16 @@
         <mark key="]" line="3" column="12" />
         <mark key="." line="3" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/kotlin/sky/feedme-frontend/app/app.js" timestamp="1554162857135">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="88" />
-        <mark key="." line="34" column="0" />
+      <file name="$USER_HOME$/projects/kotlin/sky/feedme-frontend/app/containers/Bet/reducer.js" timestamp="1554171235412">
+        <mark key="[" line="1" column="8" />
+        <mark key="]" line="1" column="8" />
+        <mark key="." line="1" column="8" />
+        <mark key="^" line="10" column="45" />
+      </file>
+      <file name="$USER_HOME$/projects/kotlin/sky/feedme-frontend/app/app.js" timestamp="1554170353606">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/projects/pawncade/frontend/app/app.js" timestamp="1554162821917">
         <mark key="[" line="27" column="0" />
@@ -233,11 +236,10 @@
         <mark key="^" line="7" column="4" />
         <mark key="." line="7" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/kotlin/sky/feedme-frontend/app/index.html" timestamp="1554166958780">
-        <mark key="[" line="24" column="7" />
-        <mark key="]" line="24" column="22" />
-        <mark key="." line="24" column="22" />
-        <mark key="^" line="24" column="22" />
+      <file name="$USER_HOME$/projects/kotlin/sky/feedme-frontend/app/index.html" timestamp="1554170733180">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/projects/kotlin/feedme/src/main/kotlin/com/artronics/feedme/service.kt" timestamp="1554007243594">
         <mark key="[" line="27" column="18" />
@@ -347,11 +349,11 @@
         <mark key="^" line="62" column="76" />
         <mark key="." line="62" column="76" />
       </file>
-      <file name="$USER_HOME$/projects/kotlin/sky/feedme-frontend/app/containers/App/index.js" timestamp="1554168914103">
-        <mark key="[" line="12" column="15" />
-        <mark key="]" line="12" column="15" />
-        <mark key="^" line="10" column="28" />
-        <mark key="." line="12" column="15" />
+      <file name="$USER_HOME$/projects/kotlin/sky/feedme-frontend/app/containers/App/index.js" timestamp="1554170497372">
+        <mark key="[" line="2" column="18" />
+        <mark key="]" line="2" column="18" />
+        <mark key="^" line="2" column="18" />
+        <mark key="." line="2" column="18" />
       </file>
       <file name="$USER_HOME$/projects/pods/infrastructure/gogs/gogs.yml" timestamp="1549845633456">
         <mark key="[" line="31" column="33" />
@@ -395,6 +397,12 @@
         <mark key="." line="16" column="85" />
         <mark key="^" line="16" column="85" />
       </file>
+      <file name="$USER_HOME$/projects/kotlin/sky/feedme-frontend/app/containers/Bet/actions.js" timestamp="1554171354010">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="4" column="21" />
+      </file>
       <file name="$USER_HOME$/projects/pods/infrastructure/infrastructure.yml" timestamp="1549407785388">
         <mark key="[" line="3" column="22" />
         <mark key="]" line="5" column="23" />
@@ -437,6 +445,12 @@
         <mark key="]" line="15" column="89" />
         <mark key="^" line="15" column="89" />
         <mark key="." line="15" column="89" />
+      </file>
+      <file name="$USER_HOME$/projects/kotlin/sky/feedme-frontend/app/containers/Bet/constants.js" timestamp="1554171131353">
+        <mark key="[" line="0" column="37" />
+        <mark key="]" line="0" column="48" />
+        <mark key="." line="0" column="48" />
+        <mark key="^" line="0" column="48" />
       </file>
       <file name="$USER_HOME$/projects/kotlin/sky/feedme-frontend/package.json" timestamp="1554168000180">
         <mark key="'" line="142" column="0" />
@@ -557,11 +571,11 @@
         <mark key="^" line="6" column="23" />
         <mark key="." line="6" column="23" />
       </file>
-      <file name="$USER_HOME$/projects/kotlin/sky/feedme-frontend/app/containers/Bet/index.js" timestamp="1554168884377">
-        <mark key="[" line="20" column="9" />
-        <mark key="]" line="21" column="12" />
-        <mark key="^" line="21" column="12" />
-        <mark key="." line="21" column="12" />
+      <file name="$USER_HOME$/projects/kotlin/sky/feedme-frontend/app/containers/Bet/index.js" timestamp="1554171656120">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="17" column="28" />
       </file>
       <file name="$USER_HOME$/projects/pawncade/frontend/app/containers/HomePage/index.js" timestamp="1550953863027">
         <mark key="[" line="2" column="0" />
@@ -827,11 +841,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>dispatch</text>
       </register>
       <register name="/" type="4">
         <text>li</text>
@@ -840,31 +854,31 @@
         <text encoding="base64">ICAgICAgICAgICAgPFJvdXRlIHBhdGg9Ii8iIGNvbXBvbmVudD17Q2F0ZWdvcnl9IC8+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBiYWNrZ3JvdW5kLWNvbG9yOiBjYWRldGJsdWU7Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBhbmNoCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBiYWNrZ3JvdW5kOiAjMDAwOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8SXRlbVdyYXBwZXI+Rm9vdGJhbGw8L0l0ZW1XcmFwcGVyPgo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">LyoqCiAqCiAqIEJldAogKgogKi8KCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">LyoKICoKICogQmV0IGFjdGlvbnMKICoKICovCgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">LyoKICoKICogQmV0IHJlZHVjZXIKICoKICovCgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICoKICogQmV0IGNvbnN0YW50cwogKgogKi8K</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgZnMgPSByZXF1aXJlKCdmcycpOwpjb25zdCBwYXRoID0gcmVxdWlyZSgncGF0aCcpOwoKY29uc3QgcHJldHRpZXJPcHRpb25zID0gSlNPTi5wYXJzZSgKICBmcy5yZWFkRmlsZVN5bmMocGF0aC5yZXNvbHZlKF9fZGlybmFtZSwgJy5wcmV0dGllcnJjJyksICd1dGY4JyksCik7Cg==</text>
+        <text encoding="base64">LyoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICdwcmV0dGllci9wcmV0dGllcic6IFsnZXJyb3InLCBwcmV0dGllck9wdGlvbnNdLAo=</text>
+        <text encoding="base64">LyoKICoKICogQmV0IGNvbnN0YW50cwogKgogKi8KCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgcHJldHRpZXJPcHRpb25zID0gSlNPTi5wYXJzZSgKICBmcy5yZWFkRmlsZVN5bmMocGF0aC5yZXNvbHZlKF9fZGlybmFtZSwgJy5wcmV0dGllcnJjJyksICd1dGY4JyksCik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action KJumpAction.Line</text>
