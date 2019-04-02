@@ -301,6 +301,12 @@
         <mark key="^" line="7" column="11" />
         <mark key="." line="7" column="11" />
       </file>
+      <file name="$USER_HOME$/projects/kotlin/sky/readme.md" timestamp="1554192961094">
+        <mark key="[" line="15" column="19" />
+        <mark key="]" line="15" column="17" />
+        <mark key="." line="15" column="17" />
+        <mark key="^" line="15" column="17" />
+      </file>
       <file name="$USER_HOME$/projects/pawncade/frontend/app/containers/Login/tests/actions.test.js" timestamp="1551026918092">
         <mark key="[" line="22" column="11" />
         <mark key="]" line="22" column="23" />
@@ -904,10 +910,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>localhost</text>
+        <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>localhost</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text>li</text>
@@ -916,31 +922,31 @@
         <text encoding="base64">ICBjb25zdCBwYXRoID0gJ2h0dHA6Ly9mZWVkbWUtYmFja2VuZDo4MDgwL2V2ZW50cyc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAiYXV0aG9yIjogIk1heCBTdG9pYmVyIiwK</text>
+        <text encoding="base64">ICAgICogVGhpcyBwcm9qZWN0IHdhcyB0aGUgZmlyc3QgdGltZSBJIHdvcmsgd2l0aCBtb25nb2RiLiAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c3RhdGljCg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">SSBjb3VsZG4ndCB3b3JrIG91dCBob3cgdG8gZml4IGl0LiAK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">Y2FtZWw6CiAgc3ByaW5nYm9vdDoKICAgIG1haW4tcnVuLWNvbnRyb2xsZXI6IHRydWUK</text>
+        <text encoding="base64">ICAiYXV0aG9yIjogIk1heCBTdG9pYmVyIiwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBkYXRhYmFzZTogZmVlZG1lCg==</text>
+        <text encoding="base64">c3RhdGljCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAjIENvbW1hIHNlcGFyYXRlZCBsaXN0IG9mIHRvcGljcwogICAgdG9waWNzOiBkZXYuYmV0dGluZwogICAgZ3JvdXBJZDogYmV0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBvcHRpb25zOiBicm9rZXJzPSR7a2Fma2EuYnJva2VyLmhvc3R9OiR7a2Fma2EuYnJva2VyLnBvcnR9Jmdyb3VwSWQ9JHtrYWZrYS5icm9rZXIuZ3JvdXBJZH0mY29uc3VtZXJTdHJlYW1zPTEmc3luY2hyb25vdXM9dHJ1ZQogIHVybDoga2Fma2E6JHtrYWZrYS5icm9rZXIudG9waWN9PyR7a2Fma2Eub3B0aW9uc30K</text>
+        <text encoding="base64">Y2FtZWw6CiAgc3ByaW5nYm9vdDoKICAgIG1haW4tcnVuLWNvbnRyb2xsZXI6IHRydWUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Q01EIGphdmEgLWphciBhcHAvYXBwLmphcgo=</text>
+        <text encoding="base64">ICBkYXRhYmFzZTogZmVlZG1lCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Q01EIGphdmEgLWphciAtRHNwcmluZy5wcm9maWxlcy5hY3RpdmU9JHtBQ1RJVkVfUFJPRklMRVN9IGFwcC9hcHAuamFyCg==</text>
+        <text encoding="base64">CiAgICAjIENvbW1hIHNlcGFyYXRlZCBsaXN0IG9mIHRvcGljcwogICAgdG9waWNzOiBkZXYuYmV0dGluZwogICAgZ3JvdXBJZDogYmV0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action KJumpAction.Line</text>
