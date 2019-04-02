@@ -751,6 +751,12 @@
         <mark key="." line="90" column="43" />
         <mark key="^" line="90" column="43" />
       </file>
+      <file name="$USER_HOME$/projects/kotlin/sky/feedme-consumer/.gitignore" timestamp="1554192190017">
+        <mark key="[" line="2" column="7" />
+        <mark key="]" line="3" column="2" />
+        <mark key="^" line="3" column="2" />
+        <mark key="." line="3" column="2" />
+      </file>
       <file name="$USER_HOME$/projects/masir/masir-journey-producer/src/main/kotlin/com/artronics/masir/journey/producer/MasirJourneyProducerApplication.kt" timestamp="1544991594811">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
