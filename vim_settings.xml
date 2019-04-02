@@ -61,11 +61,11 @@
         <mark key="^" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
-      <file name="$USER_HOME$/projects/kotlin/sky/feedme-frontend/app/containers/Bet/reducer.js" timestamp="1554180415689">
-        <mark key="[" line="7" column="16" />
-        <mark key="]" line="7" column="16" />
-        <mark key="." line="7" column="16" />
-        <mark key="^" line="7" column="16" />
+      <file name="$USER_HOME$/projects/kotlin/sky/feedme-frontend/app/containers/Bet/reducer.js" timestamp="1554184398014">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="6" column="16" />
       </file>
       <file name="$USER_HOME$/projects/kotlin/sky/feedme-frontend/app/app.js" timestamp="1554170353606">
         <mark key="[" line="35" column="0" />
@@ -82,10 +82,6 @@
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/chapar/chapar-consumer-darwin/src/main/resources/docker/Dockerfile" timestamp="1554173025643">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="15" column="69" />
       </file>
       <file name="$USER_HOME$/projects/kotlin/sky/feedme-consumer/src/main/resources/application.yml" timestamp="1554050256305">
         <mark key="[" line="6" column="0" />
@@ -243,15 +239,15 @@
         <mark key="^" line="1" column="11" />
         <mark key="." line="1" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/kotlin/sky/feedme-frontend/app/containers/Bet/selectors.js" timestamp="1554178535202">
-        <mark key="[" line="5" column="104" />
-        <mark key="]" line="5" column="104" />
-        <mark key="." line="5" column="104" />
+      <file name="$USER_HOME$/projects/kotlin/sky/feedme-frontend/app/containers/Bet/selectors.js" timestamp="1554184333951">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
         <mark key="^" line="5" column="105" />
       </file>
-      <file name="$USER_HOME$/projects/kotlin/sky/feedme-persistence/src/main/resources/application.yml" timestamp="1554157160317">
-        <mark key="[" line="9" column="9" />
-        <mark key="]" line="9" column="9" />
+      <file name="$USER_HOME$/projects/kotlin/sky/feedme-persistence/src/main/resources/application.yml" timestamp="1554183678428">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="18" column="18" />
         <mark key="^" line="9" column="9" />
         <mark key="." line="9" column="9" />
       </file>
@@ -357,12 +353,17 @@
         <mark key="." line="9" column="65" />
         <mark key="^" line="9" column="65" />
       </file>
-      <file name="$USER_HOME$/projects/kotlin/sky/feedme-frontend/app/containers/Bet/saga.js" timestamp="1554174842551">
+      <file name="$USER_HOME$/projects/kotlin/sky/feedme-backend/src/main/resources/application.yml" timestamp="1554183681947">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="3" column="18" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/kotlin/sky/feedme-frontend/app/containers/Bet/saga.js" timestamp="1554184209620">
         <mark key="'" line="11" column="6" />
-        <mark key="[" line="0" column="30" />
-        <mark key="]" line="0" column="30" />
+        <mark key="[" line="8" column="15" />
+        <mark key="]" line="8" column="15" />
         <mark key="^" line="0" column="30" />
-        <mark key="." line="0" column="30" />
+        <mark key="." line="8" column="15" />
       </file>
       <file name="$USER_HOME$/projects/masir/masir-journey-producer/docker/.gitignore" timestamp="1544999396891">
         <mark key="[" line="1" column="11" />
@@ -449,11 +450,11 @@
         <mark key="." line="74" column="0" />
         <mark key="^" line="69" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/kotlin/sky/feedme-backend/src/main/kotlin/com/artronics/feedme/backend/App.kt" timestamp="1554176014519">
-        <mark key="[" line="48" column="20" />
-        <mark key="]" line="48" column="7292" />
-        <mark key="." line="48" column="7292" />
-        <mark key="^" line="48" column="7292" />
+      <file name="$USER_HOME$/projects/kotlin/sky/feedme-backend/src/main/kotlin/com/artronics/feedme/backend/App.kt" timestamp="1554184261047">
+        <mark key="[" line="32" column="26" />
+        <mark key="]" line="32" column="27" />
+        <mark key="." line="32" column="27" />
+        <mark key="^" line="32" column="27" />
       </file>
       <file name="$USER_HOME$/projects/masir/masir-journey-consumer/src/test/kotlin/com/artronics/masir/journey/consumer/JourneyConsumerRouteTest.kt" timestamp="1544926466553">
         <mark key="[" line="47" column="0" />
@@ -485,11 +486,17 @@
         <mark key="." line="83" column="14" />
         <mark key="^" line="83" column="14" />
       </file>
-      <file name="/fragment.kt" timestamp="1554151343740">
+      <file name="/fragment.kt" timestamp="1554183721529">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="51" />
         <mark key="^" line="0" column="51" />
         <mark key="." line="0" column="51" />
+      </file>
+      <file name="$USER_HOME$/projects/kotlin/sky/feedme-backend/src/main/kotlin/com/artronics/feedme/backend/service.kt" timestamp="1554185422118">
+        <mark key="[" line="33" column="45" />
+        <mark key="]" line="33" column="61" />
+        <mark key="." line="33" column="61" />
+        <mark key="^" line="33" column="61" />
       </file>
       <file name="$USER_HOME$/projects/kotlin/sky/feedme-frontend/app/global-styles.js" timestamp="1554169040314">
         <mark key="[" line="7" column="2" />
@@ -559,11 +566,11 @@
         <mark key="^" line="6" column="23" />
         <mark key="." line="6" column="23" />
       </file>
-      <file name="$USER_HOME$/projects/kotlin/sky/feedme-frontend/app/containers/Bet/index.js" timestamp="1554181857070">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="24" column="94" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/projects/kotlin/sky/feedme-frontend/app/containers/Bet/index.js" timestamp="1554184660010">
+        <mark key="[" line="23" column="45" />
+        <mark key="]" line="23" column="45" />
+        <mark key="." line="23" column="45" />
+        <mark key="^" line="23" column="24" />
       </file>
       <file name="$USER_HOME$/projects/pawncade/frontend/app/containers/HomePage/index.js" timestamp="1550953863027">
         <mark key="[" line="2" column="0" />
@@ -829,44 +836,44 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>displayable</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PC9zcGFuPg==</text>
+        <text>displayable</text>
       </register>
       <register name="/" type="4">
         <text>li</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgLm1hcChtYXJrZXQgPT4gPE1hcmtldCBrZXk9e21hcmtldC5tYXJrZXRJZH0gbmFtZT0ia2lyIiAvPikpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmFuZCgiZGlzcGxheWVkIikuYGlzYCh0cnVlKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKHRoaXMucHJvcHMuZXZlbnRzKQo=</text>
+        <text encoding="base64">ICAgIGZ1biBhdGxlYXN0T25lRGlzcGxheWFibGVNYXJrZXQoZXZlbnQ6IEV2ZW50KSB7CiAgICAgICAgCiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB7Lyp7Y29uc29sZS5sb2codGhpcy5wcm9wcy5ldmVudHNbMF0ubWFya2V0cy5maWx0ZXIobWFya2V0ID0+IG1hcmtldC5kaXNwbGF5ZWQpKX0qL30K</text>
+        <text encoding="base64">ICAgICAgICAgICAgLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8T3V0Y29tZS8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLndoCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIGRpc3BsYXlhYmxlTWFya2V0cygpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICByZW5kZXJPdXRjb21lcygpIHsKICAgIHJldHVybiBvdXRjb21lcwogICAgICAuZmlsdGVyKG91dGNvbWUgPT4gb3V0Y29tZS5kaXNwbGF5ZWQgJiYgIW91dGNvbWUuc3VzcGVuZGVkKQogICAgICAubWFwKG91dGNvbWUgPT4gPE91dGNvbWUga2V5PXtvdXRjb21lLm91dGNvbWVJZH0vPikKICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLm1hcCB7ICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8cD5raXI8L3A+Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gaWYgKGV2ZW50cy5zaXplID4gMCkgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLm1hcChtYXJrZXQgPT4gPHAga2V5PXttYXJrZXQubWFya2V0SWR9ID5mPC9wPik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgT3B0aW9uYWwub2YoZXZlbnRzLmZpcnN0KCkpCiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgT3B0aW9uYWwuZW1wdHkoKQogICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBbImZvbyIsICJiYXIiXS5maWx0ZXIoZiA9PiBmICE9PSAiYmFyIikK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgbGF0ZXN0ID0gZXZlbnRzLmZpcnN0T3JOdWxsIHsgaXQuZGlzcGxheWVkICYmICFpdC5zdXNwZW5kZWQgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>action KJumpAction.Line</text>
