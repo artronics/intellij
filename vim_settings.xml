@@ -24,6 +24,10 @@
         <mark key="^" line="2" column="11" />
         <mark key="." line="2" column="11" />
       </file>
+      <file name="$USER_HOME$/projects/pawncade/frontend/app/components/LoginForm/index.js" timestamp="1554167235439">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="39" />
+      </file>
       <file name="$USER_HOME$/projects/kotlin/sky/feedme-persistence/src/test/kotlin/com/artronics/feedme/persistence/MessageServiceTest.kt" timestamp="1554158142068">
         <mark key="'" line="68" column="1" />
         <mark key="[" line="15" column="49" />
@@ -62,11 +66,11 @@
         <mark key="^" line="9" column="26" />
         <mark key="." line="9" column="26" />
       </file>
-      <file name="$USER_HOME$/projects/kotlin/sky/feedme-frontend/app/containers/Category/index.js" timestamp="1554162516600">
-        <mark key="[" line="9" column="19" />
-        <mark key="]" line="9" column="19" />
-        <mark key="^" line="9" column="19" />
-        <mark key="." line="9" column="19" />
+      <file name="$USER_HOME$/projects/kotlin/sky/feedme-frontend/app/containers/Category/index.js" timestamp="1554167290244">
+        <mark key="[" line="6" column="30" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/projects/pods/infrastructure/jenkins/jenkins.yml" timestamp="1551625241349">
         <mark key="[" line="0" column="0" />
@@ -222,6 +226,12 @@
         <mark key="^" line="7" column="4" />
         <mark key="." line="7" column="4" />
       </file>
+      <file name="$USER_HOME$/projects/kotlin/sky/feedme-frontend/app/index.html" timestamp="1554166958780">
+        <mark key="[" line="24" column="7" />
+        <mark key="]" line="24" column="22" />
+        <mark key="." line="24" column="22" />
+        <mark key="^" line="24" column="22" />
+      </file>
       <file name="$USER_HOME$/projects/kotlin/feedme/src/main/kotlin/com/artronics/feedme/service.kt" timestamp="1554007243594">
         <mark key="[" line="27" column="18" />
         <mark key="]" line="27" column="26" />
@@ -330,11 +340,11 @@
         <mark key="^" line="62" column="76" />
         <mark key="." line="62" column="76" />
       </file>
-      <file name="$USER_HOME$/projects/kotlin/sky/feedme-frontend/app/containers/App/index.js" timestamp="1554162634301">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
+      <file name="$USER_HOME$/projects/kotlin/sky/feedme-frontend/app/containers/App/index.js" timestamp="1554167146372">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="49" />
         <mark key="^" line="10" column="28" />
-        <mark key="." line="0" column="0" />
+        <mark key="." line="10" column="8" />
       </file>
       <file name="$USER_HOME$/projects/pods/infrastructure/gogs/gogs.yml" timestamp="1549845633456">
         <mark key="[" line="31" column="33" />
@@ -469,11 +479,16 @@
         <mark key="^" line="0" column="51" />
         <mark key="." line="0" column="51" />
       </file>
-      <file name="$USER_HOME$/projects/kotlin/sky/feedme-frontend/app/containers/HomePage/index.js" timestamp="1554162590693">
-        <mark key="[" line="20" column="11" />
-        <mark key="]" line="20" column="13" />
-        <mark key="." line="20" column="13" />
-        <mark key="^" line="20" column="13" />
+      <file name="$USER_HOME$/projects/kotlin/sky/feedme-frontend/app/global-styles.js" timestamp="1554166491540">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/kotlin/sky/feedme-frontend/app/containers/HomePage/index.js" timestamp="1554167164413">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="12" column="34" />
       </file>
       <file name="$USER_HOME$/projects/rust/tut/Cargo.toml" timestamp="1553659614282">
         <mark key="[" line="7" column="0" />
@@ -793,43 +808,43 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0ICchIXN0eWxlLWxvYWRlciFjc3MtbG9hZGVyIS4uL25vZGVfbW9kdWxlcy9ib290c3RyYXAvZGlzdC9jc3MvYm9vdHN0cmFwLm1pbi5jc3MnOwo=</text>
+        <text encoding="base64">aW1wb3J0IHN0eWxlZCBmcm9tICdzdHlsZWQtY29tcG9uZW50cyc7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">U3dpdGNoLCA=</text>
       </register>
       <register name="/" type="4">
         <text>bootstr</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0ICchIXN0eWxlLWxvYWRlciFjc3MtbG9hZGVyIS4uL25vZGVfbW9kdWxlcy9ib290c3RyYXAvZGlzdC9jc3MvYm9vdHN0cmFwLm1pbi5jc3MnOwo=</text>
+        <text encoding="base64">aW1wb3J0IHN0eWxlZCBmcm9tICdzdHlsZWQtY29tcG9uZW50cyc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LyoqCiAqCiAqIEFwcC5qcwogKgogKiBUaGlzIGNvbXBvbmVudCBpcyB0aGUgc2tlbGV0b24gYXJvdW5kIHRoZSBhY3R1YWwgcGFnZXMsIGFuZCBzaG91bGQgb25seQogKiBjb250YWluIGNvZGUgdGhhdCBzaG91bGQgYmUgc2VlbiBvbiBhbGwgcGFnZXMuIChlLmcuIG5hdmlnYXRpb24gYmFyKQogKgogKi8K</text>
+        <text encoding="base64">aW1wb3J0IHsgUm91dGUgfSBmcm9tICdyZWFjdC1yb3V0ZXItZG9tJzsK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgICAgPGgxPgogICAgICAgIDxGb3JtYXR0ZWRNZXNzYWdlIHsuLi5tZXNzYWdlcy5oZWFkZXJ9IC8+CiAgICAgIDwvaDE+</text>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IHsgRm9ybWF0dGVkTWVzc2FnZSB9IGZyb20gJ3JlYWN0LWludGwnOwppbXBvcnQgbWVzc2FnZXMgZnJvbSAnLi9tZXNzYWdlcyc7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8bGk+Rm9vdGJhbDwvbGk+Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LyoqCiAqCiAqIENhdGVnb3J5CiAqCiAqLwoK</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgY29uc3VtZXJSZWNvcmRzOiBDb25zdW1lclJlY29yZHM8U3RyaW5nLCBTdHJpbmc+ID0gbW9jayhDb25zdW1lclJlY29yZHM6OmNsYXNzLmphdmEpCg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxwPkZlZWRNZSBTa3kgQmV0dGluZzwvcD4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>action KJumpAction.Line</text>
