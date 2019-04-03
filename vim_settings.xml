@@ -68,6 +68,12 @@
         <mark key="^" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
+      <file name="$USER_HOME$/projects/infinity-works/frontend/.eslintrc.js" timestamp="1554329106148">
+        <mark key="'" line="3" column="12" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/kotlin/sky/feedme-frontend/app/containers/Bet/reducer.js" timestamp="1554184398014">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -78,6 +84,10 @@
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/pawncade/frontend/app/app.js" timestamp="1554329156394">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="88" />
       </file>
       <file name="$USER_HOME$/projects/pawncade/frontend/app/components/NavLink/tests/index.test.js" timestamp="1550949944407">
         <mark key="[" line="17" column="44" />
@@ -307,6 +317,11 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="27" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/infinity-works/frontend/app/components/Table/index.js" timestamp="1554329761824">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/pawncade/frontend/app/containers/Login/tests/actions.test.js" timestamp="1551026918092">
         <mark key="[" line="22" column="11" />
         <mark key="]" line="22" column="23" />
@@ -330,6 +345,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="15" column="21" />
+      </file>
+      <file name="$USER_HOME$/projects/infinity-works/frontend/app/utils/request.js" timestamp="1554329305086">
+        <mark key="[" line="38" column="3" />
+        <mark key="]" line="39" column="0" />
+        <mark key="^" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/projects/pawncade/frontend/app/containers/App/tests/index.test.js" timestamp="1550863098802">
         <mark key="[" line="8" column="42" />
@@ -384,6 +405,12 @@
         <mark key="]" line="9" column="65" />
         <mark key="." line="9" column="65" />
         <mark key="^" line="9" column="65" />
+      </file>
+      <file name="$USER_HOME$/projects/infinity-works/frontend/app/app.js" timestamp="1554329344020">
+        <mark key="[" line="28" column="88" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="29" column="0" />
       </file>
       <file name="$USER_HOME$/projects/kotlin/sky/feedme-backend/src/main/resources/application.yml" timestamp="1554187768817">
         <mark key="[" line="0" column="0" />
@@ -473,6 +500,13 @@
         <mark key="]" line="7" column="0" />
         <mark key="^" line="9" column="12" />
         <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/infinity-works/frontend/package.json" timestamp="1554329084840">
+        <mark key="'" line="39" column="5" />
+        <mark key="[" line="43" column="56" />
+        <mark key="]" line="43" column="54" />
+        <mark key="." line="43" column="54" />
+        <mark key="^" line="43" column="54" />
       </file>
       <file name="$USER_HOME$/projects/pawncade/frontend/app/containers/Login/selectors.js" timestamp="1554177628258">
         <mark key="[" line="5" column="0" />
@@ -698,7 +732,7 @@
         <mark key="." line="8" column="22" />
         <mark key="^" line="8" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1553973620883">
+      <file name="/Dummy.txt" timestamp="1554329664966">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="20" />
@@ -709,6 +743,11 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
         <mark key="^" line="42" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/infinity-works/frontend/app/global-styles.js" timestamp="1554329658374">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/projects/pods/infrastructure/docker-registry/docker-registry.Pod.yml" timestamp="1549219144077">
         <mark key="[" line="15" column="8" />
@@ -783,16 +822,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="247" column="36" filename="$USER_HOME$/projects/latex /resume/src/Curriculum Vitae/moderncvstyleoldstyle.sty" />
-      <jump line="47" column="16" filename="$USER_HOME$/projects/latex /resume/src/Curriculum Vitae/moderncvstyleoldstyle.sty" />
-      <jump line="154" column="69" filename="$USER_HOME$/projects/latex /resume/src/Curriculum Vitae/moderncvstyleoldstyle.sty" />
-      <jump line="297" column="58" filename="$USER_HOME$/projects/latex /resume/src/Curriculum Vitae/moderncvstyleoldstyle.sty" />
-      <jump line="84" column="22" filename="$USER_HOME$/projects/latex /resume/src/USA STEM CV/section_experience.tex" />
-      <jump line="19" column="106" filename="$USER_HOME$/projects/latex /resume/src/USA STEM CV/section_skills.tex" />
-      <jump line="16" column="21" filename="$USER_HOME$/projects/latex /resume/src/USA STEM CV/section_honors_awards.tex" />
-      <jump line="18" column="20" filename="$USER_HOME$/projects/latex /resume/src/USA STEM CV/section_references.tex" />
-      <jump line="355" column="32" filename="$USER_HOME$/projects/latex /resume/src/USA STEM CV/documentMETADATA.cls" />
-      <jump line="376" column="0" filename="$USER_HOME$/projects/latex /resume/src/USA STEM CV/documentMETADATA.cls" />
       <jump line="375" column="0" filename="$USER_HOME$/projects/latex /resume/src/USA STEM CV/documentMETADATA.cls" />
       <jump line="467" column="26" filename="$USER_HOME$/projects/latex /resume/src/USA STEM CV/documentMETADATA.cls" />
       <jump line="417" column="16" filename="$USER_HOME$/projects/latex /resume/src/USA STEM CV/documentMETADATA.cls" />
@@ -883,6 +912,16 @@
       <jump line="22" column="24" filename="$USER_HOME$/projects/kotlin/sky/feedme-consumer/src/main/resources/application.yml" />
       <jump line="0" column="5" filename="$USER_HOME$/projects/kotlin/sky/feedme-persistence/src/main/resources/application.yml" />
       <jump line="31" column="89" filename="$USER_HOME$/projects/kotlin/sky/feedme-persistence/src/test/kotlin/com/artronics/feedme/persistence/Repository.kt" />
+      <jump line="26" column="25" filename="$USER_HOME$/projects/infinity-works/frontend/package.json" />
+      <jump line="44" column="0" filename="$USER_HOME$/projects/infinity-works/frontend/package.json" />
+      <jump line="51" column="0" filename="$USER_HOME$/projects/infinity-works/frontend/package.json" />
+      <jump line="122" column="0" filename="$USER_HOME$/projects/infinity-works/frontend/package.json" />
+      <jump line="125" column="0" filename="$USER_HOME$/projects/infinity-works/frontend/package.json" />
+      <jump line="141" column="0" filename="$USER_HOME$/projects/infinity-works/frontend/package.json" />
+      <jump line="39" column="5" filename="$USER_HOME$/projects/infinity-works/frontend/package.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/infinity-works/frontend/.eslintrc.js" />
+      <jump line="2" column="20" filename="$USER_HOME$/projects/infinity-works/frontend/.eslintrc.js" />
+      <jump line="3" column="12" filename="$USER_HOME$/projects/infinity-works/frontend/.eslintrc.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -909,53 +948,53 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>chanllenging</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">LyoqCiAqCiAqIFRhYmxlCiAqCiAqLwoK</text>
       </register>
       <register name="-" type="4">
-        <text>chanllenging</text>
+        <text encoding="base64">J3ByZXR0aWVyJywg</text>
       </register>
       <register name="/" type="4">
-        <text>li</text>
+        <text>pret</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjb25zdCBwYXRoID0gJ2h0dHA6Ly9mZWVkbWUtYmFja2VuZDo4MDgwL2V2ZW50cyc7Cg==</text>
+        <text encoding="base64">aW1wb3J0ICchIXN0eWxlLWxvYWRlciFjc3MtbG9hZGVyIS4uL25vZGVfbW9kdWxlcy9ib290c3RyYXAvZGlzdC9jc3MvYm9vdHN0cmFwLm1pbi5jc3MnOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICogQWx0aG91Z2ggSSB1c2VkIGFuZ3VsYXIgZXh0ZW5zaXZlbHkgZHVyaW5nIG15IHBhc3QgdHdvIGpvYnMsIHJlYWN0IGlzIHN0aWxsIG15IGZhdm91cml0ZS4KICAgICogVXNpbmcgdGhpcyBwYXJ0aWN1bGFyIHJlYWN0LWJvaWxlcnBsYXRlIHdhcyBhbiBvdmVya2lsbCBmb3IgdGhpcyBwcm9qZWN0IGhvd2V2ZXIsIEkgY2hvc2UgaXQgYmVjYXVzZSBvZiBmYW1pbGlhcml0eQo=</text>
+        <text encoding="base64">LyoqCiAqCiAqIFRhYmxlCiAqCiAqLwoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRkZAo=</text>
+        <text encoding="base64">ICBodG1sLAogIGJvZHkgewogICAgaGVpZ2h0OiAxMDAlOwogICAgd2lkdGg6IDEwMCU7CiAgfQoKICBib2R5IHsKICAgIGZvbnQtZmFtaWx5OiAnSGVsdmV0aWNhIE5ldWUnLCBIZWx2ZXRpY2EsIEFyaWFsLCBzYW5zLXNlcmlmOwogIH0KCiAgYm9keS5mb250TG9hZGVkIHsKICAgIGZvbnQtZmFtaWx5OiAnT3BlbiBTYW5zJywgJ0hlbHZldGljYSBOZXVlJywgSGVsdmV0aWNhLCBBcmlhbCwgc2Fucy1zZXJpZjsKICB9CgogICNhcHAgewogICAgYmFja2dyb3VuZC1jb2xvcjogI2ZhZmFmYTsKICAgIG1pbi1oZWlnaHQ6IDEwMCU7CiAgICBtaW4td2lkdGg6IDEwMCU7CiAgfQoKICBwLAogIGxhYmVsIHsKICAgIGZvbnQtZmFtaWx5OiBHZW9yZ2lhLCBUaW1lcywgJ1RpbWVzIE5ldyBSb21hbicsIHNlcmlmOwogICAgbGluZS1oZWlnaHQ6IDEuNWVtOwogIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICogSSBzcGVuZCBhIGxvdCBvZiB0aW1lIHRvIG1ha2Ugc29tZQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICogSSB3YW50ZWQgdG8gZG8gYSBjYW1lbCBtdWx0aWNhc3QgdG8gZm9yd2FyZCBhbGwgdXBkYXRlZCAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICogVGhpcyBwcm9qZWN0IHdhcyB0aGUgZmlyc3QgdGltZSBJIHdvcmsgd2l0aCBtb25nb2RiLiAK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICdwcmV0dGllci9wcmV0dGllcic6IFsnZXJyb3InLCBwcmV0dGllck9wdGlvbnNdLAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Y29uc3QgZnMgPSByZXF1aXJlKCdmcycpOwpjb25zdCBwYXRoID0gcmVxdWlyZSgncGF0aCcpOwoKY29uc3QgcHJldHRpZXJPcHRpb25zID0gSlNPTi5wYXJzZSgKICBmcy5yZWFkRmlsZVN5bmMocGF0aC5yZXNvbHZlKF9fZGlybmFtZSwgJy5wcmV0dGllcnJjJyksICd1dGY4JyksCik7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICJwcmV0dGllciI6ICIxLjE0LjMiLAo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">SSBjb3VsZG4ndCB3b3JrIG91dCBob3cgdG8gZml4IGl0LiAK</text>
+        <text encoding="base64">ICAgICJlc2xpbnQtcGx1Z2luLXByZXR0aWVyIjogIjMuMC4wIiwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAiYXV0aG9yIjogIk1heCBTdG9pYmVyIiwK</text>
+        <text encoding="base64">ICAgICJlc2xpbnQtY29uZmlnLXByZXR0aWVyIjogIjMuMS4wIiwK</text>
       </register>
       <register name=":" type="4">
         <text>action KJumpAction.Line</text>
       </register>
     </registers>
     <search>
-      <last-search>li</last-search>
+      <last-search>pret</last-search>
       <last-offset />
-      <last-pattern>li</last-pattern>
+      <last-pattern>pret</last-pattern>
       <last-replace />
       <last-substitute>chapar.</last-substitute>
       <last-dir>1</last-dir>
@@ -963,7 +1002,6 @@
     </search>
     <history>
       <history-search>
-        <entry>gnd</entry>
         <entry>Out</entry>
         <entry>hea</entry>
         <entry>@Json</entry>
@@ -983,6 +1021,7 @@
         <entry>pretti</entry>
         <entry>pre</entry>
         <entry>li</entry>
+        <entry>pret</entry>
       </history-search>
       <history-cmd>
         <entry>%s/chapar.//g</entry>
