@@ -318,11 +318,11 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="15" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/infinity-works/food-hygiene/src/main/kotlin/com/artronics/food/fhrs/model.kt" timestamp="1554381542370">
-        <mark key="[" line="15" column="4" />
-        <mark key="]" line="15" column="7" />
-        <mark key="." line="15" column="7" />
-        <mark key="^" line="15" column="7" />
+      <file name="$USER_HOME$/projects/infinity-works/food-hygiene/src/main/kotlin/com/artronics/food/fhrs/model.kt" timestamp="1554383858159">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="19" column="56" />
       </file>
       <file name="$USER_HOME$/projects/infinity-works/frontend/app/utils/request.js" timestamp="1554379126842">
         <mark key="'" line="0" column="59" />
@@ -555,6 +555,12 @@
         <mark key="^" line="6" column="4" />
         <mark key="." line="6" column="4" />
       </file>
+      <file name="$USER_HOME$/projects/infinity-works/food-hygiene/src/test/kotlin/com/artronics/food/fhrs/EstablishmentRatingAggregatorTest.kt" timestamp="1554384086213">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="^" line="37" column="44" />
+        <mark key="." line="38" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/kotlin/sky/feedme-backend/src/main/kotlin/com/artronics/feedme/backend/service.kt" timestamp="1554185422118">
         <mark key="[" line="33" column="45" />
         <mark key="]" line="33" column="61" />
@@ -615,10 +621,10 @@
         <mark key="." line="72" column="0" />
         <mark key="^" line="76" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/infinity-works/food-hygiene/src/test/kotlin/com/artronics/food/fhrs/FhrsApiServiceTest.kt" timestamp="1554382960024">
+      <file name="$USER_HOME$/projects/infinity-works/food-hygiene/src/test/kotlin/com/artronics/food/fhrs/FhrsApiServiceTest.kt" timestamp="1554383600743">
         <mark key="'" line="56" column="0" />
-        <mark key="[" line="68" column="89" />
-        <mark key="]" line="68" column="89" />
+        <mark key="[" line="65" column="39" />
+        <mark key="]" line="65" column="93" />
         <mark key="." line="68" column="89" />
         <mark key="^" line="68" column="89" />
       </file>
@@ -671,11 +677,11 @@
         <mark key="^" line="34" column="31" />
         <mark key="." line="34" column="31" />
       </file>
-      <file name="$USER_HOME$/projects/infinity-works/food-hygiene/src/main/kotlin/com/artronics/food/fhrs/Aggregator.kt" timestamp="1554382268448">
-        <mark key="[" line="10" column="77" />
-        <mark key="]" line="11" column="25" />
-        <mark key="^" line="11" column="25" />
-        <mark key="." line="11" column="25" />
+      <file name="$USER_HOME$/projects/infinity-works/food-hygiene/src/main/kotlin/com/artronics/food/fhrs/Aggregator.kt" timestamp="1554384654387">
+        <mark key="[" line="20" column="10" />
+        <mark key="]" line="20" column="10" />
+        <mark key="^" line="20" column="14" />
+        <mark key="." line="20" column="10" />
       </file>
       <file name="$USER_HOME$/projects/infinity-works/food-hygiene/src/main/resources/application.yml" timestamp="1554351938592">
         <mark key="[" line="7" column="0" />
@@ -970,43 +976,48 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>value</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>value</text>
       </register>
       <register name="/" type="4">
         <text>URL</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgYXV0aG9yaXR5SWQgPSAxMjMK</text>
+        <text encoding="base64">ICAgICAgICBTVEFSMSAtPiAiMSIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGZ1biAoKTogVW5pdCB7CiAgICAgICAgCiAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlc3RhYmxpc2htZW50cwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgYXV0aG9yaXR5SWQgPSAxMjMK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZW1wdHlMaXN0KCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgdXJpID0gIiR1cmwvZXN0YWJsaXNobWVudHM/bG9jYWxBdXRob3JpdHlJZD0kYXV0aG9yaXR5SWQiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBWZXJpZnkgb24gYWdncmVnYXRvciB0aGF0IGFnZ3JlZ2F0b3IuYWdncmVnYXRlKCkK</text>
+      <register name="5" type="8">
+        <text>5
+5
+5</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW50ZXJmYWNlIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cgo=</text>
+      <register name="9" type="8">
+        <text>, &quot;businessType&quot;
+, &quot;businessType&quot;
+, &quot;businessType&quot;
+, &quot;businessType&quot;</text>
       </register>
       <register name=":" type="4">
         <text>action KJumpAction.Line</text>
