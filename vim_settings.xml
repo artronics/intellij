@@ -42,11 +42,11 @@
         <mark key="." line="18" column="3" />
         <mark key="^" line="18" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/infinity-works/food-hygiene/build.gradle" timestamp="1554373943935">
-        <mark key="[" line="30" column="64" />
-        <mark key="]" line="30" column="64" />
+      <file name="$USER_HOME$/projects/infinity-works/food-hygiene/build.gradle" timestamp="1554418762384">
+        <mark key="[" line="49" column="98" />
+        <mark key="]" line="49" column="98" />
         <mark key="^" line="30" column="64" />
-        <mark key="." line="30" column="64" />
+        <mark key="." line="49" column="98" />
       </file>
       <file name="$USER_HOME$/projects/infinity-works/frontend/app/containers/AuthorityProfile/constants.js" timestamp="1554392712257">
         <mark key="[" line="1" column="106" />
@@ -54,17 +54,16 @@
         <mark key="." line="1" column="106" />
         <mark key="^" line="1" column="46" />
       </file>
-      <file name="$USER_HOME$/projects/infinity-works/frontend/app/components/Rating/index.js" timestamp="1554404728961">
-        <mark key="[" line="11" column="21" />
-        <mark key="]" line="11" column="31" />
-        <mark key="." line="11" column="31" />
-        <mark key="^" line="11" column="31" />
+      <file name="$USER_HOME$/projects/infinity-works/frontend/app/components/Rating/index.js" timestamp="1554416324408">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/infinity-works/frontend/app/components/RatingProfile/index.js" timestamp="1554404574201">
-        <mark key="[" line="4" column="55" />
-        <mark key="]" line="4" column="61" />
-        <mark key="." line="4" column="61" />
-        <mark key="^" line="4" column="61" />
+      <file name="$USER_HOME$/projects/infinity-works/frontend/app/components/RatingProfile/index.js" timestamp="1554416310887">
+        <mark key="[" line="5" column="36" />
+        <mark key="]" line="5" column="36" />
+        <mark key="." line="5" column="36" />
+        <mark key="^" line="5" column="17" />
       </file>
       <file name="$USER_HOME$/projects/infinity-works/food-hygiene/src/main/kotlin/com/artronics/food/App.kt" timestamp="1554376305098">
         <mark key="[" line="27" column="33" />
@@ -90,12 +89,12 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="20" column="32" />
       </file>
-      <file name="$USER_HOME$/projects/infinity-works/frontend/app/utils/request.js" timestamp="1554379126842">
+      <file name="$USER_HOME$/projects/infinity-works/frontend/app/utils/request.js" timestamp="1554418900057">
         <mark key="'" line="0" column="59" />
-        <mark key="[" line="37" column="31" />
-        <mark key="]" line="37" column="42" />
-        <mark key="." line="37" column="42" />
-        <mark key="^" line="37" column="42" />
+        <mark key="[" line="0" column="35" />
+        <mark key="]" line="0" column="41" />
+        <mark key="." line="0" column="41" />
+        <mark key="^" line="0" column="41" />
       </file>
       <file name="$USER_HOME$/projects/infinity-works/frontend/app/containers/Authority/selectors.js" timestamp="1554393889017">
         <mark key="[" line="30" column="61" />
@@ -148,11 +147,11 @@
         <mark key="^" line="27" column="27" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="/fragment.kt" timestamp="1554388218248">
+      <file name="/fragment.kt" timestamp="1554416527895">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="9" />
-        <mark key="." line="0" column="9" />
-        <mark key="^" line="0" column="9" />
+        <mark key="]" line="0" column="17" />
+        <mark key="." line="0" column="17" />
+        <mark key="^" line="0" column="17" />
       </file>
       <file name="$USER_HOME$/projects/kotlin/sky/feedme-frontend/build.sh" timestamp="1554414245385">
         <mark key="[" line="5" column="50" />
@@ -160,11 +159,11 @@
         <mark key="^" line="6" column="4" />
         <mark key="." line="6" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/infinity-works/food-hygiene/src/test/kotlin/com/artronics/food/fhrs/EstablishmentRatingAggregatorTest.kt" timestamp="1554413018179">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="^" line="21" column="58" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/projects/infinity-works/food-hygiene/src/test/kotlin/com/artronics/food/fhrs/EstablishmentRatingAggregatorTest.kt" timestamp="1554418708651">
+        <mark key="[" line="33" column="45" />
+        <mark key="]" line="33" column="46" />
+        <mark key="^" line="35" column="49" />
+        <mark key="." line="33" column="46" />
       </file>
       <file name="$USER_HOME$/projects/infinity-works/frontend/app/containers/Authority/saga.js" timestamp="1554399423528">
         <mark key="'" line="1" column="0" />
@@ -193,11 +192,11 @@
         <mark key="." line="10" column="43" />
         <mark key="^" line="10" column="43" />
       </file>
-      <file name="$USER_HOME$/projects/infinity-works/frontend/app/components/Pagination/index.js" timestamp="1554403796848">
+      <file name="$USER_HOME$/projects/infinity-works/frontend/app/components/Pagination/index.js" timestamp="1554415048161">
         <mark key="[" line="13" column="7" />
-        <mark key="]" line="13" column="10" />
-        <mark key="^" line="13" column="10" />
-        <mark key="." line="13" column="10" />
+        <mark key="]" line="13" column="16" />
+        <mark key="^" line="13" column="16" />
+        <mark key="." line="13" column="16" />
       </file>
       <file name="$USER_HOME$/projects/infinity-works/frontend/app/containers/HomePage/index.js" timestamp="1554392540853">
         <mark key="[" line="21" column="0" />
@@ -211,18 +210,23 @@
         <mark key="^" line="34" column="31" />
         <mark key="." line="34" column="31" />
       </file>
-      <file name="$USER_HOME$/projects/infinity-works/food-hygiene/src/main/kotlin/com/artronics/food/fhrs/Aggregator.kt" timestamp="1554413882792">
+      <file name="$USER_HOME$/projects/infinity-works/food-hygiene/src/main/kotlin/com/artronics/food/fhrs/Aggregator.kt" timestamp="1554418482625">
         <mark key="'" line="50" column="8" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="21" column="15" />
+        <mark key="[" line="40" column="34" />
+        <mark key="]" line="40" column="34" />
+        <mark key="." line="40" column="34" />
+        <mark key="^" line="40" column="76" />
       </file>
-      <file name="$USER_HOME$/projects/infinity-works/frontend/app/containers/AuthorityProfile/index.js" timestamp="1554404504789">
-        <mark key="[" line="29" column="27" />
-        <mark key="]" line="29" column="31" />
-        <mark key="." line="29" column="31" />
-        <mark key="^" line="29" column="31" />
+      <file name="$USER_HOME$/projects/infinity-works/food-hygiene/src/main/resources/application.yml" timestamp="1554351938592">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/infinity-works/frontend/app/containers/AuthorityProfile/index.js" timestamp="1554416196279">
+        <mark key="[" line="36" column="14" />
+        <mark key="]" line="36" column="14" />
+        <mark key="." line="36" column="14" />
+        <mark key="^" line="13" column="47" />
       </file>
       <file name="$USER_HOME$/projects/infinity-works/frontend/app/containers/Authority/constants.js" timestamp="1554398180551">
         <mark key="[" line="4" column="44" />
@@ -237,11 +241,8 @@
         <mark key="." line="46" column="24" />
         <mark key="^" line="46" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554405182214">
-        <mark key="[" line="0" column="4" />
-        <mark key="]" line="0" column="4" />
-        <mark key="." line="0" column="4" />
-        <mark key="^" line="0" column="17" />
+      <file name="/Dummy.txt" timestamp="1554418957445">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/infinity-works/frontend/app/containers/Authority/actions.js" timestamp="1554398230527">
         <mark key="[" line="35" column="10" />
@@ -390,44 +391,44 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>feedme-frontend</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">QWRkIEF1dGhvcml0eVByb2ZpbGUK</text>
       </register>
       <register name="-" type="4">
-        <text>feedme-frontend</text>
+        <text>localhost</text>
       </register>
       <register name="/" type="4">
         <text>Ra</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2hlbiAocmF0aW5nKSB7CiAgICAgICAgICAgICAgICBTVEFSMCAtPiBpbmNDb3VudChTVEFSMCwgcmF0aW5nVG9Db3VudCkKICAgICAgICAgICAgICAgIFNUQVIxIC0+IGluY0NvdW50KFNUQVIxLCByYXRpbmdUb0NvdW50KQogICAgICAgICAgICAgICAgU1RBUjIgLT4gaW5jQ291bnQoU1RBUjIsIHJhdGluZ1RvQ291bnQpCiAgICAgICAgICAgICAgICBTVEFSMyAtPiBpbmNDb3VudChTVEFSMywgcmF0aW5nVG9Db3VudCkKICAgICAgICAgICAgICAgIFNUQVI0IC0+IGluY0NvdW50KFNUQVI0LCByYXRpbmdUb0NvdW50KQogICAgICAgICAgICAgICAgU1RBUjUgLT4gaW5jQ291bnQoU1RBUjUsIHJhdGluZ1RvQ291bnQpCiAgICAgICAgICAgICAgICBFWEVNUFQgLT4gaW5jQ291bnQoRVhFTVBULCByYXRpbmdUb0NvdW50KQogICAgICAgICAgICAgICAgQVdBSVRJTkdfSU5TUEVDVElPTiAtPiBpbmNDb3VudChBV0FJVElOR19JTlNQRUNUSU9OLCByYXRpbmdUb0NvdW50KQogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQWdncmVnYXRlZFJhdGluZygiUGFzcyIsIDApLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CmludGVyZmFjZSBSYXRpbmdBZ2dyZWdhdG9yIHsKICAgIGZ1biBhZ2dyZWdhdGUoZXN0YWJsaXNobWVudHM6IExpc3Q8RXN0YWJsaXNobWVudD4pOiBMaXN0PEFnZ3JlZ2F0ZWRSYXRpbmc+Cn0K</text>
+        <text encoding="base64">QWRkIEF1dGhvcml0eVByb2ZpbGUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICBmb3IgKGVzdGFibGlzaG1lbnQgaW4gZXN0YWJsaXNobWVudHMpIHsKICAgICAgICAgICAgdmFsIHJhdGluZyA9IFJhdGluZ1ZhbHVlcy5mcm9tKGVzdGFibGlzaG1lbnQuUmF0aW5nVmFsdWUpCiAgICAgICAgICAgIHdoZW4gKHJhdGluZykgewogICAgICAgICAgICAgICAgU1RBUjAgLT4gaW5jQ291bnQoU1RBUjAsIHJhdGluZ1RvQ291bnQpCiAgICAgICAgICAgICAgICBTVEFSMSAtPiBpbmNDb3VudChTVEFSMSwgcmF0aW5nVG9Db3VudCkKICAgICAgICAgICAgICAgIFNUQVIyIC0+IGluY0NvdW50KFNUQVIyLCByYXRpbmdUb0NvdW50KQogICAgICAgICAgICAgICAgU1RBUjMgLT4gaW5jQ291bnQoU1RBUjMsIHJhdGluZ1RvQ291bnQpCiAgICAgICAgICAgICAgICBTVEFSNCAtPiBpbmNDb3VudChTVEFSNCwgcmF0aW5nVG9Db3VudCkKICAgICAgICAgICAgICAgIFNUQVI1IC0+IGluY0NvdW50KFNUQVI1LCByYXRpbmdUb0NvdW50KQogICAgICAgICAgICAgICAgRVhFTVBUIC0+IGluY0NvdW50KEVYRU1QVCwgcmF0aW5nVG9Db3VudCkKICAgICAgICAgICAgICAgIEFXQUlUSU5HX0lOU1BFQ1RJT04gLT4gaW5jQ291bnQoQVdBSVRJTkdfSU5TUEVDVElPTiwgcmF0aW5nVG9Db3VudCkKICAgICAgICAgICAgfQogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBBZ2dyZWdhdGVkUmF0aW5nKCJQYXNzIGFuZCBFYXQgU2FnZSIsIDApCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBBZ2dyZWdhdGVkUmF0aW5nKCJBd2FpdGluZyBJbnNwZWN0aW9uIiwgMCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIGVzdGFibGlzaG1lbnRTaXplID0gZXN0YWJsaXNobWVudHMuc2l6ZQo=</text>
+        <text encoding="base64">YWdncmVnYXRlZC5yZW1vdmVJZiB7IFJhdGluZ1ZhbHVlcy5mcm9tKGl0LnJhdGluZykgPT0gT1RIRVIgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgdmFsIGFnZ3JlZ2F0ZWQ6IE11dGFibGVMaXN0PEFnZ3JlZ2F0ZWRSYXRpbmc+ID0gQXJyYXlMaXN0KCkKICAgICAgICB2YWwgZXN0YWJsaXNobWVudFNpemUgPSBlc3RhYmxpc2htZW50cy5zaXplCiAgICAgICAgcmF0aW5nVG9Db3VudC5rZXlzLmZvckVhY2ggewogICAgICAgICAgICB2YWwgY291bnQgPSByYXRpbmdUb0NvdW50W2l0XSEhCiAgICAgICAgICAgIHZhbCBwZXJjZW50YWdlOiBEb3VibGUgPSAoY291bnQgLyBlc3RhYmxpc2htZW50U2l6ZS50b0RvdWJsZSgpKSAqIDEwMAogICAgICAgICAgICBhZ2dyZWdhdGVkLmFkZChBZ2dyZWdhdGVkUmF0aW5nKGl0LnZhbHVlLCBwZXJjZW50YWdlLnRvSW50KCkpKQogICAgICAgIH0KCiAgICAgICAgcmV0dXJuIGFnZ3JlZ2F0ZWQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChpdCAhPT0gT1RIRVIpIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBjYXRjaCAoZTogRXhjZXB0aW9uKSB7CiAgICAgICAgICAgICAgICBwcmludGxuKGUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFnZ3JlZ2F0ZWQuYWRkKEFnZ3JlZ2F0ZWRSYXRpbmcoaXQudmFsdWUsIHBlcmNlbnRhZ2UudG9JbnQoKSkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgd2hlbiAocmF0aW5nKSB7Ci8vICAgICAgICAgICAgICAgICAgICBTVEFSMCAtPiBpbmNDb3VudChTVEFSMCwgcmF0aW5nVG9Db3VudCkKLy8gICAgICAgICAgICAgICAgICAgIFNUQVIxIC0+IGluY0NvdW50KFNUQVIxLCByYXRpbmdUb0NvdW50KQovLyAgICAgICAgICAgICAgICAgICAgU1RBUjIgLT4gaW5jQ291bnQoU1RBUjIsIHJhdGluZ1RvQ291bnQpCi8vICAgICAgICAgICAgICAgICAgICBTVEFSMyAtPiBpbmNDb3VudChTVEFSMywgcmF0aW5nVG9Db3VudCkKLy8gICAgICAgICAgICAgICAgICAgIFNUQVI0IC0+IGluY0NvdW50KFNUQVI0LCByYXRpbmdUb0NvdW50KQovLyAgICAgICAgICAgICAgICAgICAgU1RBUjUgLT4gaW5jQ291bnQoU1RBUjUsIHJhdGluZ1RvQ291bnQpCi8vICAgICAgICAgICAgICAgICAgICBFWEVNUFQgLT4gaW5jQ291bnQoRVhFTVBULCByYXRpbmdUb0NvdW50KQovLyAgICAgICAgICAgICAgICAgICAgUEFTUyAtPiBpbmNDb3VudChQQVNTLCByYXRpbmdUb0NvdW50KQovLyAgICAgICAgICAgICAgICAgICAgQVdBSVRJTkdfSU5TUEVDVElPTiAtPiBpbmNDb3VudChBV0FJVElOR19JTlNQRUNUSU9OLCByYXRpbmdUb0NvdW50KQovLyAgICAgICAgICAgICAgICAgICAgT1RIRVIgLT4gcHJpbnRsbigidW5zdXBwb3J0ZWQgdmFsdWUiKQovLyAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action KJumpAction.Line</text>
