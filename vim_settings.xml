@@ -109,8 +109,11 @@
         <mark key="." line="28" column="36" />
         <mark key="^" line="28" column="36" />
       </file>
-      <file name="$USER_HOME$/projects/infinity-works/frontend/build.sh" timestamp="1554414095912">
-        <mark key="[" line="0" column="19" />
+      <file name="$USER_HOME$/projects/infinity-works/frontend/build.sh" timestamp="1554414342797">
+        <mark key="[" line="6" column="79" />
+        <mark key="]" line="6" column="85" />
+        <mark key="^" line="6" column="85" />
+        <mark key="." line="6" column="85" />
       </file>
       <file name="$USER_HOME$/projects/infinity-works/frontend/app/containers/AuthorityProfile/saga.js" timestamp="1554402765942">
         <mark key="[" line="0" column="0" />
@@ -150,6 +153,12 @@
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
         <mark key="^" line="0" column="9" />
+      </file>
+      <file name="$USER_HOME$/projects/kotlin/sky/feedme-frontend/build.sh" timestamp="1554414245385">
+        <mark key="[" line="5" column="50" />
+        <mark key="]" line="6" column="4" />
+        <mark key="^" line="6" column="4" />
+        <mark key="." line="6" column="4" />
       </file>
       <file name="$USER_HOME$/projects/infinity-works/food-hygiene/src/test/kotlin/com/artronics/food/fhrs/EstablishmentRatingAggregatorTest.kt" timestamp="1554413018179">
         <mark key="[" line="21" column="0" />
@@ -381,11 +390,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CmludGVyZmFjZSBSYXRpbmdBZ2dyZWdhdG9yIHsKICAgIGZ1biBhZ2dyZWdhdGUoZXN0YWJsaXNobWVudHM6IExpc3Q8RXN0YWJsaXNobWVudD4pOiBMaXN0PEFnZ3JlZ2F0ZWRSYXRpbmc+Cn0K</text>
+      <register name="&quot;" type="4">
+        <text>feedme-frontend</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>feedme-frontend</text>
       </register>
       <register name="/" type="4">
         <text>Ra</text>
