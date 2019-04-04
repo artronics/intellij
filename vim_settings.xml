@@ -9,11 +9,11 @@
         <mark key="^" line="1" column="4" />
         <mark key="." line="1" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/infinity-works/food-hygiene/src/main/kotlin/com/artronics/food/fhrs/RestApi.kt" timestamp="1554382906510">
-        <mark key="[" line="37" column="15" />
-        <mark key="]" line="37" column="68" />
-        <mark key="." line="37" column="68" />
-        <mark key="^" line="37" column="68" />
+      <file name="$USER_HOME$/projects/infinity-works/food-hygiene/src/main/kotlin/com/artronics/food/fhrs/RestApi.kt" timestamp="1554389390374">
+        <mark key="[" line="17" column="38" />
+        <mark key="]" line="17" column="48" />
+        <mark key="." line="17" column="48" />
+        <mark key="^" line="17" column="48" />
       </file>
       <file name="/a.dummy" timestamp="1554382403319">
         <mark key="[" line="0" column="0" />
@@ -543,7 +543,7 @@
         <mark key="." line="83" column="14" />
         <mark key="^" line="83" column="14" />
       </file>
-      <file name="/fragment.kt" timestamp="1554351212680">
+      <file name="/fragment.kt" timestamp="1554388218248">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
@@ -555,11 +555,11 @@
         <mark key="^" line="6" column="4" />
         <mark key="." line="6" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/infinity-works/food-hygiene/src/test/kotlin/com/artronics/food/fhrs/EstablishmentRatingAggregatorTest.kt" timestamp="1554384086213">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="^" line="37" column="44" />
-        <mark key="." line="38" column="0" />
+      <file name="$USER_HOME$/projects/infinity-works/food-hygiene/src/test/kotlin/com/artronics/food/fhrs/EstablishmentRatingAggregatorTest.kt" timestamp="1554388405058">
+        <mark key="[" line="30" column="31" />
+        <mark key="]" line="30" column="35" />
+        <mark key="^" line="30" column="35" />
+        <mark key="." line="30" column="35" />
       </file>
       <file name="$USER_HOME$/projects/kotlin/sky/feedme-backend/src/main/kotlin/com/artronics/feedme/backend/service.kt" timestamp="1554185422118">
         <mark key="[" line="33" column="45" />
@@ -677,11 +677,12 @@
         <mark key="^" line="34" column="31" />
         <mark key="." line="34" column="31" />
       </file>
-      <file name="$USER_HOME$/projects/infinity-works/food-hygiene/src/main/kotlin/com/artronics/food/fhrs/Aggregator.kt" timestamp="1554385254006">
-        <mark key="[" line="20" column="29" />
-        <mark key="]" line="15" column="9" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="20" column="29" />
+      <file name="$USER_HOME$/projects/infinity-works/food-hygiene/src/main/kotlin/com/artronics/food/fhrs/Aggregator.kt" timestamp="1554389906459">
+        <mark key="'" line="50" column="8" />
+        <mark key="[" line="33" column="35" />
+        <mark key="]" line="33" column="40" />
+        <mark key="." line="33" column="40" />
+        <mark key="^" line="33" column="40" />
       </file>
       <file name="$USER_HOME$/projects/infinity-works/food-hygiene/src/main/resources/application.yml" timestamp="1554351938592">
         <mark key="[" line="7" column="0" />
@@ -754,7 +755,7 @@
         <mark key="." line="8" column="22" />
         <mark key="^" line="8" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554378482681">
+      <file name="/Dummy.txt" timestamp="1554389254740">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/kotlin/sky/feedme-consumer/build.gradle" timestamp="1554188286619">
@@ -849,7 +850,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="13" filename="$USER_HOME$/projects/rust/tut/src/main.rs" />
       <jump line="16" column="3" filename="$USER_HOME$/projects/rust/tut/src/main.rs" />
       <jump line="35" column="1" filename="$USER_HOME$/projects/rust/tut/src/main.rs" />
       <jump line="16" column="8" filename="$USER_HOME$/projects/rust/cdl/src/element.rs" />
@@ -949,6 +949,7 @@
       <jump line="13" column="18" filename="$USER_HOME$/projects/infinity-works/food-hygiene/src/test/kotlin/com/artronics/food/fhrs/FhrsApiServiceTest.kt" />
       <jump line="11" column="0" filename="$USER_HOME$/projects/infinity-works/food-hygiene/src/main/kotlin/com/artronics/food/fhrs/model.kt" />
       <jump line="56" column="0" filename="$USER_HOME$/projects/infinity-works/food-hygiene/src/test/kotlin/com/artronics/food/fhrs/FhrsApiServiceTest.kt" />
+      <jump line="50" column="8" filename="$USER_HOME$/projects/infinity-works/food-hygiene/src/main/kotlin/com/artronics/food/fhrs/Aggregator.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -975,56 +976,53 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZhbCByYXRlMTogUGFpcjxTdHJpbmcsIEludD4sCg==</text>
+      <register name="&quot;" type="4">
+        <text>STAR0</text>
       </register>
       <register name="-" type="4">
-        <text>Tuple</text>
+        <text>STAR0</text>
       </register>
       <register name="/" type="4">
-        <text>URL</text>
+        <text>EX</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhbCBzdGFyMTogU3RyaW5nLAo=</text>
+      <register name="0" type="4">
+        <text>incCount(STAR0, map)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCByYXRlMTogUGFpcjxTdHJpbmcsIEludD4sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbCByYXRlMTogU3RyaW5nLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbCBwKHJhdGUxOiBTdHJpbmcsIHBlcjogSW50KSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIHJhdGluZyA9IFJhdGluZ1ZhbHVlcy5mcm9tKGVzdGFibGlzaG1lbnQuUmF0aW5nVmFsdWUpCg==</text>
       </register>
-      <register name="4" type="8">
-        <text>star
-star
-star
-star</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmdW4gaW5jKHJhdGU6IFJhdGluZ1ZhbHVlcywgZXN0YWJsaXNobWVudDogRXN0YWJsaXNobWVudCwgcmF0ZVRvQ291bnQ6IE11dGFibGVNYXA8UmF0aW5nVmFsdWVzLCBJbnQ+KSB7CiAgICAgICAgICAgIHZhbCBjb3VudCA9IHJhdGVUb0NvdW50W3JhdGVdISEucGx1cygxKQogICAgICAgICAgICByYXRlVG9Db3VudFtyYXRlXSA9IGNvdW50CiAgICAgICAgfQo=</text>
-      </register>
-      <register name="6" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbWFwW1NUQVIxXSA9IG1hcFtTVEFSMV0hIS5wbHVzKDEpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbWFwW1NUQVIxXSA9IG1hcFtTVEFSMV0hIS5wbHVzKDEpCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJhdGVUb0NvdW50Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1hcFtTVEFSMV0gPSBtYXBbU1RBUjFdISEucGx1cygxKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIGNvdW50ID0gcmF0ZVRvQ291bnRbcmF0ZV0hIS5wbHVzKDEpCiAgICAgICAgICAgIHJhdGVUb0NvdW50W3JhdGVdID0gY291bnQKICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFNUQVIyIC0+IGluYyhTVEFSMiwgZXN0YWJsaXNobWVudCwgbWFwKQogICAgICAgICAgICAgICAgU1RBUjMgLT4gaW5jKFNUQVIzLCBlc3RhYmxpc2htZW50LCBtYXApCiAgICAgICAgICAgICAgICBTVEFSNCAtPiBpbmMoU1RBUjQsIGVzdGFibGlzaG1lbnQsIG1hcCkKICAgICAgICAgICAgICAgIFNUQVI1IC0+IGluYyhTVEFSNSwgZXN0YWJsaXNobWVudCwgbWFwKQogICAgICAgICAgICAgICAgRVhFTVBUIC0+IGluYyhFWEVNUFQsIGVzdGFibGlzaG1lbnQsIG1hcCkK</text>
       </register>
       <register name=":" type="4">
         <text>action KJumpAction.Line</text>
       </register>
     </registers>
     <search>
-      <last-search>URL</last-search>
+      <last-search>EX</last-search>
       <last-offset />
-      <last-pattern>URL</last-pattern>
+      <last-pattern>EX</last-pattern>
       <last-replace />
       <last-substitute>chapar.</last-substitute>
       <last-dir>1</last-dir>
@@ -1032,7 +1030,6 @@ star</text>
     </search>
     <history>
       <history-search>
-        <entry>@Json</entry>
         <entry>Ma</entry>
         <entry>Ou</entry>
         <entry>try</entry>
@@ -1052,6 +1049,7 @@ star</text>
         <entry>pret</entry>
         <entry>state</entry>
         <entry>URL</entry>
+        <entry>EX</entry>
       </history-search>
       <history-cmd>
         <entry>%s/chapar.//g</entry>
