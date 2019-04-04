@@ -9,6 +9,9 @@
         <mark key="." line="17" column="48" />
         <mark key="^" line="17" column="48" />
       </file>
+      <file name="/a.dummy" timestamp="1554413433717">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/infinity-works/frontend/app/containers/AuthorityProfile/selectors.js" timestamp="1554403984578">
         <mark key="[" line="7" column="47" />
         <mark key="]" line="7" column="47" />
@@ -106,11 +109,17 @@
         <mark key="." line="28" column="36" />
         <mark key="^" line="28" column="36" />
       </file>
+      <file name="$USER_HOME$/projects/infinity-works/frontend/build.sh" timestamp="1554414095912">
+        <mark key="[" line="0" column="19" />
+      </file>
       <file name="$USER_HOME$/projects/infinity-works/frontend/app/containers/AuthorityProfile/saga.js" timestamp="1554402765942">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="11" column="74" />
+      </file>
+      <file name="$USER_HOME$/projects/infinity-works/food-hygiene/src/test/kotlin/com/artronics/food/fhrs/FhrsController.kt" timestamp="1554379971969">
+        <mark key="[" line="2" column="0" />
       </file>
       <file name="$USER_HOME$/projects/infinity-works/frontend/app/containers/EstablishmentProfile/constants.js" timestamp="1554392328864">
         <mark key="[" line="0" column="19" />
@@ -142,11 +151,11 @@
         <mark key="." line="0" column="9" />
         <mark key="^" line="0" column="9" />
       </file>
-      <file name="$USER_HOME$/projects/infinity-works/food-hygiene/src/test/kotlin/com/artronics/food/fhrs/EstablishmentRatingAggregatorTest.kt" timestamp="1554388405058">
-        <mark key="[" line="30" column="31" />
-        <mark key="]" line="30" column="35" />
-        <mark key="^" line="30" column="35" />
-        <mark key="." line="30" column="35" />
+      <file name="$USER_HOME$/projects/infinity-works/food-hygiene/src/test/kotlin/com/artronics/food/fhrs/EstablishmentRatingAggregatorTest.kt" timestamp="1554413018179">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="21" column="58" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/projects/infinity-works/frontend/app/containers/Authority/saga.js" timestamp="1554399423528">
         <mark key="'" line="1" column="0" />
@@ -193,12 +202,12 @@
         <mark key="^" line="34" column="31" />
         <mark key="." line="34" column="31" />
       </file>
-      <file name="$USER_HOME$/projects/infinity-works/food-hygiene/src/main/kotlin/com/artronics/food/fhrs/Aggregator.kt" timestamp="1554389906459">
+      <file name="$USER_HOME$/projects/infinity-works/food-hygiene/src/main/kotlin/com/artronics/food/fhrs/Aggregator.kt" timestamp="1554413882792">
         <mark key="'" line="50" column="8" />
-        <mark key="[" line="33" column="35" />
-        <mark key="]" line="33" column="40" />
-        <mark key="." line="33" column="40" />
-        <mark key="^" line="33" column="40" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="21" column="15" />
       </file>
       <file name="$USER_HOME$/projects/infinity-works/frontend/app/containers/AuthorityProfile/index.js" timestamp="1554404504789">
         <mark key="[" line="29" column="27" />
@@ -372,44 +381,44 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>Authority container with Table component</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CmludGVyZmFjZSBSYXRpbmdBZ2dyZWdhdG9yIHsKICAgIGZ1biBhZ2dyZWdhdGUoZXN0YWJsaXNobWVudHM6IExpc3Q8RXN0YWJsaXNobWVudD4pOiBMaXN0PEFnZ3JlZ2F0ZWRSYXRpbmc+Cn0K</text>
       </register>
       <register name="-" type="4">
-        <text>Authority container with Table component</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>Ra</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgPHA+e3JhdGluZy5yYXRpbmd9PC9wPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2hlbiAocmF0aW5nKSB7CiAgICAgICAgICAgICAgICBTVEFSMCAtPiBpbmNDb3VudChTVEFSMCwgcmF0aW5nVG9Db3VudCkKICAgICAgICAgICAgICAgIFNUQVIxIC0+IGluY0NvdW50KFNUQVIxLCByYXRpbmdUb0NvdW50KQogICAgICAgICAgICAgICAgU1RBUjIgLT4gaW5jQ291bnQoU1RBUjIsIHJhdGluZ1RvQ291bnQpCiAgICAgICAgICAgICAgICBTVEFSMyAtPiBpbmNDb3VudChTVEFSMywgcmF0aW5nVG9Db3VudCkKICAgICAgICAgICAgICAgIFNUQVI0IC0+IGluY0NvdW50KFNUQVI0LCByYXRpbmdUb0NvdW50KQogICAgICAgICAgICAgICAgU1RBUjUgLT4gaW5jQ291bnQoU1RBUjUsIHJhdGluZ1RvQ291bnQpCiAgICAgICAgICAgICAgICBFWEVNUFQgLT4gaW5jQ291bnQoRVhFTVBULCByYXRpbmdUb0NvdW50KQogICAgICAgICAgICAgICAgQVdBSVRJTkdfSU5TUEVDVElPTiAtPiBpbmNDb3VudChBV0FJVElOR19JTlNQRUNUSU9OLCByYXRpbmdUb0NvdW50KQogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgPHA+a2lyPC9wPgo=</text>
+        <text encoding="base64">CmludGVyZmFjZSBSYXRpbmdBZ2dyZWdhdG9yIHsKICAgIGZ1biBhZ2dyZWdhdGUoZXN0YWJsaXNobWVudHM6IExpc3Q8RXN0YWJsaXNobWVudD4pOiBMaXN0PEFnZ3JlZ2F0ZWRSYXRpbmc+Cn0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAge2NvbnNvbGUubG9nKGFnZ3JlZ2F0ZWQpfQo=</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICBmb3IgKGVzdGFibGlzaG1lbnQgaW4gZXN0YWJsaXNobWVudHMpIHsKICAgICAgICAgICAgdmFsIHJhdGluZyA9IFJhdGluZ1ZhbHVlcy5mcm9tKGVzdGFibGlzaG1lbnQuUmF0aW5nVmFsdWUpCiAgICAgICAgICAgIHdoZW4gKHJhdGluZykgewogICAgICAgICAgICAgICAgU1RBUjAgLT4gaW5jQ291bnQoU1RBUjAsIHJhdGluZ1RvQ291bnQpCiAgICAgICAgICAgICAgICBTVEFSMSAtPiBpbmNDb3VudChTVEFSMSwgcmF0aW5nVG9Db3VudCkKICAgICAgICAgICAgICAgIFNUQVIyIC0+IGluY0NvdW50KFNUQVIyLCByYXRpbmdUb0NvdW50KQogICAgICAgICAgICAgICAgU1RBUjMgLT4gaW5jQ291bnQoU1RBUjMsIHJhdGluZ1RvQ291bnQpCiAgICAgICAgICAgICAgICBTVEFSNCAtPiBpbmNDb3VudChTVEFSNCwgcmF0aW5nVG9Db3VudCkKICAgICAgICAgICAgICAgIFNUQVI1IC0+IGluY0NvdW50KFNUQVI1LCByYXRpbmdUb0NvdW50KQogICAgICAgICAgICAgICAgRVhFTVBUIC0+IGluY0NvdW50KEVYRU1QVCwgcmF0aW5nVG9Db3VudCkKICAgICAgICAgICAgICAgIEFXQUlUSU5HX0lOU1BFQ1RJT04gLT4gaW5jQ291bnQoQVdBSVRJTkdfSU5TUEVDVElPTiwgcmF0aW5nVG9Db3VudCkKICAgICAgICAgICAgfQogICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zdCByZW5kZXJQcm9maWxlID0gKHJhdGluZ1Byb2ZpbGUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIGVzdGFibGlzaG1lbnRTaXplID0gZXN0YWJsaXNobWVudHMuc2l6ZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBhdXRob3JpdHlQcm9maWxlOiBtYWtlU2VsZWN0QXV0aG9yaXR5UHJvZmlsZSgpLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IHsgdGFrZSwgY2FsbCwgcHV0LCBzZWxlY3QgfSBmcm9tICdyZWR1eC1zYWdhL2VmZmVjdHMnOwo=</text>
+        <text encoding="base64">CiAgICAgICAgdmFsIGFnZ3JlZ2F0ZWQ6IE11dGFibGVMaXN0PEFnZ3JlZ2F0ZWRSYXRpbmc+ID0gQXJyYXlMaXN0KCkKICAgICAgICB2YWwgZXN0YWJsaXNobWVudFNpemUgPSBlc3RhYmxpc2htZW50cy5zaXplCiAgICAgICAgcmF0aW5nVG9Db3VudC5rZXlzLmZvckVhY2ggewogICAgICAgICAgICB2YWwgY291bnQgPSByYXRpbmdUb0NvdW50W2l0XSEhCiAgICAgICAgICAgIHZhbCBwZXJjZW50YWdlOiBEb3VibGUgPSAoY291bnQgLyBlc3RhYmxpc2htZW50U2l6ZS50b0RvdWJsZSgpKSAqIDEwMAogICAgICAgICAgICBhZ2dyZWdhdGVkLmFkZChBZ2dyZWdhdGVkUmF0aW5nKGl0LnZhbHVlLCBwZXJjZW50YWdlLnRvSW50KCkpKQogICAgICAgIH0KCiAgICAgICAgcmV0dXJuIGFnZ3JlZ2F0ZWQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRpc3BhdGNoLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBjYXRjaCAoZTogRXhjZXB0aW9uKSB7CiAgICAgICAgICAgICAgICBwcmludGxuKGUpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBkaXNwYXRjaDogUHJvcFR5cGVzLmZ1bmMuaXNSZXF1aXJlZCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsK</text>
       </register>
       <register name=":" type="4">
         <text>action KJumpAction.Line</text>
