@@ -12,17 +12,16 @@
       <file name="/a.dummy" timestamp="1554392565531">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/infinity-works/frontend/app/containers/AuthorityProfile/selectors.js" timestamp="1554393068111">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="8" column="29" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="8" column="0" />
+      <file name="$USER_HOME$/projects/infinity-works/frontend/app/containers/AuthorityProfile/selectors.js" timestamp="1554393591428">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/infinity-works/frontend/app/containers/Authority/tests/reducer.test.js" timestamp="1554377223568">
-        <mark key="[" line="25" column="21" />
-        <mark key="]" line="25" column="27" />
-        <mark key="^" line="25" column="27" />
-        <mark key="." line="25" column="27" />
+      <file name="$USER_HOME$/projects/infinity-works/frontend/app/containers/Authority/tests/reducer.test.js" timestamp="1554394410342">
+        <mark key="[" line="31" column="52" />
+        <mark key="]" line="31" column="72" />
+        <mark key="^" line="31" column="72" />
+        <mark key="." line="31" column="72" />
       </file>
       <file name="$USER_HOME$/projects/infinity-works/frontend/app/components/RatingProfile/tests/index.test.js" timestamp="1554391976846">
         <mark key="[" line="14" column="43" />
@@ -71,6 +70,18 @@
         <mark key="." line="27" column="39" />
         <mark key="^" line="27" column="39" />
       </file>
+      <file name="$USER_HOME$/projects/infinity-works/frontend/app/components/Table/index.js" timestamp="1554395495172">
+        <mark key="[" line="27" column="42" />
+        <mark key="]" line="28" column="30" />
+        <mark key="." line="28" column="30" />
+        <mark key="^" line="28" column="30" />
+      </file>
+      <file name="$USER_HOME$/projects/infinity-works/frontend/app/containers/Authority/tests/actions.test.js" timestamp="1554393742463">
+        <mark key="[" line="27" column="29" />
+        <mark key="]" line="27" column="30" />
+        <mark key="." line="27" column="30" />
+        <mark key="^" line="27" column="30" />
+      </file>
       <file name="$USER_HOME$/projects/infinity-works/food-hygiene/src/main/kotlin/com/artronics/food/fhrs/model.kt" timestamp="1554385462617">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -84,17 +95,17 @@
         <mark key="." line="37" column="42" />
         <mark key="^" line="37" column="42" />
       </file>
-      <file name="$USER_HOME$/projects/infinity-works/frontend/app/containers/Authority/selectors.js" timestamp="1554378408897">
-        <mark key="[" line="16" column="53" />
-        <mark key="]" line="16" column="103" />
-        <mark key="." line="16" column="64" />
-        <mark key="^" line="16" column="63" />
+      <file name="$USER_HOME$/projects/infinity-works/frontend/app/containers/Authority/selectors.js" timestamp="1554393889017">
+        <mark key="[" line="30" column="61" />
+        <mark key="]" line="30" column="79" />
+        <mark key="." line="30" column="79" />
+        <mark key="^" line="30" column="79" />
       </file>
-      <file name="$USER_HOME$/projects/infinity-works/frontend/app/containers/AuthorityProfile/saga.js" timestamp="1554393024239">
-        <mark key="[" line="14" column="79" />
-        <mark key="]" line="14" column="79" />
-        <mark key="." line="14" column="79" />
-        <mark key="^" line="14" column="63" />
+      <file name="$USER_HOME$/projects/infinity-works/frontend/app/containers/AuthorityProfile/saga.js" timestamp="1554395682332">
+        <mark key="[" line="6" column="32" />
+        <mark key="]" line="6" column="31" />
+        <mark key="." line="6" column="31" />
+        <mark key="^" line="6" column="31" />
       </file>
       <file name="$USER_HOME$/projects/infinity-works/food-hygiene/src/test/kotlin/com/artronics/food/fhrs/FhrsController.kt" timestamp="1554379971969">
         <mark key="[" line="2" column="0" />
@@ -111,10 +122,11 @@
         <mark key="." line="45" column="92" />
         <mark key="^" line="45" column="92" />
       </file>
-      <file name="$USER_HOME$/projects/infinity-works/frontend/app/containers/Authority/tests/selectors.test.js" timestamp="1554377636619">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/projects/infinity-works/frontend/app/containers/Authority/tests/selectors.test.js" timestamp="1554394255496">
+        <mark key="[" line="35" column="40" />
+        <mark key="]" line="35" column="42" />
+        <mark key="." line="35" column="42" />
+        <mark key="^" line="35" column="42" />
       </file>
       <file name="$USER_HOME$/projects/kotlin/sky/feedme-backend/src/main/kotlin/com/artronics/feedme/backend/App.kt" timestamp="1554376099408">
         <mark key="[" line="49" column="0" />
@@ -191,19 +203,43 @@
         <mark key="." line="16" column="61" />
         <mark key="^" line="16" column="61" />
       </file>
+      <file name="$USER_HOME$/projects/infinity-works/frontend/app/containers/Authority/constants.js" timestamp="1554393660028">
+        <mark key="[" line="2" column="49" />
+        <mark key="]" line="2" column="68" />
+        <mark key="^" line="2" column="30" />
+        <mark key="." line="2" column="49" />
+      </file>
+      <file name="$USER_HOME$/projects/infinity-works/frontend/app/containers/Authority/index.js" timestamp="1554394560171">
+        <mark key="'" line="48" column="59" />
+        <mark key="[" line="48" column="25" />
+        <mark key="]" line="48" column="25" />
+        <mark key="." line="48" column="25" />
+        <mark key="^" line="48" column="62" />
+      </file>
       <file name="/Dummy.txt" timestamp="1554389254740">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/infinity-works/frontend/app/containers/Authority/reducer.js" timestamp="1554378433001">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="6" />
-        <mark key="." line="3" column="6" />
-        <mark key="^" line="3" column="6" />
+      <file name="$USER_HOME$/projects/infinity-works/frontend/app/containers/Authority/actions.js" timestamp="1554393762359">
+        <mark key="[" line="17" column="10" />
+        <mark key="]" line="17" column="27" />
+        <mark key="." line="17" column="27" />
+        <mark key="^" line="17" column="27" />
+      </file>
+      <file name="$USER_HOME$/projects/infinity-works/frontend/app/containers/Authority/reducer.js" timestamp="1554394456520">
+        <mark key="[" line="19" column="35" />
+        <mark key="]" line="19" column="45" />
+        <mark key="." line="19" column="45" />
+        <mark key="^" line="19" column="45" />
+      </file>
+      <file name="$USER_HOME$/projects/infinity-works/frontend/app/containers/Authority/tests/index.test.js" timestamp="1554394950666">
+        <mark key="'" line="41" column="64" />
+        <mark key="[" line="14" column="81" />
+        <mark key="]" line="14" column="81" />
+        <mark key="^" line="14" column="81" />
+        <mark key="." line="14" column="81" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="8" filename="$USER_HOME$/projects/rust/cdl/src/element.rs" />
-      <jump line="23" column="10" filename="$USER_HOME$/projects/rust/cdl/src/network.rs" />
       <jump line="24" column="54" filename="$USER_HOME$/projects/rust/cdl/src/element.rs" />
       <jump line="2" column="0" filename="$USER_HOME$/projects/kotlin/feedme/src/main/kotlin/com/artronics/feedme/feed.kt" />
       <jump line="59" column="0" filename="$USER_HOME$/projects/kotlin/feedme/src/test/kotlin/com/artronics/feedme/feed.kt" />
@@ -302,6 +338,8 @@
       <jump line="50" column="8" filename="$USER_HOME$/projects/infinity-works/food-hygiene/src/main/kotlin/com/artronics/food/fhrs/Aggregator.kt" />
       <jump line="8" column="1" filename="$USER_HOME$/projects/infinity-works/frontend/app/components/RatingProfile/index.js" />
       <jump line="1" column="0" filename="$USER_HOME$/projects/infinity-works/frontend/app/containers/Authority/saga.js" />
+      <jump line="48" column="59" filename="$USER_HOME$/projects/infinity-works/frontend/app/containers/Authority/index.js" />
+      <jump line="37" column="64" filename="$USER_HOME$/projects/infinity-works/frontend/app/containers/Authority/tests/index.test.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -328,44 +366,44 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHN1YnN0YXRlID0+IHN1YnN0YXRlLnRvSlMoKQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">RkVUQ0hfQVVUSE9SSVRJRVMsIA==</text>
       </register>
       <register name="-" type="4">
-        <text>/${pageNumber}/${pageSize}</text>
+        <text encoding="base64">RkVUQ0hfQVVUSE9SSVRJRVMsIA==</text>
       </register>
       <register name="/" type="4">
         <text>Ra</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICB5aWVsZCB0YWtlTGF0ZXN0KEZFVENIX0FVVEhPUklUSUVTLCBmZXRjaEF1dGhvcml0aWVzKTsK</text>
+        <text encoding="base64">ICAgICAgY29uc3QgZmV0Y2hBdXRob3JpdGllc1NweSA9IGplc3QuZm4oKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHN1YnN0YXRlID0+IHN1YnN0YXRlLnRvSlMoKQo=</text>
+        <text encoding="base64">aW1wb3J0IHsgc2VsZWN0UGFnZSB9IGZyb20gJy4vc2VsZWN0b3JzJzsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgRkVUQ0hfQVVUSE9SSVRJRVMsIEZFVENIX0FVVEhPUklUWV9QUk9GSUxFIH0gZnJvbSAnLi9jb25zdGFudHMnOwppbXBvcnQgeyBzZWxlY3RQYWdlIH0gZnJvbSAnLi9zZWxlY3RvcnMnOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyoqCiAqIE90aGVyIHNwZWNpZmljIHNlbGVjdG9ycwogKi8KCi8qKgogKiBEZWZhdWx0IHNlbGVjdG9yIHVzZWQgYnkgQXV0aG9yaXR5UHJvZmlsZQogKi8K</text>
+        <text encoding="base64">aW1wb3J0IHsgRkVUQ0hfQVVUSE9SSVRJRVMsIEZFVENIX0FVVEhPUklUWV9QUk9GSUxFIH0gZnJvbSAnLi9jb25zdGFudHMnOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LyoqCiAqIERpcmVjdCBzZWxlY3RvciB0byB0aGUgYXV0aG9yaXR5UHJvZmlsZSBzdGF0ZSBkb21haW4KICovCgo=</text>
+        <text encoding="base64">aW1wb3J0IHsgc2VsZWN0UGFnZSB9IGZyb20gJy4vc2VsZWN0b3JzJzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24qIGF1dGhvcml0eVNhZ2EoKSB7CiAgeWllbGQgdGFrZUxhdGVzdChGRVRDSF9BVVRIT1JJVElFUywgZmV0Y2hBdXRob3JpdGllcyk7Cn0KCi8vIEluZGl2aWR1YWwgZXhwb3J0cyBmb3IgdGVzdGluZwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgZmV0Y2hBdXRob3JpdHlQcm9maWxlLCBmZXRjaEF1dGhvcml0eVByb2ZpbGVTdWNjZXNzZnVsIH0gZnJvbSAnLi9hY3Rpb25zJzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAvLyBTZWUgZXhhbXBsZSBpbiBjb250YWluZXJzL0hvbWVQYWdlL3NhZ2EuanMK</text>
+        <text encoding="base64">ICBjb25zdCBzZWxlY3RlZCA9IAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IHsgdGFrZSwgY2FsbCwgcHV0LCBzZWxlY3QgfSBmcm9tICdyZWR1eC1zYWdhL2VmZmVjdHMnOwoKLy8gSW5kaXZpZHVhbCBleHBvcnRzIGZvciB0ZXN0aW5nCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IHsgdGFrZSwgY2FsbCwgcHV0LCBzZWxlY3QgfSBmcm9tICdyZWR1eC1zYWdhL2VmZmVjdHMnOwoKLy8gSW5kaXZpZHVhbCBleHBvcnRzIGZvciB0ZXN0aW5nCmV4cG9ydCBkZWZhdWx0IGZ1bmN0aW9uKiBhdXRob3JpdHlQcm9maWxlU2FnYSgpIHsKICAvLyBTZWUgZXhhbXBsZSBpbiBjb250YWluZXJzL0hvbWVQYWdlL3NhZ2EuanMKfQo=</text>
+        <text encoding="base64">ICBjb25zdCBpc1NlbGVjdGVkID0gKGF1dGgsIHNlbGVjdGVkSWQpID0+IHNlbGVjdGVkSWQgPT09IGF1dGguTG9jYWxBdXRob3JpdHlJZDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHJhdGluZ1Byb2ZpbGUgPSB7fTsK</text>
+        <text encoding="base64">ICBkZAo=</text>
       </register>
       <register name=":" type="4">
         <text>action KJumpAction.Line</text>
