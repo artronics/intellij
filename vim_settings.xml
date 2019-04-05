@@ -147,11 +147,11 @@
         <mark key="^" line="27" column="27" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/infinity-works/readme.md" timestamp="1554424424962">
-        <mark key="[" line="14" column="13" />
-        <mark key="]" line="14" column="12" />
-        <mark key="^" line="14" column="12" />
-        <mark key="." line="14" column="12" />
+      <file name="$USER_HOME$/projects/infinity-works/readme.md" timestamp="1554425039449">
+        <mark key="[" line="14" column="48" />
+        <mark key="]" line="14" column="48" />
+        <mark key="." line="14" column="48" />
+        <mark key="^" line="14" column="48" />
       </file>
       <file name="/fragment.kt" timestamp="1554416527895">
         <mark key="[" line="0" column="0" />
@@ -398,10 +398,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Considerations</text>
+        <text>normal</text>
       </register>
       <register name="-" type="4">
-        <text>Considerations</text>
+        <text>normal</text>
       </register>
       <register name="/" type="4">
         <text>Ra</text>
@@ -410,31 +410,31 @@
         <text encoding="base64">ICAgICAgICAgICAgQWdncmVnYXRlZFJhdGluZygiUGFzcyIsIDApLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">WW91IGNhbiBydW4gdGhlIGYK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QWRkIERvY2tlciBhbmQgcmVmYWN0b3IgcHJvZmlsZSBmcm9tIGxpc3QgdG8gdGFibGUK</text>
+        <text encoding="base64">WW91IGNhbiBydW4gdGhlIGYK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QWRkIEF1dGhvcml0eVByb2ZpbGUK</text>
+        <text encoding="base64">QWRkIERvY2tlciBhbmQgcmVmYWN0b3IgcHJvZmlsZSBmcm9tIGxpc3QgdG8gdGFibGUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBBZ2dyZWdhdGVkUmF0aW5nKCJQYXNzIGFuZCBFYXQgU2FnZSIsIDApCg==</text>
+        <text encoding="base64">QWRkIEF1dGhvcml0eVByb2ZpbGUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBBZ2dyZWdhdGVkUmF0aW5nKCJBd2FpdGluZyBJbnNwZWN0aW9uIiwgMCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBBZ2dyZWdhdGVkUmF0aW5nKCJQYXNzIGFuZCBFYXQgU2FnZSIsIDApCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YWdncmVnYXRlZC5yZW1vdmVJZiB7IFJhdGluZ1ZhbHVlcy5mcm9tKGl0LnJhdGluZykgPT0gT1RIRVIgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBBZ2dyZWdhdGVkUmF0aW5nKCJBd2FpdGluZyBJbnNwZWN0aW9uIiwgMCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">YWdncmVnYXRlZC5yZW1vdmVJZiB7IFJhdGluZ1ZhbHVlcy5mcm9tKGl0LnJhdGluZykgPT0gT1RIRVIgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChpdCAhPT0gT1RIRVIpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChpdCAhPT0gT1RIRVIpIHsK</text>
       </register>
       <register name=":" type="4">
         <text>action KJumpAction.Line</text>
