@@ -23,11 +23,11 @@
         <mark key="[" line="10" column="0" />
         <mark key="]" line="11" column="26" />
       </file>
-      <file name="$USER_HOME$/projects/pawncade/frontend/app/components/Input/index.js" timestamp="1551051320784">
-        <mark key="[" line="24" column="2" />
-        <mark key="]" line="24" column="5" />
-        <mark key="." line="24" column="5" />
-        <mark key="^" line="24" column="5" />
+      <file name="$USER_HOME$/projects/pawncade/frontend/app/components/Input/index.js" timestamp="1554845937273">
+        <mark key="[" line="18" column="42" />
+        <mark key="]" line="18" column="41" />
+        <mark key="^" line="18" column="41" />
+        <mark key="." line="18" column="41" />
       </file>
       <file name="$USER_HOME$/projects/infinity-works/frontend/app/containers/AuthorityProfile/selectors.js" timestamp="1554403984578">
         <mark key="[" line="7" column="47" />
@@ -1104,44 +1104,47 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>api</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHJlZHVjZXIgZnJvbSAnLi9yZWR1Y2VyJzsKaW1wb3J0IHNhZ2EgZnJvbSAnLi9zYWdhJzsK</text>
+        <text encoding="base64">SW5wdXQucHJvcFR5cGVzID0gewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">cGxhY2Vob2xkZXIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IHsgZW56eW1lRmluZCB9IGZyb20gJ3N0eWxlZC1jb21wb25lbnRzL3Rlc3QtdXRpbHMnOwoKLy8gaW1wb3J0IElucHV0RXJyb3IgZnJvbSAnLi4vaW5kZXgnOwo=</text>
+        <text encoding="base64">ICAgICAgICBhcmlhLWxhYmVsPXtwcm9wcy5sYWJlbH0K</text>
+      </register>
+      <register name="r" type="4">
+        <text>placeholder</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdCh0cnVlKS50b0VxdWFsKGZhbHNlKTsK</text>
+        <text encoding="base64">cGxhY2Vob2xkZXIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgRm9ybWF0dGVkTWVzc2FnZSB9IGZyb20gJ3JlYWN0LWludGwnOwppbXBvcnQgbWVzc2FnZXMgZnJvbSAnLi9tZXNzYWdlcyc7Cg==</text>
+        <text encoding="base64">Ly8gaW1wb3J0IHsgZW56eW1lRmluZCB9IGZyb20gJ3N0eWxlZC1jb21wb25lbnRzL3Rlc3QtdXRpbHMnOwoKLy8gaW1wb3J0IElucHV0RXJyb3IgZnJvbSAnLi4vaW5kZXgnOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IHN0eWxlZCBmcm9tICdzdHlsZWQtY29tcG9uZW50cyc7Cg==</text>
+        <text encoding="base64">ICAgIGV4cGVjdCh0cnVlKS50b0VxdWFsKGZhbHNlKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPEZvcm1hdHRlZE1lc3NhZ2Ugey4uLm1lc3NhZ2VzLmhlYWRlcn0gLz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZvcm06IGZvcm1SZWR1Y2VyLAo=</text>
+        <text encoding="base64">aW1wb3J0IHsgRm9ybWF0dGVkTWVzc2FnZSB9IGZyb20gJ3JlYWN0LWludGwnOwppbXBvcnQgbWVzc2FnZXMgZnJvbSAnLi9tZXNzYWdlcyc7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgcmVkdWNlciBhcyBmb3JtUmVkdWNlciB9IGZyb20gJ3JlZHV4LWZvcm0nOwo=</text>
+        <text encoding="base64">Ly8gaW1wb3J0IHN0eWxlZCBmcm9tICdzdHlsZWQtY29tcG9uZW50cyc7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action KJumpAction.Line</text>
