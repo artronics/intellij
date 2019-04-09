@@ -23,11 +23,12 @@
         <mark key="[" line="10" column="0" />
         <mark key="]" line="11" column="26" />
       </file>
-      <file name="$USER_HOME$/projects/pawncade/frontend/app/components/Input/index.js" timestamp="1554845937273">
-        <mark key="[" line="18" column="42" />
-        <mark key="]" line="18" column="41" />
-        <mark key="^" line="18" column="41" />
-        <mark key="." line="18" column="41" />
+      <file name="$USER_HOME$/projects/pawncade/frontend/app/components/Input/index.js" timestamp="1554848042222">
+        <mark key="'" line="12" column="21" />
+        <mark key="[" line="23" column="25" />
+        <mark key="]" line="24" column="25" />
+        <mark key="^" line="24" column="25" />
+        <mark key="." line="24" column="25" />
       </file>
       <file name="$USER_HOME$/projects/infinity-works/frontend/app/containers/AuthorityProfile/selectors.js" timestamp="1554403984578">
         <mark key="[" line="7" column="47" />
@@ -798,11 +799,11 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/pawncade/frontend/app/components/Input/tests/index.test.js" timestamp="1551051337618">
-        <mark key="[" line="19" column="31" />
-        <mark key="]" line="19" column="31" />
-        <mark key="." line="19" column="31" />
-        <mark key="^" line="19" column="31" />
+      <file name="$USER_HOME$/projects/pawncade/frontend/app/components/Input/tests/index.test.js" timestamp="1554848166936">
+        <mark key="[" line="26" column="67" />
+        <mark key="]" line="26" column="65" />
+        <mark key="." line="26" column="65" />
+        <mark key="^" line="26" column="65" />
       </file>
       <file name="$USER_HOME$/projects/infinity-works/frontend/app/containers/AuthorityProfile/index.js" timestamp="1554416196279">
         <mark key="[" line="36" column="14" />
@@ -978,8 +979,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="0" filename="$USER_HOME$/projects/kotlin/sky/feedme-consumer/src/main/kotlin/com/artronics/feedme/consumer/feed.kt" />
-      <jump line="44" column="19" filename="$USER_HOME$/projects/kotlin/sky/feedme-consumer/src/main/kotlin/com/artronics/feedme/consumer/Feed.kt" />
       <jump line="41" column="21" filename="$USER_HOME$/projects/kotlin/sky/feedme-persistence/src/main/kotlin/com/artronics/feedme/persistence/Feed.kt" />
       <jump line="23" column="19" filename="$USER_HOME$/projects/kotlin/sky/feedme-persistence/src/main/kotlin/com/artronics/feedme/persistence/Feed.kt" />
       <jump line="27" column="51" filename="$USER_HOME$/projects/kotlin/sky/feedme-persistence/src/main/kotlin/com/artronics/feedme/persistence/Feed.kt" />
@@ -1078,6 +1077,8 @@
       <jump line="28" column="9" filename="$USER_HOME$/projects/pawncade/frontend/app/containers/customer/NewCustomer/index.js" />
       <jump line="26" column="0" filename="$USER_HOME$/projects/pawncade/frontend/app/containers/customer/NewCustomer/index.js" />
       <jump line="3" column="0" filename="$USER_HOME$/projects/pawncade/frontend/app/components/InputError/index.js" />
+      <jump line="10" column="14" filename="$USER_HOME$/projects/pawncade/frontend/app/components/Input/index.js" />
+      <jump line="12" column="21" filename="$USER_HOME$/projects/pawncade/frontend/app/components/Input/index.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1105,13 +1106,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>props.</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>props.</text>
       </register>
       <register name="/" type="4">
-        <text>api</text>
+        <text>pro</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">SW5wdXQucHJvcFR5cGVzID0gewo=</text>
@@ -1151,9 +1152,9 @@
       </register>
     </registers>
     <search>
-      <last-search>api</last-search>
+      <last-search>pro</last-search>
       <last-offset />
-      <last-pattern>api</last-pattern>
+      <last-pattern>pro</last-pattern>
       <last-replace />
       <last-substitute>chapar.</last-substitute>
       <last-dir>1</last-dir>
@@ -1161,7 +1162,6 @@
     </search>
     <history>
       <history-search>
-        <entry>try</entry>
         <entry>ObjectI</entry>
         <entry>King</entry>
         <entry>king\c</entry>
@@ -1181,6 +1181,7 @@
         <entry>EX</entry>
         <entry>Ra</entry>
         <entry>api</entry>
+        <entry>pro</entry>
       </history-search>
       <history-cmd>
         <entry>%s/chapar.//g</entry>
