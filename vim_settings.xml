@@ -147,11 +147,12 @@
         <mark key="." line="1" column="12" />
         <mark key="^" line="1" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/pawncade/pawncade-frontend/src/container/customer/NewCustomer.js" timestamp="1554920251524">
-        <mark key="[" line="6" column="35" />
-        <mark key="]" line="6" column="37" />
-        <mark key="^" line="6" column="37" />
-        <mark key="." line="6" column="37" />
+      <file name="$USER_HOME$/projects/pawncade/pawncade-frontend/src/container/customer/NewCustomer.js" timestamp="1554928587000">
+        <mark key="'" line="19" column="32" />
+        <mark key="[" line="19" column="53" />
+        <mark key="]" line="21" column="36" />
+        <mark key="^" line="21" column="36" />
+        <mark key="." line="21" column="36" />
       </file>
       <file name="$USER_HOME$/projects/pawncade/frontend/app/components/Button/tests/index.test.js" timestamp="1550966516893">
         <mark key="[" line="65" column="50" />
@@ -579,12 +580,12 @@
         <mark key="." line="0" column="35" />
         <mark key="^" line="0" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/pawncade/pawncade-frontend/src/component/form/index.js" timestamp="1554926364432">
+      <file name="$USER_HOME$/projects/pawncade/pawncade-frontend/src/component/form/index.js" timestamp="1554927980226">
         <mark key="'" line="9" column="33" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="^" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+        <mark key="[" line="34" column="1" />
+        <mark key="]" line="34" column="1" />
+        <mark key="^" line="34" column="1" />
+        <mark key="." line="34" column="1" />
       </file>
       <file name="$USER_HOME$/projects/kotlin/sky/feedme-persistence/src/main/resources/application-docker.yml" timestamp="1554187886211">
         <mark key="[" line="7" column="0" />
@@ -1005,8 +1006,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="28" filename="$USER_HOME$/projects/kotlin/sky/feedme-persistence/src/test/kotlin/com/artronics/feedme/persistence/Repository.kt" />
-      <jump line="15" column="15" filename="$USER_HOME$/projects/kotlin/sky/feedme-persistence/src/test/kotlin/com/artronics/feedme/persistence/MessageProcessorTest.kt" />
       <jump line="46" column="0" filename="$USER_HOME$/projects/kotlin/sky/feedme-persistence/src/main/kotlin/com/artronics/feedme/persistence/Repository.kt" />
       <jump line="34" column="58" filename="$USER_HOME$/projects/kotlin/sky/feedme-consumer/build.gradle" />
       <jump line="69" column="0" filename="$USER_HOME$/projects/kotlin/sky/feedme-persistence/src/main/kotlin/com/artronics/feedme/persistence/MessageConsumer.kt" />
@@ -1105,6 +1104,8 @@
       <jump line="0" column="25" filename="$USER_HOME$/projects/pawncade/frontend/app/components/LoginForm/index.js" />
       <jump line="9" column="0" filename="$USER_HOME$/projects/pawncade/pawncade-frontend/package.json" />
       <jump line="9" column="33" filename="$USER_HOME$/projects/pawncade/pawncade-frontend/src/component/form/index.js" />
+      <jump line="2" column="23" filename="$USER_HOME$/projects/pawncade/pawncade-frontend/src/container/customer/NewCustomer.js" />
+      <jump line="18" column="32" filename="$USER_HOME$/projects/pawncade/pawncade-frontend/src/container/customer/NewCustomer.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1132,22 +1133,22 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>props</text>
+        <text>'submitting'</text>
       </register>
       <register name="-" type="4">
-        <text>props</text>
+        <text>'submitting'</text>
       </register>
       <register name="/" type="4">
-        <text>bl</text>
+        <text>compo</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0KGlucHV0LmZpbmQoJ2RpdicpLmhhc0NsYXNzKCdmb3JtLWdyb3VwJykpLnRvQmVUcnV0aHkoKTsK</text>
+        <text encoding="base64">ICBjb25zdCB7IHR5cGUsIGxhYmVsLCBwbGFjZWhvbGRlciB9ID0gcHJvcHM7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBmZgo=</text>
+        <text encoding="base64">ICBjb25zdCB7IG5hbWUgfSA9IHByb3BzOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBmZgo=</text>
       </register>
       <register name="r" type="4">
         <text>placeholder</text>
@@ -1162,25 +1163,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3NOYW1lPSJmb3JtLWdyb3VwIj4KICAgICAgPGxhYmVsPntsYWJlbH08L2xhYmVsPgogICAgICA8aW5wdXQgY2xhc3NOYW1lPSJmb3JtLWNvbnRyb2wiIHR5cGU9e3R5cGV9IHBsYWNlaG9sZGVyPXtwbGFjZWhvbGRlcn0vPgogICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3NOYW1lPSJmb3JtLWdyb3VwIj4KICAgICAgPGxhYmVsPntsYWJlbH08L2xhYmVsPgogICAgICA8aW5wdXQgY2xhc3NOYW1lPSJmb3JtLWNvbnRyb2wiIHR5cGU9e3R5cGV9IHBsYWNlaG9sZGVyPXtwbGFjZWhvbGRlcn0vPgogICAgPC9kaXY+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action KJumpAction.Line</text>
       </register>
     </registers>
     <search>
-      <last-search>bl</last-search>
+      <last-search>compo</last-search>
       <last-offset />
-      <last-pattern>bl</last-pattern>
+      <last-pattern>compo</last-pattern>
       <last-replace />
       <last-substitute>chapar.</last-substitute>
       <last-dir>1</last-dir>
@@ -1188,7 +1189,6 @@
     </search>
     <history>
       <history-search>
-        <entry>outcom</entry>
         <entry>type</entry>
         <entry>bootstr</entry>
         <entry>preti</entry>
@@ -1208,6 +1208,7 @@
         <entry>dev</entry>
         <entry>lint</entry>
         <entry>bl</entry>
+        <entry>compo</entry>
       </history-search>
       <history-cmd>
         <entry>%s/chapar.//g</entry>
