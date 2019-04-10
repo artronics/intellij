@@ -102,11 +102,12 @@
         <mark key="." line="18" column="3" />
         <mark key="^" line="18" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/pawncade/frontend/app/components/InputError/tests/index.test.js" timestamp="1554850114252">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="14" column="61" />
+      <file name="$USER_HOME$/projects/pawncade/frontend/app/components/InputError/tests/index.test.js" timestamp="1554856642637">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="15" column="31" />
+        <mark key="]" line="15" column="31" />
+        <mark key="." line="15" column="31" />
+        <mark key="^" line="14" column="3" />
       </file>
       <file name="$USER_HOME$/projects/infinity-works/food-hygiene/src/test/kotlin/com/artronics/food/fhrs/FhrsControllerTest.kt" timestamp="1554380075737">
         <mark key="[" line="11" column="8" />
@@ -573,6 +574,13 @@
         <mark key="." line="45" column="92" />
         <mark key="^" line="45" column="92" />
       </file>
+      <file name="$USER_HOME$/projects/pawncade/frontend/app/components/CustomerForm/index.js" timestamp="1554857962848">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="10" column="38" />
+        <mark key="]" line="10" column="38" />
+        <mark key="." line="10" column="38" />
+        <mark key="^" line="10" column="38" />
+      </file>
       <file name="$USER_HOME$/projects/infinity-works/frontend/app/containers/Authority/tests/selectors.test.js" timestamp="1554394255496">
         <mark key="[" line="35" column="40" />
         <mark key="]" line="35" column="42" />
@@ -739,11 +747,11 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/pawncade/frontend/app/containers/customer/index.js" timestamp="1554818460226">
-        <mark key="[" line="0" column="26" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/projects/pawncade/frontend/app/containers/customer/index.js" timestamp="1554858006432">
+        <mark key="[" line="2" column="22" />
+        <mark key="]" line="3" column="1" />
+        <mark key="^" line="3" column="1" />
+        <mark key="." line="3" column="1" />
       </file>
       <file name="$USER_HOME$/projects/kotlin/sky/feedme-frontend/app/components/Market/index.js" timestamp="1554180948203">
         <mark key="[" line="25" column="9" />
@@ -980,13 +988,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="20" filename="$USER_HOME$/projects/kotlin/sky/feedme-persistence/src/main/kotlin/com/artronics/feedme/persistence/Feed.kt" />
-      <jump line="3" column="22" filename="$USER_HOME$/projects/kotlin/sky/feedme-persistence/src/main/kotlin/com/artronics/feedme/persistence/Feed.kt" />
-      <jump line="9" column="49" filename="$USER_HOME$/projects/kotlin/sky/feedme-persistence/src/main/kotlin/com/artronics/feedme/persistence/Feed.kt" />
-      <jump line="42" column="23" filename="$USER_HOME$/projects/kotlin/sky/feedme-persistence/src/main/kotlin/com/artronics/feedme/persistence/MessageConsumer.kt" />
-      <jump line="57" column="22" filename="$USER_HOME$/projects/kotlin/sky/feedme-persistence/src/main/kotlin/com/artronics/feedme/persistence/MessageConsumer.kt" />
-      <jump line="41" column="77" filename="$USER_HOME$/projects/kotlin/sky/feedme-persistence/src/main/kotlin/com/artronics/feedme/persistence/MessageConsumer.kt" />
-      <jump line="44" column="18" filename="$USER_HOME$/projects/kotlin/sky/feedme-persistence/src/main/kotlin/com/artronics/feedme/persistence/MessageConsumer.kt" />
       <jump line="66" column="23" filename="$USER_HOME$/projects/kotlin/sky/feedme-persistence/src/main/kotlin/com/artronics/feedme/persistence/MessageConsumer.kt" />
       <jump line="45" column="0" filename="$USER_HOME$/projects/kotlin/sky/feedme-persistence/src/main/kotlin/com/artronics/feedme/persistence/Feed.kt" />
       <jump line="10" column="45" filename="$USER_HOME$/projects/kotlin/sky/feedme-persistence/src/main/kotlin/com/artronics/feedme/persistence/Feed.kt" />
@@ -1080,6 +1081,13 @@
       <jump line="28" column="3" filename="$USER_HOME$/projects/pawncade/frontend/app/components/Input/tests/index.test.js" />
       <jump line="1" column="22" filename="$USER_HOME$/projects/pawncade/frontend/app/components/Input/tests/index.test.js" />
       <jump line="26" column="22" filename="$USER_HOME$/projects/pawncade/frontend/app/components/Input/tests/index.test.js" />
+      <jump line="11" column="42" filename="$USER_HOME$/projects/pawncade/frontend/app/components/InputError/tests/index.test.js" />
+      <jump line="10" column="0" filename="$USER_HOME$/projects/pawncade/frontend/app/components/InputError/tests/index.test.js" />
+      <jump line="8" column="4" filename="$USER_HOME$/projects/pawncade/frontend/app/components/InputError/tests/index.test.js" />
+      <jump line="7" column="0" filename="$USER_HOME$/projects/pawncade/frontend/app/components/InputError/tests/index.test.js" />
+      <jump line="6" column="0" filename="$USER_HOME$/projects/pawncade/frontend/app/components/InputError/tests/index.test.js" />
+      <jump line="4" column="0" filename="$USER_HOME$/projects/pawncade/frontend/app/components/InputError/tests/index.test.js" />
+      <jump line="13" column="0" filename="$USER_HOME$/projects/pawncade/frontend/app/components/CustomerForm/index.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1106,58 +1114,58 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgaWYgKG1lc3NhZ2UpIHsKICAgIHJldHVybiAoCiAgICAgIDxkaXYgY2xhc3NOYW1lPSJpbnZhbGlkLWZlZWRiYWNrIj4KICAgICAgICB7bWVzc2FnZX0KICAgICAgPC9kaXY+CiAgICApOwogIH0KCiAgcmV0dXJuIG51bGwK</text>
+      <register name="&quot;" type="4">
+        <text>div</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICE9PSAnJw==</text>
+        <text>div</text>
       </register>
       <register name="/" type="4">
-        <text>errors</text>
+        <text>cons</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">KAogICAgICA8ZGl2IGNsYXNzTmFtZT0iaW52YWxpZC1mZWVkYmFjayI+CiAgICAgICAge21lc3NhZ2V9CiAgICAgIDwvZGl2PgogICAgKTs=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGxldCB3cmFwcGVyID0gbW91bnQoPElucHV0RXJyb3IgbWVzc2FnZT0iIi8+KTsKICAgIGV4cGVjdCh3cmFwcGVyLmZpbmQoJy5pbnZhbGlkLWZlZWRiYWNrJykubGVuZ3RoKS50b0VxdWFsKDApOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgaWYgKG1lc3NhZ2UpIHsKICAgIHJldHVybiAoCiAgICAgIDxkaXYgY2xhc3NOYW1lPSJpbnZhbGlkLWZlZWRiYWNrIj4KICAgICAgICB7bWVzc2FnZX0KICAgICAgPC9kaXY+CiAgICApOwogIH0KCiAgcmV0dXJuIG51bGwK</text>
+        <text encoding="base64">ICAgICAgPEZvcm1hdHRlZE1lc3NhZ2Ugey4uLm1lc3NhZ2VzLmhlYWRlcn0gLz4K</text>
       </register>
-      <register name="2" type="4">
-        <text>{
-    return null
-  }</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text>placeholder</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB9IGVsc2Ugewo=</text>
+        <text encoding="base64">ICBpdCgnc2hvdWxkIG5vdCByZW5kZXIgaWYgbWVzc2FnZSBpcyAsICgpID0+IHsKICAgIGNvbnN0IHdyYXBwZXIgPSBtb3VudCg8SW5wdXRFcnJvciBtZXNzYWdlPSIiLz4pOwoKICAgIGV4cGVjdCh3cmFwcGVyLmZpbmQoJy5pbnZhbGlkLWZlZWRiYWNrJykubGVuZ3RoKS50b0VxdWFsKDApOwogIH0pOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CiAgaWYgKG1lc3NhZ2UpIHsKICAgIHJldHVybiAoCiAgICAgIDxkaXYgY2xhc3NOYW1lPSJpbnZhbGlkLWZlZWRiYWNrIj4KICAgICAgICB7bWVzc2FnZX0KICAgICAgPC9kaXY+CiAgICApOwogIH0KCiAgcmV0dXJuIG51bGwK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICByZXR1cm4gKAogICAgPGRpdiBjbGFzc05hbWU9ImludmFsaWQtZmVlZGJhY2siPgogICAgICB7bWVzc2FnZX0KICAgIDwvZGl2PgogICk7Cg==</text>
+      <register name="5" type="4">
+        <text>{
+    return null
+  }</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zdCBlcnJvciA9IAo=</text>
+        <text encoding="base64">ICB9IGVsc2Ugewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zdAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICByZXR1cm4gKAogICAgPGRpdiBjbGFzc05hbWU9ImludmFsaWQtZmVlZGJhY2siPgogICAgICB7bWVzc2FnZX0KICAgIDwvZGl2PgogICk7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHNoYWxsb3cgZnJvbSAnZW56eW1lL3NyYy9zaGFsbG93JzsK</text>
+        <text encoding="base64">ICBjb25zdCBlcnJvciA9IAo=</text>
       </register>
       <register name=":" type="4">
         <text>action KJumpAction.Line</text>
       </register>
     </registers>
     <search>
-      <last-search>errors</last-search>
+      <last-search>cons</last-search>
       <last-offset />
-      <last-pattern>errors</last-pattern>
+      <last-pattern>cons</last-pattern>
       <last-replace />
       <last-substitute>chapar.</last-substitute>
       <last-dir>1</last-dir>
@@ -1165,7 +1173,6 @@
     </search>
     <history>
       <history-search>
-        <entry>king\c</entry>
         <entry>_id</entry>
         <entry>inter</entry>
         <entry>out</entry>
@@ -1185,6 +1192,7 @@
         <entry>pro</entry>
         <entry>shall</entry>
         <entry>errors</entry>
+        <entry>cons</entry>
       </history-search>
       <history-cmd>
         <entry>%s/chapar.//g</entry>
