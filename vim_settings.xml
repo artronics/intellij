@@ -574,12 +574,12 @@
         <mark key="." line="45" column="92" />
         <mark key="^" line="45" column="92" />
       </file>
-      <file name="$USER_HOME$/projects/pawncade/frontend/app/components/CustomerForm/index.js" timestamp="1554857962848">
-        <mark key="'" line="13" column="0" />
-        <mark key="[" line="10" column="38" />
-        <mark key="]" line="10" column="38" />
-        <mark key="." line="10" column="38" />
-        <mark key="^" line="10" column="38" />
+      <file name="$USER_HOME$/projects/pawncade/frontend/app/components/CustomerForm/index.js" timestamp="1554861333637">
+        <mark key="'" line="47" column="0" />
+        <mark key="[" line="14" column="33" />
+        <mark key="]" line="14" column="35" />
+        <mark key="." line="14" column="35" />
+        <mark key="^" line="14" column="35" />
       </file>
       <file name="$USER_HOME$/projects/infinity-works/frontend/app/containers/Authority/tests/selectors.test.js" timestamp="1554394255496">
         <mark key="[" line="35" column="40" />
@@ -747,11 +747,11 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/pawncade/frontend/app/containers/customer/index.js" timestamp="1554858006432">
-        <mark key="[" line="2" column="22" />
-        <mark key="]" line="3" column="1" />
-        <mark key="^" line="3" column="1" />
-        <mark key="." line="3" column="1" />
+      <file name="$USER_HOME$/projects/pawncade/frontend/app/containers/customer/index.js" timestamp="1554859169979">
+        <mark key="[" line="4" column="2" />
+        <mark key="]" line="4" column="16" />
+        <mark key="^" line="4" column="16" />
+        <mark key="." line="4" column="16" />
       </file>
       <file name="$USER_HOME$/projects/kotlin/sky/feedme-frontend/app/components/Market/index.js" timestamp="1554180948203">
         <mark key="[" line="25" column="9" />
@@ -956,11 +956,11 @@
         <mark key="." line="90" column="43" />
         <mark key="^" line="90" column="43" />
       </file>
-      <file name="$USER_HOME$/projects/pawncade/frontend/app/components/InputError/index.js" timestamp="1554850637958">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="13" column="9" />
+      <file name="$USER_HOME$/projects/pawncade/frontend/app/components/InputError/index.js" timestamp="1554861177374">
+        <mark key="[" line="7" column="20" />
+        <mark key="]" line="7" column="27" />
+        <mark key="." line="7" column="27" />
+        <mark key="^" line="7" column="27" />
       </file>
       <file name="$USER_HOME$/projects/kotlin/sky/feedme-consumer/.gitignore" timestamp="1554192190017">
         <mark key="[" line="2" column="7" />
@@ -1115,48 +1115,46 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>div</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>div</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>cons</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGxldCB3cmFwcGVyID0gbW91bnQoPElucHV0RXJyb3IgbWVzc2FnZT0iIi8+KTsKICAgIGV4cGVjdCh3cmFwcGVyLmZpbmQoJy5pbnZhbGlkLWZlZWRiYWNrJykubGVuZ3RoKS50b0VxdWFsKDApOwo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">KAogICAgICA8ZGl2IGNsYXNzTmFtZT0iaW52YWxpZC1mZWVkYmFjayI+CiAgICAgICAge2NoaWxkcmVufQogICAgICA8L2Rpdj4KICAgICk=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgPEZvcm1hdHRlZE1lc3NhZ2Ugey4uLm1lc3NhZ2VzLmhlYWRlcn0gLz4K</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhjaGlsZHJlbikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zdCB7IG1lc3NhZ2UsIGNoaWxkcmVuIH0gPSBwcm9wczsK</text>
       </register>
       <register name="r" type="4">
         <text>placeholder</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBpdCgnc2hvdWxkIG5vdCByZW5kZXIgaWYgbWVzc2FnZSBpcyAsICgpID0+IHsKICAgIGNvbnN0IHdyYXBwZXIgPSBtb3VudCg8SW5wdXRFcnJvciBtZXNzYWdlPSIiLz4pOwoKICAgIGV4cGVjdCh3cmFwcGVyLmZpbmQoJy5pbnZhbGlkLWZlZWRiYWNrJykubGVuZ3RoKS50b0VxdWFsKDApOwogIH0pOwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhwcm9wcyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgaWYgKG1lc3NhZ2UpIHsKICAgIHJldHVybiAoCiAgICAgIDxkaXYgY2xhc3NOYW1lPSJpbnZhbGlkLWZlZWRiYWNrIj4KICAgICAgICB7bWVzc2FnZX0KICAgICAgPC9kaXY+CiAgICApOwogIH0KCiAgcmV0dXJuIG51bGwK</text>
+        <text encoding="base64">ICByZXR1cm4gKDxkaXY+e2NoaWw8L2Rpdj4pCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>{
-    return null
-  }</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAqLwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB9IGVsc2Ugewo=</text>
+        <text encoding="base64">ICAvKgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICByZXR1cm4gKDxkaXY+cDwvZGl2PikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICByZXR1cm4gKAogICAgPGRpdiBjbGFzc05hbWU9ImludmFsaWQtZmVlZGJhY2siPgogICAgICB7bWVzc2FnZX0KICAgIDwvZGl2PgogICk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zdCBlcnJvciA9IAo=</text>
+        <text encoding="base64">ICAgICAgPEZpZWxkIHR5cGU9ImVtYWlsIiBuYW1lPSJlbWFpbCIgLz4K</text>
       </register>
       <register name=":" type="4">
         <text>action KJumpAction.Line</text>
