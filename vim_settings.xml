@@ -238,11 +238,11 @@
         <mark key="^" line="9" column="48" />
         <mark key="." line="9" column="48" />
       </file>
-      <file name="$USER_HOME$/projects/pawncade/pawncade-frontend/src/container/customer/tests/NewCustomer.test.js" timestamp="1554955511471">
-        <mark key="[" line="7" column="52" />
-        <mark key="]" line="7" column="52" />
-        <mark key="." line="7" column="52" />
-        <mark key="^" line="7" column="34" />
+      <file name="$USER_HOME$/projects/pawncade/pawncade-frontend/src/container/customer/tests/NewCustomer.test.js" timestamp="1555103584174">
+        <mark key="[" line="8" column="10" />
+        <mark key="]" line="8" column="10" />
+        <mark key="." line="8" column="10" />
+        <mark key="^" line="8" column="5" />
       </file>
       <file name="$USER_HOME$/projects/latex/resume/src/software-developer/section_experience.tex" timestamp="1553138813817">
         <mark key="[" line="82" column="0" />
@@ -619,12 +619,12 @@
         <mark key="." line="0" column="35" />
         <mark key="^" line="0" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/pawncade/pawncade-frontend/src/component/form/index.js" timestamp="1554949711039">
+      <file name="$USER_HOME$/projects/pawncade/pawncade-frontend/src/component/form/index.js" timestamp="1555103836851">
         <mark key="'" line="32" column="10" />
-        <mark key="[" line="33" column="12" />
-        <mark key="]" line="33" column="20" />
-        <mark key="^" line="33" column="20" />
-        <mark key="." line="33" column="20" />
+        <mark key="[" line="33" column="13" />
+        <mark key="]" line="33" column="15" />
+        <mark key="^" line="33" column="15" />
+        <mark key="." line="33" column="15" />
       </file>
       <file name="$USER_HOME$/projects/kotlin/sky/feedme-persistence/src/main/resources/application-docker.yml" timestamp="1554187886211">
         <mark key="[" line="7" column="0" />
@@ -1193,10 +1193,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>...props</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>...props</text>
       </register>
       <register name="/" type="4">
         <text>Input</text>
@@ -1205,34 +1205,34 @@
         <text encoding="base64">aW1wb3J0IHsgZGVmaW5lTWVzc2FnZXMgfSBmcm9tICdyZWFjdC1pbnRsJzsKCmV4cG9ydCBjb25zdCBzY29wZSA9ICdhcHAuY29tcG9uZW50cy5JbnB1dEVycm9yJzsKCmV4cG9ydCBkZWZhdWx0IGRlZmluZU1lc3NhZ2VzKHsKICBoZWFkZXI6IHsKICAgIGlkOiBgJHtzY29wZX0uaGVhZGVyYCwKICAgIGRlZmF1bHRNZXNzYWdlOiAnVGhpcyBpcyB0aGUgSW5wdXRFcnJvciBjb21wb25lbnQhJywKICB9LAp9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSW50bFByb3ZpZGVyIH0gZnJvbSAncmVhY3QtaW50bCc7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zdCBpbmplY3QgPSBjb20gPT4gPEludGxQcm92aWRlciBsb2NhbGU9ImVuIj57Y29tfTwvSW50bFByb3ZpZGVyPjsK</text>
+        <text encoding="base64">ICBjb25zdCBpbmplY3RJbnRsID0gKCkK</text>
       </register>
       <register name="r" type="4">
         <text>placeholder</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhpbnRsKQo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHJlbmRlcmVkQ29tcG9uZW50ID0gbW91bnQoPE5ld0N1c3RvbWVyIC8+KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPEZvcm1hdHRlZE1lc3NhZ2Ugey4uLmZvcm0uaGVhZGVyfS8+Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAK</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IHsgSW50bFByb3ZpZGVyIH0gZnJvbSAncmVhY3QtaW50bCc7Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBkCg==</text>
+        <text encoding="base64">ICBjb25zdCBpbmplY3QgPSBjb20gPT4gPEludGxQcm92aWRlciBsb2NhbGU9ImVuIj57Y29tfTwvSW50bFByb3ZpZGVyPjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhpbnRsKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8Q29ubmVjdGVkUm91dGVyIGhpc3Rvcnk9e2hpc3Rvcnl9PgogICAgICAgICAge3JvdXRlcygpfQogICAgICAgIDwvQ29ubmVjdGVkUm91dGVyPgo=</text>
+        <text encoding="base64">ICAgICAgPEZvcm1hdHRlZE1lc3NhZ2Ugey4uLmZvcm0uaGVhZGVyfS8+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>action KJumpAction.Line</text>
