@@ -154,12 +154,12 @@
         <mark key="." line="1" column="12" />
         <mark key="^" line="1" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/pawncade/pawncade-frontend/src/container/customer/NewCustomer.js" timestamp="1554955477261">
-        <mark key="'" line="27" column="32" />
-        <mark key="[" line="31" column="37" />
-        <mark key="]" line="31" column="37" />
-        <mark key="." line="31" column="37" />
-        <mark key="^" line="31" column="37" />
+      <file name="$USER_HOME$/projects/pawncade/pawncade-frontend/src/container/customer/NewCustomer.js" timestamp="1555169530669">
+        <mark key="'" line="19" column="26" />
+        <mark key="[" line="19" column="41" />
+        <mark key="]" line="19" column="45" />
+        <mark key="." line="19" column="45" />
+        <mark key="^" line="19" column="45" />
       </file>
       <file name="$USER_HOME$/projects/pawncade/frontend/app/components/Button/tests/index.test.js" timestamp="1550966516893">
         <mark key="[" line="65" column="50" />
@@ -219,12 +219,12 @@
         <mark key="^" line="11" column="56" />
         <mark key="." line="19" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/pawncade/pawncade-frontend/src/component/form/tests/index.test.js" timestamp="1554942290099">
+      <file name="$USER_HOME$/projects/pawncade/pawncade-frontend/src/component/form/tests/index.test.js" timestamp="1555169073606">
         <mark key="'" line="20" column="42" />
-        <mark key="[" line="31" column="22" />
-        <mark key="]" line="32" column="3" />
-        <mark key="." line="32" column="3" />
-        <mark key="^" line="32" column="3" />
+        <mark key="[" line="20" column="48" />
+        <mark key="]" line="20" column="55" />
+        <mark key="." line="20" column="55" />
+        <mark key="^" line="20" column="55" />
       </file>
       <file name="$USER_HOME$/projects/masir/masir-journey-consumer/src/main/kotlin/com/artronics/masir/journey/consumer/MasirJourneyConsumerApplication.kt" timestamp="1544924691806">
         <mark key="[" line="9" column="19" />
@@ -619,12 +619,12 @@
         <mark key="." line="0" column="35" />
         <mark key="^" line="0" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/pawncade/pawncade-frontend/src/component/form/index.js" timestamp="1555103836851">
-        <mark key="'" line="32" column="10" />
-        <mark key="[" line="33" column="13" />
-        <mark key="]" line="33" column="15" />
-        <mark key="^" line="33" column="15" />
-        <mark key="." line="33" column="15" />
+      <file name="$USER_HOME$/projects/pawncade/pawncade-frontend/src/component/form/index.js" timestamp="1555169443686">
+        <mark key="'" line="6" column="34" />
+        <mark key="[" line="17" column="2" />
+        <mark key="]" line="17" column="6" />
+        <mark key="^" line="17" column="6" />
+        <mark key="." line="17" column="6" />
       </file>
       <file name="$USER_HOME$/projects/kotlin/sky/feedme-persistence/src/main/resources/application-docker.yml" timestamp="1554187886211">
         <mark key="[" line="7" column="0" />
@@ -1066,14 +1066,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="115" column="21" filename="$USER_HOME$/projects/kotlin/sky/feedme-persistence/src/test/kotlin/com/artronics/feedme/persistence/Repository.kt" />
-      <jump line="101" column="9" filename="$USER_HOME$/projects/kotlin/sky/feedme-persistence/src/main/kotlin/com/artronics/feedme/persistence/MessageConsumer.kt" />
-      <jump line="99" column="1" filename="$USER_HOME$/projects/kotlin/sky/feedme-persistence/src/main/kotlin/com/artronics/feedme/persistence/MessageConsumer.kt" />
-      <jump line="29" column="19" filename="$USER_HOME$/projects/kotlin/sky/feedme-persistence/src/test/kotlin/com/artronics/feedme/persistence/MessageServiceTest.kt" />
-      <jump line="69" column="0" filename="$USER_HOME$/projects/kotlin/sky/feedme-persistence/src/test/kotlin/com/artronics/feedme/persistence/MessageServiceTest.kt" />
-      <jump line="65" column="1" filename="$USER_HOME$/projects/kotlin/sky/feedme-persistence/src/test/kotlin/com/artronics/feedme/persistence/MessageServiceTest.kt" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/pawncade/frontend/package.json" />
-      <jump line="62" column="5" filename="$USER_HOME$/projects/pawncade/frontend/package.json" />
       <jump line="21" column="20" filename="$USER_HOME$/projects/kotlin/sky/feedme-frontend/package.json" />
       <jump line="28" column="5" filename="$USER_HOME$/projects/kotlin/sky/feedme-frontend/package.json" />
       <jump line="39" column="5" filename="$USER_HOME$/projects/kotlin/sky/feedme-frontend/package.json" />
@@ -1166,6 +1158,14 @@
       <jump line="14" column="42" filename="$USER_HOME$/projects/pawncade/pawncade-frontend/src/component/form/tests/index.test.js" />
       <jump line="30" column="10" filename="$USER_HOME$/projects/pawncade/pawncade-frontend/src/component/form/index.js" />
       <jump line="22" column="20" filename="$USER_HOME$/projects/pawncade/pawncade-frontend/src/App.js" />
+      <jump line="16" column="0" filename="$USER_HOME$/projects/pawncade/pawncade-frontend/src/component/form/index.js" />
+      <jump line="41" column="0" filename="$USER_HOME$/projects/pawncade/pawncade-frontend/src/component/form/index.js" />
+      <jump line="13" column="2" filename="$USER_HOME$/projects/pawncade/pawncade-frontend/src/component/form/index.js" />
+      <jump line="56" column="16" filename="$USER_HOME$/projects/pawncade/pawncade-frontend/src/component/form/index.js" />
+      <jump line="19" column="26" filename="$USER_HOME$/projects/pawncade/pawncade-frontend/src/container/customer/NewCustomer.js" />
+      <jump line="58" column="0" filename="$USER_HOME$/projects/pawncade/pawncade-frontend/src/component/form/index.js" />
+      <jump line="5" column="30" filename="$USER_HOME$/projects/pawncade/pawncade-frontend/src/component/form/index.js" />
+      <jump line="6" column="34" filename="$USER_HOME$/projects/pawncade/pawncade-frontend/src/component/form/index.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1193,55 +1193,55 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>...props</text>
+        <text>style</text>
       </register>
       <register name="-" type="4">
-        <text>...props</text>
+        <text>style</text>
       </register>
       <register name="/" type="4">
-        <text>Input</text>
+        <text>sty</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZGVmaW5lTWVzc2FnZXMgfSBmcm9tICdyZWFjdC1pbnRsJzsKCmV4cG9ydCBjb25zdCBzY29wZSA9ICdhcHAuY29tcG9uZW50cy5JbnB1dEVycm9yJzsKCmV4cG9ydCBkZWZhdWx0IGRlZmluZU1lc3NhZ2VzKHsKICBoZWFkZXI6IHsKICAgIGlkOiBgJHtzY29wZX0uaGVhZGVyYCwKICAgIGRlZmF1bHRNZXNzYWdlOiAnVGhpcyBpcyB0aGUgSW5wdXRFcnJvciBjb21wb25lbnQhJywKICB9LAp9KTsK</text>
+        <text encoding="base64">ICAgICAgZXhwZWN0KGJ1dHRvbi5maW5kKCdidXR0b24nKS5oYXNDbGFzcygnYnRuJykpLnRvQmUodHJ1ZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGJ1dHRvbiBjbGFzc05hbWU9ImJ0biBidG4tcHJpbWFyeSIgdHlwZT0ic3VibWl0Ij5zdWJtaXQ8L2J1dHRvbj4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zdCBpbmplY3RJbnRsID0gKCkK</text>
+        <text encoding="base64">ICAgICAgY29uc3QgYnV0dG9uID0gbW91bnQoPEJ1dHRvbj5oZWxsbyB3b3JsZDwvQnV0dG9uPik7Cg==</text>
       </register>
       <register name="r" type="4">
         <text>placeholder</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHJlbmRlcmVkQ29tcG9uZW50ID0gbW91bnQoPE5ld0N1c3RvbWVyIC8+KTsK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSW50bFByb3ZpZGVyIH0gZnJvbSAncmVhY3QtaW50bCc7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zdCBpbmplY3QgPSBjb20gPT4gPEludGxQcm92aWRlciBsb2NhbGU9ImVuIj57Y29tfTwvSW50bFByb3ZpZGVyPjsK</text>
+        <text encoding="base64">ICBjb25zdCBpbmplY3RJbnRsID0gKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhpbnRsKQo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHJlbmRlcmVkQ29tcG9uZW50ID0gbW91bnQoPE5ld0N1c3RvbWVyIC8+KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPEZvcm1hdHRlZE1lc3NhZ2Ugey4uLmZvcm0uaGVhZGVyfS8+Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">aW1wb3J0IHsgSW50bFByb3ZpZGVyIH0gZnJvbSAncmVhY3QtaW50bCc7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action KJumpAction.Line</text>
       </register>
     </registers>
     <search>
-      <last-search>Input</last-search>
+      <last-search>sty</last-search>
       <last-offset />
-      <last-pattern>Input</last-pattern>
+      <last-pattern>sty</last-pattern>
       <last-replace />
       <last-substitute>chapar.</last-substitute>
       <last-dir>1</last-dir>
@@ -1249,7 +1249,6 @@
     </search>
     <history>
       <history-search>
-        <entry>bootstr</entry>
         <entry>preti</entry>
         <entry>pretti</entry>
         <entry>pre</entry>
@@ -1269,6 +1268,7 @@
         <entry>bl</entry>
         <entry>compo</entry>
         <entry>Input</entry>
+        <entry>sty</entry>
       </history-search>
       <history-cmd>
         <entry>%s/chapar.//g</entry>
