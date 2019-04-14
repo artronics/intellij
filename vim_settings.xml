@@ -545,12 +545,12 @@
         <mark key="." line="17" column="48" />
         <mark key="^" line="17" column="48" />
       </file>
-      <file name="$USER_HOME$/projects/pawncade/pawncade-frontend/src/component/customer/NewCustomerForm.js" timestamp="1555266119871">
+      <file name="$USER_HOME$/projects/pawncade/pawncade-frontend/src/component/customer/NewCustomerForm.js" timestamp="1555266395638">
         <mark key="'" line="9" column="11" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-        <mark key="^" line="28" column="7" />
+        <mark key="[" line="7" column="26" />
+        <mark key="]" line="7" column="27" />
+        <mark key="." line="7" column="27" />
+        <mark key="^" line="7" column="27" />
       </file>
       <file name="$USER_HOME$/projects/pawncade/pawncade-frontend/package.json" timestamp="1554919505784">
         <mark key="'" line="9" column="0" />
@@ -617,11 +617,11 @@
         <mark key="[" line="6" column="0" />
         <mark key="]" line="15" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/pawncade/pawncade-frontend/src/component/customer/tests/NewCustomerForm.test.js" timestamp="1555172158537">
-        <mark key="[" line="3" column="2" />
-        <mark key="]" line="3" column="1" />
-        <mark key="^" line="3" column="1" />
-        <mark key="." line="3" column="1" />
+      <file name="$USER_HOME$/projects/pawncade/pawncade-frontend/src/component/customer/tests/NewCustomerForm.test.js" timestamp="1555267110582">
+        <mark key="[" line="11" column="30" />
+        <mark key="]" line="11" column="27" />
+        <mark key="." line="11" column="27" />
+        <mark key="^" line="11" column="27" />
       </file>
       <file name="$USER_HOME$/projects/kotlin/sky/feedme-frontend/Docker/.gitignore" timestamp="1554188535095">
         <mark key="[" line="0" column="0" />
@@ -1198,13 +1198,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>arrayOf(
-    PropTypes.node,
-  ),</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBjb25zdCBvblNhdmUgPSAoKSA9PiB7Y29uc29sZS5sb2coKCdraXInKSl9OwogIGNvbnN0IGkgPSAoY29tKSA9PiA8SW50bFByb3ZpZGVyIGxvY2FsZT0iZW4iPntpbmplY3RJbnRsKGNvbSkoKX08L0ludGxQcm92aWRlcj47CiAgY29uc3QgaW50bFByb3ZpZGVyID0gbmV3IEludGxQcm92aWRlcih7bG9jYWxlOiAnZW4nfSwge30pOwogIGNvbnN0IHtpbnRsfSA9IGludGxQcm92aWRlci5nZXRDaGlsZENvbnRleHQoKTsKICBjb25zdCBjdXN0b21lciA9IG1vdW50KDxOZXdDdXN0b21lckZvcm0gaW50bD17aW50bH0gb25TYXZlPXtvblNhdmV9Lz4pOwogIGNvbnN0IAogIGl0KCdzaG91bGQgY3JlYXRlIGZvcm0nLCAoKSA9PiB7CiAgICBjb25zdCB3cmFwcGVyID0gKGN1c3RvbWVyKTsKICAgIHdyYXBwZXIuZmluZChCdXR0b24pLnNpbXVsYXRlKCdjbGljaycpOwogIH0pOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>first</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>firs</text>
@@ -1212,37 +1210,37 @@
       <register name="0" type="2">
         <text encoding="base64">ICBjb25zdCBmaXJzdE5hbWUgPSBpbnRsLmZvcm1hdE1lc3NhZ2UoZm9ybU1lc3NhZ2VzLmZpcnN0TmFtZSk7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>arrayOf(
-    PropTypes.node,
-  ),</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICBjb25zdCBvblNhdmUgPSAoKSA9PiB7Y29uc29sZS5sb2coKCdraXInKSl9OwogIGNvbnN0IGkgPSAoY29tKSA9PiA8SW50bFByb3ZpZGVyIGxvY2FsZT0iZW4iPntpbmplY3RJbnRsKGNvbSkoKX08L0ludGxQcm92aWRlcj47CiAgY29uc3QgaW50bFByb3ZpZGVyID0gbmV3IEludGxQcm92aWRlcih7bG9jYWxlOiAnZW4nfSwge30pOwogIGNvbnN0IHtpbnRsfSA9IGludGxQcm92aWRlci5nZXRDaGlsZENvbnRleHQoKTsKICBjb25zdCBjdXN0b21lciA9IG1vdW50KDxOZXdDdXN0b21lckZvcm0gaW50bD17aW50bH0gb25TYXZlPXtvblNhdmV9Lz4pOwogIGNvbnN0IAogIGl0KCdzaG91bGQgY3JlYXRlIGZvcm0nLCAoKSA9PiB7CiAgICBjb25zdCB3cmFwcGVyID0gKGN1c3RvbWVyKTsKICAgIHdyYXBwZXIuZmluZChCdXR0b24pLnNpbXVsYXRlKCdjbGljaycpOwogIH0pOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgPGRpdiBjbGFzc05hbWU9ImZvcm0tcm93Ij4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iY29sIj4KICAgICAgICA8L2Rpdj4KICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICBjb25zdCBjdXN0b21lciA9IG1vdW50KDxOZXdDdXN0b21lckZvcm0gb25TYXZlPXtvblNhdmV9Lz4pOwo=</text>
       </register>
       <register name="r" type="4">
         <text>placeholder</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxCdXR0b24gdHlwZT0ic3VibWl0IiBjb2xvcj0icHJpbWFyeSI+U3VibWl0PC9CdXR0b24+Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGN1c3RvbWVyID0gbW91bnQoPE5ld0N1c3RvbWVyRm9ybSBvblNhdmU9e29uU2F2ZX0vPik7Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="6" type="4">
+        <text>arrayOf(
+    PropTypes.node,
+  ),</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgPGRpdiBjbGFzc05hbWU9ImZvcm0tcm93Ij4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iY29sIj4KICAgICAgICA8L2Rpdj4KICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgawo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iY29sIj4KICAgICAgICAgIDxJbnB1dCBuYW1lPSJmaXJzdE5hbWUiIGxhYmVsPXtmaXJzdE5hbWV9IHBsYWNlaG9sZGVyPSJGaXJzdCBOYW1lIgogICAgICAgICAgICAgICAgIHR5cGU9InRleHQiIGZvcm09e2Zvcm19Lz4KICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICAgIDxCdXR0b24gdHlwZT0ic3VibWl0IiBjb2xvcj0icHJpbWFyeSI+U3VibWl0PC9CdXR0b24+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action KJumpAction.Line</text>
