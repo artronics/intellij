@@ -1007,6 +1007,13 @@
         <mark key="." line="61" column="0" />
         <mark key="^" line="61" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/pawncade/pawncade-frontend/src/container/customer/state.js" timestamp="1555513515048">
+        <mark key="'" line="0" column="11" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="9" column="18" />
+      </file>
       <file name="$USER_HOME$/projects/infinity-works/frontend/app/containers/Authority/reducer.js" timestamp="1554398689190">
         <mark key="[" line="15" column="2" />
         <mark key="]" line="15" column="6" />
@@ -1072,7 +1079,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="5" filename="$USER_HOME$/projects/kotlin/sky/feedme-frontend/package.json" />
       <jump line="44" column="17" filename="$USER_HOME$/projects/kotlin/sky/feedme-frontend/package.json" />
       <jump line="52" column="0" filename="$USER_HOME$/projects/kotlin/sky/feedme-frontend/package.json" />
       <jump line="124" column="0" filename="$USER_HOME$/projects/kotlin/sky/feedme-frontend/package.json" />
@@ -1172,6 +1178,7 @@
       <jump line="6" column="34" filename="$USER_HOME$/projects/pawncade/pawncade-frontend/src/component/form/index.js" />
       <jump line="9" column="11" filename="$USER_HOME$/projects/pawncade/pawncade-frontend/src/component/customer/NewCustomerForm.js" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/pawncade/pawncade-frontend/src/component/customer/tests/NewCustomerForm.test.js" />
+      <jump line="0" column="11" filename="$USER_HOME$/projects/pawncade/pawncade-frontend/src/container/customer/state.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1198,11 +1205,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>, Input</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>, Input</text>
+        <text>store</text>
       </register>
       <register name="/" type="4">
         <text>firs</text>
@@ -1211,34 +1218,34 @@
         <text encoding="base64">ICBmaXJzdE5hbWU6IFl1cC5zdHJpbmcoKQogICAgLnJlcXVpcmVkKCdGaXJzdCBuYW1lIGlzIHJlcXVpcmVkJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgY3VzdG9tZXIgPSB7CiAgZmlyc3ROYW1lOiAnRmlyc3QgTmFtZScsCiAgbGFzdE5hbWU6ICdMYXN0IE5hbWUnCn07Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdCh3cmFwcGVyLmZpbmQoJ2RpdicpLmxlbmd0aCkubm90LnRvQmUoMCk7Cg==</text>
+        <text encoding="base64">Y29uc3QgCg==</text>
       </register>
       <register name="r" type="4">
         <text>placeholder</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">LyoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHdyYXBwZXIuZmluZChCdXR0b24pLnNpbXVsYXRlKCdjbGljaycpOwo=</text>
+        <text encoding="base64">KiAqLwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdChvblNhdmUpLnRvSGF2ZUJlZW5DYWxsZWQoKTsK</text>
+        <text encoding="base64">KiAgQ09OU1RBTlRTCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGplc3QgZnJvbSAnamVzJwo=</text>
+        <text encoding="base64">Y29uc3QgY3VzdG9tZXIgPSB7CiAgZmlyc3ROYW1lOiAnRmlyc3QgTmFtZScsCiAgbGFzdE5hbWU6ICdMYXN0IE5hbWUnCn07Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdCgpCg==</text>
+        <text encoding="base64">ICAgIGV4cGVjdCh3cmFwcGVyLmZpbmQoJ2RpdicpLmxlbmd0aCkubm90LnRvQmUoMCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zdCBvblNhdmUgPSAoKSA9PiB7Y29uc29sZS5sb2coKCdraXInKSl9OwogIGNvbnN0IGkgPSAoY29tKSA9PiA8SW50bFByb3ZpZGVyIGxvY2FsZT0iZW4iPntpbmplY3RJbnRsKGNvbSkoKX08L0ludGxQcm92aWRlcj47CiAgY29uc3QgaW50bFByb3ZpZGVyID0gbmV3IEludGxQcm92aWRlcih7bG9jYWxlOiAnZW4nfSwge30pOwogIGNvbnN0IHtpbnRsfSA9IGludGxQcm92aWRlci5nZXRDaGlsZENvbnRleHQoKTsKICBjb25zdCBjdXN0b21lciA9IG1vdW50KDxOZXdDdXN0b21lckZvcm0gaW50bD17aW50bH0gb25TYXZlPXtvblNhdmV9Lz4pOwogIGNvbnN0IAogIGl0KCdzaG91bGQgY3JlYXRlIGZvcm0nLCAoKSA9PiB7CiAgICBjb25zdCB3cmFwcGVyID0gKGN1c3RvbWVyKTsKICAgIHdyYXBwZXIuZmluZChCdXR0b24pLnNpbXVsYXRlKCdjbGljaycpOwogIH0pOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zdCBjdXN0b21lciA9IG1vdW50KDxOZXdDdXN0b21lckZvcm0gb25TYXZlPXtvblNhdmV9Lz4pOwo=</text>
+        <text encoding="base64">ICAgIHdyYXBwZXIuZmluZChCdXR0b24pLnNpbXVsYXRlKCdjbGljaycpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action KJumpAction.Word0</text>
