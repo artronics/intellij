@@ -158,11 +158,12 @@
         <mark key="." line="1" column="12" />
         <mark key="^" line="1" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/pawncade/pawncade-frontend/src/container/customer/NewCustomer.js" timestamp="1555862418046">
-        <mark key="'" line="1" column="32" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
+      <file name="$USER_HOME$/projects/pawncade/pawncade-frontend/src/container/customer/NewCustomer.js" timestamp="1555867255860">
+        <mark key="'" line="6" column="26" />
+        <mark key="[" line="14" column="28" />
+        <mark key="]" line="14" column="37" />
+        <mark key="." line="14" column="37" />
+        <mark key="^" line="14" column="37" />
       </file>
       <file name="$USER_HOME$/projects/pawncade/frontend/app/components/Button/tests/index.test.js" timestamp="1550966516893">
         <mark key="[" line="65" column="50" />
@@ -1010,11 +1011,11 @@
         <mark key="." line="61" column="0" />
         <mark key="^" line="61" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/pawncade/pawncade-frontend/src/container/customer/state.js" timestamp="1555863533365">
-        <mark key="[" line="30" column="8" />
-        <mark key="]" line="30" column="10" />
-        <mark key="." line="30" column="10" />
-        <mark key="^" line="30" column="10" />
+      <file name="$USER_HOME$/projects/pawncade/pawncade-frontend/src/container/customer/state.js" timestamp="1555867281529">
+        <mark key="[" line="11" column="18" />
+        <mark key="]" line="12" column="17" />
+        <mark key="." line="12" column="17" />
+        <mark key="^" line="12" column="17" />
       </file>
       <file name="$USER_HOME$/projects/infinity-works/frontend/app/containers/Authority/reducer.js" timestamp="1554398689190">
         <mark key="[" line="15" column="2" />
@@ -1081,8 +1082,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="124" column="0" filename="$USER_HOME$/projects/kotlin/sky/feedme-frontend/package.json" />
-      <jump line="127" column="0" filename="$USER_HOME$/projects/kotlin/sky/feedme-frontend/package.json" />
       <jump line="143" column="0" filename="$USER_HOME$/projects/kotlin/sky/feedme-frontend/package.json" />
       <jump line="25" column="0" filename="$USER_HOME$/projects/kotlin/sky/feedme-frontend/.eslintrc.js" />
       <jump line="24" column="6" filename="$USER_HOME$/projects/kotlin/sky/feedme-frontend/.eslintrc.js" />
@@ -1181,6 +1180,8 @@
       <jump line="32" column="19" filename="$USER_HOME$/projects/pawncade/pawncade-frontend/src/container/customer/NewCustomer.js" />
       <jump line="37" column="68" filename="$USER_HOME$/projects/pawncade/pawncade-frontend/src/container/customer/NewCustomer.js" />
       <jump line="2" column="32" filename="$USER_HOME$/projects/pawncade/pawncade-frontend/src/container/customer/NewCustomer.js" />
+      <jump line="33" column="17" filename="$USER_HOME$/projects/pawncade/pawncade-frontend/src/container/customer/NewCustomer.js" />
+      <jump line="6" column="26" filename="$USER_HOME$/projects/pawncade/pawncade-frontend/src/container/customer/NewCustomer.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1208,10 +1209,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>createSelector()</text>
+        <text encoding="base64">IGZpcnN0TmFtZTogJ2tvcycsIGxhc3ROYW1lOiAna2lyJyA=</text>
       </register>
       <register name="-" type="4">
-        <text>createSelector()</text>
+        <text encoding="base64">IGZpcnN0TmFtZTogJ2tvcycsIGxhc3ROYW1lOiAna2lyJyA=</text>
       </register>
       <register name="/" type="4">
         <text>firs</text>
@@ -1220,15 +1221,30 @@
         <text>SAVE_NEW_CUSTOMER</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZWZhdWx0Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygna2lyJywgbmV3Q3VzdG9tZXIpCg==</text>
       </register>
       <register name="r" type="4">
         <text>placeholder</text>
       </register>
-      <register name="3" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIC8vIG5ld0N1c3RvbWVyOiBzdGF0ZS5nZXRJbihbJ2N1c3RvbWVyJywgJ25ld0N1c3RvbWVyJ10pLnRvSlMoKSwK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBkZWZhdWx0Cg==</text>
+      </register>
+      <register name="8" type="4">
         <text>{
   switch (action.type) {
     default:
@@ -1236,23 +1252,8 @@
   }
 };</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZnJvbUpTIH0gZnJvbSAnaW1tdXRhYmxlJzsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZnJvbUpTIH0gZnJvbSAnaW1tdXRhYmxlJzsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhzdGF0ZS5jdXN0b21lci5nZXQoJ25ld0N1c3RvbWVyJykudG9KUygpKQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICB9LAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjdXN0b21lcjogewo=</text>
+        <text encoding="base64">aW1wb3J0IHsgZnJvbUpTIH0gZnJvbSAnaW1tdXRhYmxlJzsK</text>
       </register>
       <register name=":" type="4">
         <text>action KJumpAction.Word0</text>
