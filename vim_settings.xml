@@ -364,11 +364,12 @@
         <mark key="^" line="6" column="15" />
         <mark key="." line="6" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/pawncade/pawncade-frontend/src/component/form/ImageInput.js" timestamp="1555881324608">
-        <mark key="[" line="13" column="14" />
-        <mark key="]" line="13" column="15" />
-        <mark key="." line="13" column="15" />
-        <mark key="^" line="13" column="17" />
+      <file name="$USER_HOME$/projects/pawncade/pawncade-frontend/src/component/form/ImageInput.js" timestamp="1555884795181">
+        <mark key="'" line="39" column="52" />
+        <mark key="[" line="14" column="31" />
+        <mark key="]" line="14" column="31" />
+        <mark key="." line="14" column="31" />
+        <mark key="^" line="14" column="31" />
       </file>
       <file name="$USER_HOME$/projects/rust/CDL/src/main.rs" timestamp="1553651569592">
         <mark key="[" line="0" column="11" />
@@ -623,12 +624,12 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/pawncade/pawncade-frontend/src/component/form/index.js" timestamp="1555880793341">
+      <file name="$USER_HOME$/projects/pawncade/pawncade-frontend/src/component/form/index.js" timestamp="1555884354008">
         <mark key="'" line="3" column="37" />
-        <mark key="[" line="77" column="39" />
-        <mark key="]" line="77" column="50" />
-        <mark key="." line="77" column="50" />
-        <mark key="^" line="77" column="50" />
+        <mark key="[" line="67" column="28" />
+        <mark key="]" line="67" column="28" />
+        <mark key="." line="67" column="28" />
+        <mark key="^" line="67" column="32" />
       </file>
       <file name="$USER_HOME$/projects/infinity-works/frontend/app/containers/EstablishmentProfile/constants.js" timestamp="1554392328864">
         <mark key="[" line="0" column="19" />
@@ -1087,8 +1088,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="349" column="10" filename="$USER_HOME$/projects/kotlin/sky/feedme-backend/src/main/kotlin/com/artronics/feedme/backend/App.kt" />
-      <jump line="35" column="27" filename="$USER_HOME$/projects/kotlin/sky/feedme-frontend/app/containers/Bet/index.js" />
       <jump line="32" column="36" filename="$USER_HOME$/projects/kotlin/sky/feedme-backend/build.gradle" />
       <jump line="22" column="24" filename="$USER_HOME$/projects/kotlin/sky/feedme-consumer/src/main/resources/application.yml" />
       <jump line="0" column="5" filename="$USER_HOME$/projects/kotlin/sky/feedme-persistence/src/main/resources/application.yml" />
@@ -1187,6 +1186,8 @@
       <jump line="76" column="0" filename="$USER_HOME$/projects/pawncade/pawncade-frontend/src/component/form/index.js" />
       <jump line="3" column="37" filename="$USER_HOME$/projects/pawncade/pawncade-frontend/src/component/form/index.js" />
       <jump line="69" column="0" filename="$USER_HOME$/projects/pawncade/pawncade-frontend/src/component/form/ImageInput.js" />
+      <jump line="30" column="8" filename="$USER_HOME$/projects/pawncade/pawncade-frontend/src/component/form/ImageInput.js" />
+      <jump line="43" column="52" filename="$USER_HOME$/projects/pawncade/pawncade-frontend/src/component/form/ImageInput.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1213,11 +1214,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBtYXJnaW4tcmlnaHQ6IGF1dG87CiAgbWFyZ2luLWxlZnQ6IGF1dG87Cg==</text>
+      <register name="&quot;" type="4">
+        <text>div</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PC9IaWRkZW4+</text>
+        <text>div</text>
       </register>
       <register name="/" type="4">
         <text>Error</text>
@@ -1226,34 +1227,34 @@
         <text encoding="base64">ICBjb25zdCBlcnJvciA9IGZvcm0gJiYgZm9ybS5lcnJvcnNbbmFtZV07Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBtYXJnaW4tcmlnaHQ6IGF1dG87CiAgbWFyZ2luLWxlZnQ6IGF1dG87Cg==</text>
+        <text encoding="base64">ICBjb2xvcjogZGFya2dyZXk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJvcmRlci1yYWRpdXM6IDNweDsK</text>
       </register>
       <register name="r" type="4">
         <text>placeholder</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB0ZXh0OiByZWQ7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICBiYWNrZ3JvdW5kLWNvbG9yOiB3aGl0ZXNtb2tlOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBib3JkZXI6IGRhcmtncmV5IDRweCBkYXNoZWQ7CiAgYm9yZGVyLXJhZGl1czogNXB4Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">SW1hZ2VCb3gucHJvcFR5cGVzID0gewogIG9uU2F2ZTogUHJvcFR5cGVzLmZ1bmMsCn07Cgo=</text>
+        <text encoding="base64">ICBtYXJnaW4tcmlnaHQ6IGF1dG87CiAgbWFyZ2luLWxlZnQ6IGF1dG87Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IEN1c3RvbWVySW1hZ2UgZnJvbSAnLi9DdXN0b21lckltYWdlJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgSW1hZ2VCb3g7Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>action KJumpAction.Word0</text>
