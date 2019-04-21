@@ -158,12 +158,11 @@
         <mark key="." line="1" column="12" />
         <mark key="^" line="1" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/pawncade/pawncade-frontend/src/container/customer/NewCustomer.js" timestamp="1555789933383">
+      <file name="$USER_HOME$/projects/pawncade/pawncade-frontend/src/container/customer/NewCustomer.js" timestamp="1555862418046">
         <mark key="'" line="1" column="32" />
-        <mark key="[" line="32" column="52" />
-        <mark key="]" line="32" column="53" />
-        <mark key="." line="32" column="53" />
-        <mark key="^" line="32" column="53" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/projects/pawncade/frontend/app/components/Button/tests/index.test.js" timestamp="1550966516893">
         <mark key="[" line="65" column="50" />
@@ -823,11 +822,11 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/pawncade/pawncade-frontend/src/reducer.js" timestamp="1555789719237">
-        <mark key="[" line="13" column="29" />
-        <mark key="]" line="13" column="29" />
-        <mark key="." line="13" column="29" />
-        <mark key="^" line="13" column="29" />
+      <file name="$USER_HOME$/projects/pawncade/pawncade-frontend/src/reducer.js" timestamp="1555862470932">
+        <mark key="[" line="12" column="12" />
+        <mark key="]" line="12" column="11" />
+        <mark key="." line="12" column="11" />
+        <mark key="^" line="12" column="11" />
       </file>
       <file name="$USER_HOME$/projects/pawncade/frontend/app/containers/customer/index.js" timestamp="1554859169979">
         <mark key="[" line="4" column="2" />
@@ -1011,11 +1010,11 @@
         <mark key="." line="61" column="0" />
         <mark key="^" line="61" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/pawncade/pawncade-frontend/src/container/customer/state.js" timestamp="1555789603054">
-        <mark key="[" line="5" column="24" />
-        <mark key="]" line="5" column="24" />
-        <mark key="." line="5" column="24" />
-        <mark key="^" line="5" column="24" />
+      <file name="$USER_HOME$/projects/pawncade/pawncade-frontend/src/container/customer/state.js" timestamp="1555863533365">
+        <mark key="[" line="30" column="8" />
+        <mark key="]" line="30" column="10" />
+        <mark key="." line="30" column="10" />
+        <mark key="^" line="30" column="10" />
       </file>
       <file name="$USER_HOME$/projects/infinity-works/frontend/app/containers/Authority/reducer.js" timestamp="1554398689190">
         <mark key="[" line="15" column="2" />
@@ -1209,46 +1208,51 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>.newCustomer</text>
+        <text>createSelector()</text>
       </register>
       <register name="-" type="4">
-        <text>.newCustomer</text>
+        <text>createSelector()</text>
       </register>
       <register name="/" type="4">
         <text>firs</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIG5ld0N1c3RvbWVyOiBzdGF0ZS5nZXRJbihbJ2N1c3RvbWVyJywgJ25ld0N1c3RvbWVyJ10pLnRvSlMoKSwK</text>
+      <register name="0" type="4">
+        <text>SAVE_NEW_CUSTOMER</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICBkZWZhdWx0Cg==</text>
       </register>
       <register name="r" type="4">
         <text>placeholder</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBjdXN0b21lcjogewo=</text>
+      <register name="3" type="4">
+        <text>{
+  switch (action.type) {
+    default:
+      return state;
+  }
+};</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgZnJvbUpTIH0gZnJvbSAnaW1tdXRhYmxlJzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgZnJvbUpTIH0gZnJvbSAnaW1tdXRhYmxlJzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgcmVkdWNlcnMgPSBjb21iaW5lUmVkdWNlcnMoewogIGN1c3RvbWVyLAp9KTsK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhzdGF0ZS5jdXN0b21lci5nZXQoJ25ld0N1c3RvbWVyJykudG9KUygpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgcmVkdWNlciBhcyBjdXN0b21lcn0gZnJvbSAnY29udGFpbmVyL2N1c3RvbWVyL3N0YXRlJzsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgaW5pdGlhbFN0YXRlID0ge2ZvbzogJ2Jhcid9Owo=</text>
+        <text encoding="base64">ICB9LAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjdXN0b21lcjogewo=</text>
       </register>
       <register name=":" type="4">
         <text>action KJumpAction.Word0</text>
