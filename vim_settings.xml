@@ -617,12 +617,12 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/pawncade/pawncade-frontend/src/component/form/index.js" timestamp="1555266153542">
+      <file name="$USER_HOME$/projects/pawncade/pawncade-frontend/src/component/form/index.js" timestamp="1555879751702">
         <mark key="'" line="6" column="34" />
-        <mark key="[" line="73" column="22" />
-        <mark key="]" line="73" column="26" />
-        <mark key="." line="73" column="26" />
-        <mark key="^" line="73" column="26" />
+        <mark key="[" line="55" column="73" />
+        <mark key="]" line="56" column="12" />
+        <mark key="." line="56" column="12" />
+        <mark key="^" line="56" column="12" />
       </file>
       <file name="$USER_HOME$/projects/infinity-works/frontend/app/containers/EstablishmentProfile/constants.js" timestamp="1554392328864">
         <mark key="[" line="0" column="19" />
@@ -811,11 +811,11 @@
         <mark key="." line="10" column="43" />
         <mark key="^" line="10" column="43" />
       </file>
-      <file name="$USER_HOME$/projects/pawncade/pawncade-frontend/src/component/customer/CustomerImage.js" timestamp="1555870513755">
-        <mark key="[" line="23" column="24" />
-        <mark key="]" line="23" column="24" />
-        <mark key="." line="23" column="24" />
-        <mark key="^" line="9" column="19" />
+      <file name="$USER_HOME$/projects/pawncade/pawncade-frontend/src/component/customer/CustomerImage.js" timestamp="1555879448624">
+        <mark key="[" line="5" column="26" />
+        <mark key="]" line="5" column="26" />
+        <mark key="." line="5" column="26" />
+        <mark key="^" line="5" column="22" />
       </file>
       <file name="$USER_HOME$/projects/pods/infrastructure/gogs/docker/Dockerfile" timestamp="1550525716684">
         <mark key="[" line="0" column="23" />
@@ -1208,17 +1208,17 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>red</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgPGxhYmVsPntsYWJlbH08L2xhYmVsPgogICAgICA8RmllbGQgbmFtZT17bmFtZX0gdHlwZT17dHlwZX0gcGxhY2Vob2xkZXI9e3BsYWNlaG9sZGVyfQogICAgICAgICAgICAgICAgY2xhc3NOYW1lPXsiZm9ybS1jb250cm9sICIgKyAoZXJyb3IgPyAiaXMtaW52YWxpZCIgOiAiIil9IC8+CiAgICAgIDxFcnJvck1lc3NhZ2UgbmFtZT17bmFtZX0gY2xhc3NOYW1lPSJpbnZhbGlkLWZlZWRiYWNrIiBjb21wb25lbnQ9ImRpdiIvPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>red</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>firs</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBtYXJnaW4tcmlnaHQ6IGF1dG87Cg==</text>
+        <text encoding="base64">ICAgICAgPGxhYmVsPntsYWJlbH08L2xhYmVsPgogICAgICA8RmllbGQgbmFtZT17bmFtZX0gdHlwZT17dHlwZX0gcGxhY2Vob2xkZXI9e3BsYWNlaG9sZGVyfQogICAgICAgICAgICAgICAgY2xhc3NOYW1lPXsiZm9ybS1jb250cm9sICIgKyAoZXJyb3IgPyAiaXMtaW52YWxpZCIgOiAiIil9IC8+CiAgICAgIDxFcnJvck1lc3NhZ2UgbmFtZT17bmFtZX0gY2xhc3NOYW1lPSJpbnZhbGlkLWZlZWRiYWNrIiBjb21wb25lbnQ9ImRpdiIvPgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
