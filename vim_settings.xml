@@ -48,11 +48,6 @@
         <mark key="^" line="2" column="11" />
         <mark key="." line="2" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/pawncade/pawncade-frontend/.eslintrc.json" timestamp="1554919554559">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/kotlin/feedme/src/main/kotlin/com/artronics/feedme/app.kt" timestamp="1553990534581">
         <mark key="[" line="21" column="30" />
         <mark key="]" line="21" column="33" />
@@ -71,6 +66,12 @@
         <mark key="^" line="78" column="86" />
         <mark key="." line="84" column="6" />
       </file>
+      <file name="$USER_HOME$/projects/pawncade/pawncade-frontend/src/component/layout/Nav.js" timestamp="1555942343428">
+        <mark key="[" line="5" column="44" />
+        <mark key="]" line="5" column="55" />
+        <mark key="." line="5" column="55" />
+        <mark key="^" line="5" column="55" />
+      </file>
       <file name="$USER_HOME$/projects/kotlin/sky/feedme-consumer/src/main/kotlin/com/artronics/feedme/consumer/consumer.kt" timestamp="1554009486455">
         <mark key="[" line="8" column="25" />
         <mark key="]" line="9" column="26" />
@@ -82,11 +83,6 @@
         <mark key="]" line="0" column="6" />
         <mark key="^" line="0" column="6" />
         <mark key="." line="0" column="6" />
-      </file>
-      <file name="$USER_HOME$/projects/pawncade/frontend/app/containers/LanguageProvider/reducer.js" timestamp="1554953018599">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/infinity-works/frontend/app/containers/Authority/tests/reducer.test.js" timestamp="1554394410342">
         <mark key="[" line="31" column="52" />
@@ -257,11 +253,6 @@
         <mark key="." line="82" column="56" />
         <mark key="^" line="82" column="56" />
       </file>
-      <file name="$USER_HOME$/projects/pawncade/pawncade-frontend/src/container/LanguageProvider/index.js" timestamp="1554952801213">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/kotlin/sky/feedme-persistence/src/main/kotlin/com/artronics/feedme/persistence/Persistence.kt" timestamp="1554083883025">
         <mark key="[" line="38" column="25" />
         <mark key="]" line="38" column="34" />
@@ -304,16 +295,17 @@
         <mark key="." line="12" column="24" />
         <mark key="^" line="12" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/infinity-works/frontend/app/components/Rating/index.js" timestamp="1554416324408">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/kotlin/sky/feedme-persistence/src/test/kotlin/com/artronics/feedme/persistence/KafkaFeedConsumer.kt" timestamp="1554158232352">
         <mark key="[" line="7" column="23" />
         <mark key="]" line="7" column="22" />
         <mark key="^" line="7" column="22" />
         <mark key="." line="7" column="22" />
+      </file>
+      <file name="$USER_HOME$/projects/pawncade/pawncade-frontend/src/component/layout/index.js" timestamp="1555942216799">
+        <mark key="[" line="6" column="6" />
+        <mark key="]" line="6" column="11" />
+        <mark key="^" line="6" column="11" />
+        <mark key="." line="6" column="11" />
       </file>
       <file name="$USER_HOME$/projects/pawncade/frontend/.prettierignore" timestamp="1550862168799">
         <mark key="[" line="7" column="0" />
@@ -321,12 +313,12 @@
         <mark key="^" line="7" column="4" />
         <mark key="." line="7" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/pawncade/pawncade-frontend/src/App.js" timestamp="1555869254903">
-        <mark key="'" line="28" column="20" />
-        <mark key="[" line="12" column="8" />
-        <mark key="]" line="12" column="17" />
-        <mark key="." line="12" column="17" />
-        <mark key="^" line="12" column="17" />
+      <file name="$USER_HOME$/projects/pawncade/pawncade-frontend/src/App.js" timestamp="1555941897097">
+        <mark key="'" line="30" column="20" />
+        <mark key="[" line="20" column="22" />
+        <mark key="]" line="20" column="20" />
+        <mark key="." line="20" column="20" />
+        <mark key="^" line="20" column="20" />
       </file>
       <file name="$USER_HOME$/projects/pawncade/pawncade-frontend/src/store.js" timestamp="1555616298669">
         <mark key="[" line="21" column="40" />
@@ -901,11 +893,6 @@
         <mark key="^" line="34" column="31" />
         <mark key="." line="34" column="31" />
       </file>
-      <file name="$USER_HOME$/projects/infinity-works/food-hygiene/src/main/resources/application.yml" timestamp="1554351938592">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/pawncade/frontend/app/components/Input/tests/index.test.js" timestamp="1554849972795">
         <mark key="'" line="26" column="22" />
         <mark key="[" line="1" column="14" />
@@ -978,11 +965,6 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
         <mark key="^" line="42" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/pawncade/pawncade-backend/src/main/kotlin/com/artronics/pawncade/backend/App.kt" timestamp="1554821941999">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/projects/pods/infrastructure/docker-registry/docker-registry.Pod.yml" timestamp="1549219144077">
         <mark key="[" line="15" column="8" />
@@ -1214,8 +1196,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>div</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgPGEgY2xhc3NOYW1lPSJuYXYtbGluayBhY3RpdmUiIGhyZWY9IiMiPkFjdGl2ZTwvYT4KICAgICAgPGEgY2xhc3NOYW1lPSJuYXYtbGluayIgaHJlZj0iIyI+TGluazwvYT4KICAgICAgPGEgY2xhc3NOYW1lPSJuYXYtbGluayIgaHJlZj0iIyI+TGluazwvYT4KICAgICAgPGEgY2xhc3NOYW1lPSJuYXYtbGluayBkaXNhYmxlZCIgaHJlZj0iIyI+RGlzYWJsZWQ8L2E+Cg==</text>
       </register>
       <register name="-" type="4">
         <text>div</text>
@@ -1224,37 +1206,37 @@
         <text>Error</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjb25zdCBlcnJvciA9IGZvcm0gJiYgZm9ybS5lcnJvcnNbbmFtZV07Cg==</text>
+        <text encoding="base64">ICAgICAgPGEgY2xhc3NOYW1lPSJuYXYtbGluayBhY3RpdmUiIGhyZWY9IiMiPkFjdGl2ZTwvYT4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb2xvcjogZGFya2dyZXk7Cg==</text>
+        <text encoding="base64">ICAgICAgPGEgY2xhc3NOYW1lPSJuYXYtbGluayBhY3RpdmUiIGhyZWY9IiMiPkFjdGl2ZTwvYT4KICAgICAgPGEgY2xhc3NOYW1lPSJuYXYtbGluayIgaHJlZj0iIyI+TGluazwvYT4KICAgICAgPGEgY2xhc3NOYW1lPSJuYXYtbGluayIgaHJlZj0iIyI+TGluazwvYT4KICAgICAgPGEgY2xhc3NOYW1lPSJuYXYtbGluayBkaXNhYmxlZCIgaHJlZj0iIyI+RGlzYWJsZWQ8L2E+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGJvcmRlci1yYWRpdXM6IDNweDsK</text>
+        <text encoding="base64">ICBjb2xvcjogZGFya2dyZXk7Cg==</text>
       </register>
       <register name="r" type="4">
         <text>placeholder</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB0ZXh0OiByZWQ7Cg==</text>
+        <text encoding="base64">ICAgIGJvcmRlci1yYWRpdXM6IDNweDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBiYWNrZ3JvdW5kLWNvbG9yOiB3aGl0ZXNtb2tlOwo=</text>
+        <text encoding="base64">ICB0ZXh0OiByZWQ7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBib3JkZXI6IGRhcmtncmV5IDRweCBkYXNoZWQ7CiAgYm9yZGVyLXJhZGl1czogNXB4Owo=</text>
+        <text encoding="base64">ICBiYWNrZ3JvdW5kLWNvbG9yOiB3aGl0ZXNtb2tlOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBtYXJnaW4tcmlnaHQ6IGF1dG87CiAgbWFyZ2luLWxlZnQ6IGF1dG87Cg==</text>
+        <text encoding="base64">ICBib3JkZXI6IGRhcmtncmV5IDRweCBkYXNoZWQ7CiAgYm9yZGVyLXJhZGl1czogNXB4Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBtYXJnaW4tcmlnaHQ6IGF1dG87CiAgbWFyZ2luLWxlZnQ6IGF1dG87Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action KJumpAction.Word0</text>
