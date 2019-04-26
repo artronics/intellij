@@ -961,11 +961,11 @@
         <mark key="^" line="12" column="23" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/rust/Tufon/src/component.rs" timestamp="1556310728542">
-        <mark key="[" line="9" column="14" />
-        <mark key="]" line="9" column="14" />
-        <mark key="." line="9" column="14" />
-        <mark key="^" line="9" column="19" />
+      <file name="$USER_HOME$/projects/rust/Tufon/src/component.rs" timestamp="1556321570771">
+        <mark key="[" line="40" column="15" />
+        <mark key="]" line="40" column="16" />
+        <mark key="." line="40" column="16" />
+        <mark key="^" line="40" column="14" />
       </file>
       <file name="$USER_HOME$/projects/pawncade/frontend/app/components/LoginForm/messages.js" timestamp="1551050001150">
         <mark key="[" line="32" column="3" />
@@ -1228,18 +1228,16 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>{
-//        value: 0.0
-    };</text>
+        <text encoding="base64">PCdhPg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID0gMC4w</text>
+        <text encoding="base64">PCdhPg==</text>
       </register>
       <register name="/" type="4">
         <text>Error</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dHlwZSBPaG0gPSBmNjQ7Cg==</text>
+        <text encoding="base64">ICAgIGE6IE5ldDwnYT4sCg==</text>
       </register>
       <register name="1" type="4">
         <text>{
