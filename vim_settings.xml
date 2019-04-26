@@ -139,6 +139,12 @@
         <mark key="^" line="4" column="26" />
         <mark key="." line="17" column="44" />
       </file>
+      <file name="$USER_HOME$/projects/rust/Tufon/src/main.rs" timestamp="1556297172602">
+        <mark key="[" line="6" column="15" />
+        <mark key="]" line="6" column="13" />
+        <mark key="." line="6" column="13" />
+        <mark key="^" line="6" column="13" />
+      </file>
       <file name="$USER_HOME$/projects/infinity-works/frontend/app/containers/AuthorityProfile/constants.js" timestamp="1554392712257">
         <mark key="[" line="1" column="106" />
         <mark key="]" line="1" column="106" />
@@ -925,6 +931,12 @@
         <mark key="^" line="4" column="51" />
         <mark key="." line="4" column="51" />
       </file>
+      <file name="$USER_HOME$/projects/rust/Tufon/.gitignore" timestamp="1556296287874">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="5" />
+        <mark key="^" line="0" column="5" />
+        <mark key="." line="0" column="5" />
+      </file>
       <file name="$USER_HOME$/projects/pawncade/frontend/app/components/Panel/tests/index.test.js" timestamp="1550874735505">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -948,6 +960,12 @@
         <mark key="]" line="13" column="26" />
         <mark key="^" line="12" column="23" />
         <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/rust/Tufon/src/component.rs" timestamp="1556297441306">
+        <mark key="[" line="12" column="18" />
+        <mark key="]" line="12" column="28" />
+        <mark key="^" line="12" column="28" />
+        <mark key="." line="12" column="28" />
       </file>
       <file name="$USER_HOME$/projects/pawncade/frontend/app/components/LoginForm/messages.js" timestamp="1551050001150">
         <mark key="[" line="32" column="3" />
@@ -1209,47 +1227,47 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>TwoPortsPassiveComponent</text>
       </register>
       <register name="-" type="4">
-        <text>div</text>
+        <text>TwoPortsPassiveComponent</text>
       </register>
       <register name="/" type="4">
         <text>Error</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgPGEgY2xhc3NOYW1lPSJuYXYtbGluayBhY3RpdmUiIGhyZWY9IiMiPkFjdGl2ZTwvYT4K</text>
+        <text encoding="base64">dHlwZSBPaG0gPSBmNjQ7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhOiBWb2x0LAogICAgdmI6IFZvbHQsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">dHlwZSBPaG0gPSBmNjQ7CnR5cGUgVm9sdCA9IGY2NDsKCmNvbnN0IEdORDogZjY0ID0gMC4wOwoKdHJhaXQgQ29tcG9uZW50IHsKfQoKc3RydWN0ICBSZXNpc3RvciB7CiAgICBwdWIgdmFsdWU6IE9obSwKICAgIHZhOiBWb2x0LAogICAgdmI6IFZvbHQsCn0KIApzdHJ1Y3QgVmRjIHsKICAgIHA6IFZvbHQsCiAgICBuOiBWb2x0LAp9CgpzdHJ1Y3QgTmV0IHsKICAgIHZvbHRhZ2U6IGY2NCwKICAgIGNvbXBvbmVudDogVmVjPENvbXBvbmVudD4KfQo=</text>
       </register>
       <register name="r" type="4">
         <text>placeholder</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPGEgY2xhc3NOYW1lPSJuYXYtbGluayBhY3RpdmUiIGhyZWY9IiMiPkFjdGl2ZTwvYT4KICAgICAgPGEgY2xhc3NOYW1lPSJuYXYtbGluayIgaHJlZj0iIyI+TGluazwvYT4KICAgICAgPGEgY2xhc3NOYW1lPSJuYXYtbGluayIgaHJlZj0iIyI+TGluazwvYT4KICAgICAgPGEgY2xhc3NOYW1lPSJuYXYtbGluayBkaXNhYmxlZCIgaHJlZj0iIyI+RGlzYWJsZWQ8L2E+Cg==</text>
+        <text encoding="base64">ICAgIHZhbHVlOiBmNjQsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb2xvcjogZGFya2dyZXk7Cg==</text>
+        <text encoding="base64">aW1wbCAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGJvcmRlci1yYWRpdXM6IDNweDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB0ZXh0OiByZWQ7Cg==</text>
+        <text encoding="base64">aW1wbCAgewogICAgCn17Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBiYWNrZ3JvdW5kLWNvbG9yOiB3aGl0ZXNtb2tlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBib3JkZXI6IGRhcmtncmV5IDRweCBkYXNoZWQ7CiAgYm9yZGVyLXJhZGl1czogNXB4Owo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBtYXJnaW4tcmlnaHQ6IGF1dG87CiAgbWFyZ2luLWxlZnQ6IGF1dG87Cg==</text>
+        <text encoding="base64">ICAgICAgPGEgY2xhc3NOYW1lPSJuYXYtbGluayBhY3RpdmUiIGhyZWY9IiMiPkFjdGl2ZTwvYT4KICAgICAgPGEgY2xhc3NOYW1lPSJuYXYtbGluayIgaHJlZj0iIyI+TGluazwvYT4KICAgICAgPGEgY2xhc3NOYW1lPSJuYXYtbGluayIgaHJlZj0iIyI+TGluazwvYT4KICAgICAgPGEgY2xhc3NOYW1lPSJuYXYtbGluayBkaXNhYmxlZCIgaHJlZj0iIyI+RGlzYWJsZWQ8L2E+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action KJumpAction.Word0</text>
