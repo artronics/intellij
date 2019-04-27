@@ -139,11 +139,11 @@
         <mark key="^" line="4" column="26" />
         <mark key="." line="17" column="44" />
       </file>
-      <file name="$USER_HOME$/projects/rust/Tufon/src/main.rs" timestamp="1556379095091">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="21" />
-        <mark key="." line="0" column="21" />
-        <mark key="^" line="0" column="21" />
+      <file name="$USER_HOME$/projects/rust/Tufon/src/main.rs" timestamp="1556380994540">
+        <mark key="[" line="16" column="13" />
+        <mark key="]" line="15" column="13" />
+        <mark key="." line="16" column="13" />
+        <mark key="^" line="15" column="13" />
       </file>
       <file name="$USER_HOME$/projects/infinity-works/frontend/app/containers/AuthorityProfile/constants.js" timestamp="1554392712257">
         <mark key="[" line="1" column="106" />
@@ -967,11 +967,12 @@
         <mark key="^" line="12" column="23" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/rust/Tufon/src/component.rs" timestamp="1556379338457">
-        <mark key="[" line="40" column="42" />
-        <mark key="]" line="40" column="44" />
-        <mark key="." line="40" column="44" />
-        <mark key="^" line="40" column="44" />
+      <file name="$USER_HOME$/projects/rust/Tufon/src/component.rs" timestamp="1556381022378">
+        <mark key="'" line="45" column="0" />
+        <mark key="[" line="29" column="1" />
+        <mark key="]" line="31" column="23" />
+        <mark key="." line="31" column="23" />
+        <mark key="^" line="31" column="23" />
       </file>
       <file name="$USER_HOME$/projects/pawncade/frontend/app/components/LoginForm/messages.js" timestamp="1551050001150">
         <mark key="[" line="32" column="3" />
@@ -1002,6 +1003,9 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
         <mark key="^" line="42" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1556379498128">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/pods/infrastructure/docker-registry/docker-registry.Pod.yml" timestamp="1549219144077">
         <mark key="[" line="15" column="8" />
@@ -1107,9 +1111,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="24" filename="$USER_HOME$/projects/kotlin/sky/feedme-consumer/src/main/resources/application.yml" />
-      <jump line="0" column="5" filename="$USER_HOME$/projects/kotlin/sky/feedme-persistence/src/main/resources/application.yml" />
-      <jump line="31" column="89" filename="$USER_HOME$/projects/kotlin/sky/feedme-persistence/src/test/kotlin/com/artronics/feedme/persistence/Repository.kt" />
       <jump line="26" column="25" filename="$USER_HOME$/projects/infinity-works/frontend/package.json" />
       <jump line="44" column="0" filename="$USER_HOME$/projects/infinity-works/frontend/package.json" />
       <jump line="51" column="0" filename="$USER_HOME$/projects/infinity-works/frontend/package.json" />
@@ -1207,6 +1208,9 @@
       <jump line="30" column="8" filename="$USER_HOME$/projects/pawncade/pawncade-frontend/src/component/form/ImageInput.js" />
       <jump line="43" column="52" filename="$USER_HOME$/projects/pawncade/pawncade-frontend/src/component/form/ImageInput.js" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/rust/Tufon/src/component.rs" />
+      <jump line="26" column="3" filename="$USER_HOME$/projects/rust/Tufon/src/component.rs" />
+      <jump line="20" column="0" filename="$USER_HOME$/projects/rust/Tufon/src/component.rs" />
+      <jump line="43" column="0" filename="$USER_HOME$/projects/rust/Tufon/src/component.rs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1234,59 +1238,55 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">PCdhPg==</text>
+        <text encoding="base64">Jg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PCdhPg==</text>
+        <text encoding="base64">Jg==</text>
       </register>
       <register name="/" type="4">
-        <text>Error</text>
+        <text>'a</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGE6IE5ldDwnYT4sCg==</text>
+        <text encoding="base64">ICAgIGxldCByMSA9IFJlc2lzdG9yOjpuZXcoMTBfMDAwLjApOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmCg==</text>
+        <text encoding="base64">ICAgIGNpcmN1aXQuZXh0ZW5kX3dpdGhfZWRnZXMoJlsKICAgICAgICAoKSAKICAgIF0pOwo=</text>
       </register>
-      <register name="2" type="4">
-        <text>{
-//        value: 0.0
-    };</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="r" type="4">
         <text>placeholder</text>
       </register>
-      <register name="3" type="4">
-        <text>{
-        r
-    }</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGxldCBhbiA9IGNpcmN1aXQuYWRkX25vZGUoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">Ly8gICAgbGV0IGEgPSBSZXNpc3Rvcjo6bmV3KDEwLjApOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhOiBWb2x0LAogICAgdmI6IFZvbHQsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dHlwZSBPaG0gPSBmNjQ7CnR5cGUgVm9sdCA9IGY2NDsKCmNvbnN0IEdORDogZjY0ID0gMC4wOwoKdHJhaXQgQ29tcG9uZW50IHsKfQoKc3RydWN0ICBSZXNpc3RvciB7CiAgICBwdWIgdmFsdWU6IE9obSwKICAgIHZhOiBWb2x0LAogICAgdmI6IFZvbHQsCn0KIApzdHJ1Y3QgVmRjIHsKICAgIHA6IFZvbHQsCiAgICBuOiBWb2x0LAp9CgpzdHJ1Y3QgTmV0IHsKICAgIHZvbHRhZ2U6IGY2NCwKICAgIGNvbXBvbmVudDogVmVjPENvbXBvbmVudD4KfQo=</text>
+        <text encoding="base64">ICAgIHB1YiBmbiBhZGRfY29tcG9uZW50KCZtdXQgc2VsZiwgY29tOiAmJ2EgQ29tcG9uZW50KSB7CiAgICAgICAgc2VsZi5jb21wb25lbnRzLnB1c2goY29tKTsKICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbHVlOiBmNjQsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29tcG9uZW50czogdmVjISgpLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wbCAK</text>
+        <text encoding="base64">ICAgIGNvbXBvbmVudHM6IFZlYzwmJ2EgQ29tcG9uZW50Pgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGE6IE5ldDwnYT4sCiAgICBiOiBOZXQ8J2E+LAo=</text>
       </register>
       <register name=":" type="4">
         <text>action KJumpAction.Word0</text>
       </register>
     </registers>
     <search>
-      <last-search>Error</last-search>
+      <last-search>'a</last-search>
       <last-offset />
-      <last-pattern>Error</last-pattern>
+      <last-pattern>'a</last-pattern>
       <last-replace />
       <last-substitute>chapar.</last-substitute>
       <last-dir>1</last-dir>
@@ -1294,7 +1294,6 @@
     </search>
     <history>
       <history-search>
-        <entry>pre</entry>
         <entry>li</entry>
         <entry>pret</entry>
         <entry>state</entry>
@@ -1314,6 +1313,7 @@
         <entry>sty</entry>
         <entry>firs</entry>
         <entry>Error</entry>
+        <entry>'a</entry>
       </history-search>
       <history-cmd>
         <entry>%s/chapar.//g</entry>
