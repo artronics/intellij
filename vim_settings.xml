@@ -139,11 +139,11 @@
         <mark key="^" line="4" column="26" />
         <mark key="." line="17" column="44" />
       </file>
-      <file name="$USER_HOME$/projects/rust/Tufon/src/main.rs" timestamp="1556310751797">
-        <mark key="[" line="5" column="28" />
-        <mark key="]" line="5" column="29" />
-        <mark key="." line="5" column="29" />
-        <mark key="^" line="5" column="29" />
+      <file name="$USER_HOME$/projects/rust/Tufon/src/main.rs" timestamp="1556379095091">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="21" />
+        <mark key="." line="0" column="21" />
+        <mark key="^" line="0" column="21" />
       </file>
       <file name="$USER_HOME$/projects/infinity-works/frontend/app/containers/AuthorityProfile/constants.js" timestamp="1554392712257">
         <mark key="[" line="1" column="106" />
@@ -205,6 +205,12 @@
         <mark key="]" line="25" column="11" />
         <mark key="^" line="10" column="106" />
         <mark key="." line="25" column="11" />
+      </file>
+      <file name="$USER_HOME$/projects/rust/Tufon/Cargo.toml" timestamp="1556379109224">
+        <mark key="[" line="7" column="14" />
+        <mark key="]" line="7" column="15" />
+        <mark key="^" line="7" column="15" />
+        <mark key="." line="7" column="15" />
       </file>
       <file name="$USER_HOME$/projects/pods/infrastructure/docker-registry/docker-registry.PersistentVolume.yml" timestamp="1549226058823">
         <mark key="[" line="11" column="15" />
@@ -961,11 +967,11 @@
         <mark key="^" line="12" column="23" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/rust/Tufon/src/component.rs" timestamp="1556321888203">
-        <mark key="[" line="20" column="19" />
-        <mark key="]" line="20" column="19" />
-        <mark key="." line="20" column="19" />
-        <mark key="^" line="33" column="25" />
+      <file name="$USER_HOME$/projects/rust/Tufon/src/component.rs" timestamp="1556379338457">
+        <mark key="[" line="40" column="42" />
+        <mark key="]" line="40" column="44" />
+        <mark key="." line="40" column="44" />
+        <mark key="^" line="40" column="44" />
       </file>
       <file name="$USER_HOME$/projects/pawncade/frontend/app/components/LoginForm/messages.js" timestamp="1551050001150">
         <mark key="[" line="32" column="3" />
@@ -1101,7 +1107,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="36" filename="$USER_HOME$/projects/kotlin/sky/feedme-backend/build.gradle" />
       <jump line="22" column="24" filename="$USER_HOME$/projects/kotlin/sky/feedme-consumer/src/main/resources/application.yml" />
       <jump line="0" column="5" filename="$USER_HOME$/projects/kotlin/sky/feedme-persistence/src/main/resources/application.yml" />
       <jump line="31" column="89" filename="$USER_HOME$/projects/kotlin/sky/feedme-persistence/src/test/kotlin/com/artronics/feedme/persistence/Repository.kt" />
@@ -1201,6 +1206,7 @@
       <jump line="69" column="0" filename="$USER_HOME$/projects/pawncade/pawncade-frontend/src/component/form/ImageInput.js" />
       <jump line="30" column="8" filename="$USER_HOME$/projects/pawncade/pawncade-frontend/src/component/form/ImageInput.js" />
       <jump line="43" column="52" filename="$USER_HOME$/projects/pawncade/pawncade-frontend/src/component/form/ImageInput.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/rust/Tufon/src/component.rs" />
     </jumps>
     <registers>
       <register name="a" type="4">
