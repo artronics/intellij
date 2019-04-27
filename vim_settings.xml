@@ -139,11 +139,11 @@
         <mark key="^" line="4" column="26" />
         <mark key="." line="17" column="44" />
       </file>
-      <file name="$USER_HOME$/projects/rust/Tufon/src/main.rs" timestamp="1556380994540">
-        <mark key="[" line="16" column="13" />
-        <mark key="]" line="15" column="13" />
-        <mark key="." line="16" column="13" />
-        <mark key="^" line="15" column="13" />
+      <file name="$USER_HOME$/projects/rust/Tufon/src/main.rs" timestamp="1556383064169">
+        <mark key="[" line="22" column="29" />
+        <mark key="]" line="22" column="29" />
+        <mark key="." line="22" column="29" />
+        <mark key="^" line="22" column="29" />
       </file>
       <file name="$USER_HOME$/projects/infinity-works/frontend/app/containers/AuthorityProfile/constants.js" timestamp="1554392712257">
         <mark key="[" line="1" column="106" />
@@ -1238,16 +1238,16 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">Jg==</text>
+        <text>#</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Jg==</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>'a</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGxldCByMSA9IFJlc2lzdG9yOjpuZXcoMTBfMDAwLjApOwo=</text>
+        <text encoding="base64">ICAgIGNpcmN1aXQuYWRkX2VkZ2UoYSwgYiwgcjEpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGNpcmN1aXQuZXh0ZW5kX3dpdGhfZWRnZXMoJlsKICAgICAgICAoKSAKICAgIF0pOwo=</text>
