@@ -961,11 +961,11 @@
         <mark key="^" line="12" column="23" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/rust/Tufon/src/component.rs" timestamp="1556321570771">
-        <mark key="[" line="40" column="15" />
-        <mark key="]" line="40" column="16" />
-        <mark key="." line="40" column="16" />
-        <mark key="^" line="40" column="14" />
+      <file name="$USER_HOME$/projects/rust/Tufon/src/component.rs" timestamp="1556321888203">
+        <mark key="[" line="20" column="19" />
+        <mark key="]" line="20" column="19" />
+        <mark key="." line="20" column="19" />
+        <mark key="^" line="33" column="25" />
       </file>
       <file name="$USER_HOME$/projects/pawncade/frontend/app/components/LoginForm/messages.js" timestamp="1551050001150">
         <mark key="[" line="32" column="3" />
@@ -1239,39 +1239,39 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGE6IE5ldDwnYT4sCg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmCg==</text>
+      </register>
+      <register name="2" type="4">
         <text>{
 //        value: 0.0
     };</text>
       </register>
-      <register name="2" type="4">
+      <register name="r" type="4">
+        <text>placeholder</text>
+      </register>
+      <register name="3" type="4">
         <text>{
         r
     }</text>
       </register>
-      <register name="r" type="4">
-        <text>placeholder</text>
-      </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">IAo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIHZhOiBWb2x0LAogICAgdmI6IFZvbHQsCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">dHlwZSBPaG0gPSBmNjQ7CnR5cGUgVm9sdCA9IGY2NDsKCmNvbnN0IEdORDogZjY0ID0gMC4wOwoKdHJhaXQgQ29tcG9uZW50IHsKfQoKc3RydWN0ICBSZXNpc3RvciB7CiAgICBwdWIgdmFsdWU6IE9obSwKICAgIHZhOiBWb2x0LAogICAgdmI6IFZvbHQsCn0KIApzdHJ1Y3QgVmRjIHsKICAgIHA6IFZvbHQsCiAgICBuOiBWb2x0LAp9CgpzdHJ1Y3QgTmV0IHsKICAgIHZvbHRhZ2U6IGY2NCwKICAgIGNvbXBvbmVudDogVmVjPENvbXBvbmVudD4KfQo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIHZhbHVlOiBmNjQsCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">aW1wbCAK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wbCAgewogICAgCn17Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action KJumpAction.Word0</text>
