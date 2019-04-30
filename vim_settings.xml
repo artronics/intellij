@@ -139,11 +139,11 @@
         <mark key="^" line="4" column="26" />
         <mark key="." line="17" column="44" />
       </file>
-      <file name="$USER_HOME$/projects/rust/Tufon/src/main.rs" timestamp="1556383064169">
-        <mark key="[" line="22" column="29" />
-        <mark key="]" line="22" column="29" />
-        <mark key="." line="22" column="29" />
-        <mark key="^" line="22" column="29" />
+      <file name="$USER_HOME$/projects/rust/Tufon/src/main.rs" timestamp="1556636492625">
+        <mark key="[" line="22" column="28" />
+        <mark key="]" line="22" column="28" />
+        <mark key="." line="22" column="28" />
+        <mark key="^" line="22" column="28" />
       </file>
       <file name="$USER_HOME$/projects/infinity-works/frontend/app/containers/AuthorityProfile/constants.js" timestamp="1554392712257">
         <mark key="[" line="1" column="106" />
@@ -1238,10 +1238,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>#</text>
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>'a</text>
