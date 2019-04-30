@@ -139,11 +139,11 @@
         <mark key="^" line="4" column="26" />
         <mark key="." line="17" column="44" />
       </file>
-      <file name="$USER_HOME$/projects/rust/Tufon/src/main.rs" timestamp="1556636492625">
-        <mark key="[" line="22" column="28" />
-        <mark key="]" line="22" column="28" />
-        <mark key="." line="22" column="28" />
-        <mark key="^" line="22" column="28" />
+      <file name="$USER_HOME$/projects/rust/Tufon/src/main.rs" timestamp="1556641800016">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="1" column="35" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/infinity-works/frontend/app/containers/AuthorityProfile/constants.js" timestamp="1554392712257">
         <mark key="[" line="1" column="106" />
@@ -163,11 +163,11 @@
         <mark key="." line="1" column="12" />
         <mark key="^" line="1" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/rust/Tufon/src/graph/mod.rs" timestamp="1556639770786">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="13" />
-        <mark key="^" line="0" column="13" />
-        <mark key="." line="0" column="13" />
+      <file name="$USER_HOME$/projects/rust/Tufon/src/graph/mod.rs" timestamp="1556641454051">
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="0" column="12" />
+        <mark key="." line="0" column="12" />
+        <mark key="^" line="0" column="12" />
       </file>
       <file name="$USER_HOME$/projects/pawncade/pawncade-frontend/src/container/customer/NewCustomer.js" timestamp="1555867255860">
         <mark key="'" line="6" column="26" />
@@ -612,6 +612,12 @@
         <mark key="." line="11" column="10" />
         <mark key="^" line="11" column="10" />
       </file>
+      <file name="$USER_HOME$/projects/rust/Tufon/src/graph/graph_imp.rs" timestamp="1556641898458">
+        <mark key="[" line="3" column="18" />
+        <mark key="]" line="3" column="20" />
+        <mark key="." line="3" column="20" />
+        <mark key="^" line="3" column="20" />
+      </file>
       <file name="$USER_HOME$/projects/pods/infrastructure/infrastructure.yml" timestamp="1549407785388">
         <mark key="[" line="3" column="22" />
         <mark key="]" line="5" column="23" />
@@ -818,17 +824,15 @@
         <mark key="." line="22" column="25" />
         <mark key="^" line="22" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/rust/Tufon/src/graph/graph.rs" timestamp="1556639865385">
+      <file name="$USER_HOME$/projects/rust/Tufon/src/graph/graph.rs" timestamp="1556641393853">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="3" />
+        <mark key="]" line="6" column="1" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/rust/Tufon/src/circuit/mod.rs" timestamp="1556639803894">
-        <mark key="[" line="0" column="8" />
-        <mark key="]" line="0" column="14" />
-        <mark key="^" line="0" column="14" />
-        <mark key="." line="0" column="14" />
+      <file name="$USER_HOME$/projects/rust/Tufon/src/circuit/mod.rs" timestamp="1556640857594">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/masir/darwin-schema-v12/build.gradle" timestamp="1544978166250">
         <mark key="[" line="32" column="0" />
@@ -985,12 +989,10 @@
         <mark key="^" line="12" column="23" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/rust/Tufon/src/component.rs" timestamp="1556381022378">
-        <mark key="'" line="45" column="0" />
-        <mark key="[" line="29" column="1" />
-        <mark key="]" line="31" column="23" />
-        <mark key="." line="31" column="23" />
-        <mark key="^" line="31" column="23" />
+      <file name="$USER_HOME$/projects/rust/Tufon/src/component.rs" timestamp="1556640511766">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/pawncade/frontend/app/components/LoginForm/messages.js" timestamp="1551050001150">
         <mark key="[" line="32" column="3" />
@@ -1009,6 +1011,11 @@
         <mark key="]" line="4" column="26" />
         <mark key="^" line="4" column="26" />
         <mark key="." line="4" column="26" />
+      </file>
+      <file name="$USER_HOME$/projects/rust/Tufon/src/circuit/element.rs" timestamp="1556640518935">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="45" column="1" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/pawncade/frontend/app/components/A/tests/index.test.js" timestamp="1550943808539">
         <mark key="[" line="8" column="22" />
@@ -1225,10 +1232,10 @@
       <jump line="69" column="0" filename="$USER_HOME$/projects/pawncade/pawncade-frontend/src/component/form/ImageInput.js" />
       <jump line="30" column="8" filename="$USER_HOME$/projects/pawncade/pawncade-frontend/src/component/form/ImageInput.js" />
       <jump line="43" column="52" filename="$USER_HOME$/projects/pawncade/pawncade-frontend/src/component/form/ImageInput.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/rust/Tufon/src/component.rs" />
       <jump line="26" column="3" filename="$USER_HOME$/projects/rust/Tufon/src/component.rs" />
       <jump line="20" column="0" filename="$USER_HOME$/projects/rust/Tufon/src/component.rs" />
       <jump line="43" column="0" filename="$USER_HOME$/projects/rust/Tufon/src/component.rs" />
+      <jump line="0" column="16" filename="$USER_HOME$/projects/rust/Tufon/src/component.rs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1255,11 +1262,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXNlCg==</text>
+      <register name="&quot;" type="4">
+        <text>String</text>
       </register>
       <register name="-" type="4">
-        <text>circuit</text>
+        <text>String</text>
       </register>
       <register name="/" type="4">
         <text>'a</text>
@@ -1268,34 +1275,34 @@
         <text encoding="base64">ICAgIGNpcmN1aXQuYWRkX2VkZ2UoYSwgYiwgcjEpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNpcmN1aXQuZXh0ZW5kX3dpdGhfZWRnZXMoJlsKICAgICAgICAoKSAKICAgIF0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text>placeholder</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Ly9leHRlcm4gY3JhdGUgcGV0Z3JhcGg7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxldCBhbiA9IGNpcmN1aXQuYWRkX25vZGUoKQo=</text>
+        <text encoding="base64">cHViIHN0cnVjdCBEaUdyYXBoIHsKICAgIGE6IFZlYzxTdHJpbmc+Cn0KCmltcGwgRGlHcmFwaCB7CiAgICBwdWIgZm4gZm9vKCkge30KfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgbGV0IGEgPSBSZXNpc3Rvcjo6bmV3KDEwLjApOwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">dXNlIGNpcmN1aXQ6OmVsZW1lbnQ6OntFbGVtZW50fTsK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YiBmbiBhZGRfY29tcG9uZW50KCZtdXQgc2VsZiwgY29tOiAmJ2EgQ29tcG9uZW50KSB7CiAgICAgICAgc2VsZi5jb21wb25lbnRzLnB1c2goY29tKTsKICAgIH0K</text>
+        <text encoding="base64">bW9kIGNpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29tcG9uZW50czogdmVjISgpLAo=</text>
+        <text encoding="base64">cHViIG1vZCBncmFwaDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbXBvbmVudHM6IFZlYzwmJ2EgQ29tcG9uZW50Pgo=</text>
+        <text encoding="base64">cHViIHN0cnVjdCBEaUdyYXBoIHsKICAgIGE6IFZlYzw+Cn0KCmltcGwgRGlHcmFwaCB7CiAgICBwdWIgZm4gZm9vKCkge30KfQo=</text>
       </register>
       <register name=":" type="4">
         <text>action KJumpAction.Word0</text>
