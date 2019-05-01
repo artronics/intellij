@@ -139,7 +139,7 @@
         <mark key="^" line="4" column="26" />
         <mark key="." line="17" column="44" />
       </file>
-      <file name="$USER_HOME$/projects/rust/Tufon/src/main.rs" timestamp="1556648388360">
+      <file name="$USER_HOME$/projects/rust/Tufon/src/main.rs" timestamp="1556740154806">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="^" line="1" column="35" />
@@ -611,11 +611,12 @@
         <mark key="." line="11" column="10" />
         <mark key="^" line="11" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/rust/Tufon/src/graph/graph_imp.rs" timestamp="1556649725788">
-        <mark key="[" line="9" column="21" />
-        <mark key="]" line="9" column="23" />
-        <mark key="." line="9" column="23" />
-        <mark key="^" line="9" column="23" />
+      <file name="$USER_HOME$/projects/rust/Tufon/src/graph/graph_imp.rs" timestamp="1556740800067">
+        <mark key="'" line="18" column="6" />
+        <mark key="[" line="27" column="51" />
+        <mark key="]" line="27" column="50" />
+        <mark key="." line="27" column="50" />
+        <mark key="^" line="27" column="50" />
       </file>
       <file name="$USER_HOME$/projects/pods/infrastructure/infrastructure.yml" timestamp="1549407785388">
         <mark key="[" line="3" column="22" />
@@ -1149,8 +1150,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="122" column="0" filename="$USER_HOME$/projects/infinity-works/frontend/package.json" />
-      <jump line="125" column="0" filename="$USER_HOME$/projects/infinity-works/frontend/package.json" />
       <jump line="141" column="0" filename="$USER_HOME$/projects/infinity-works/frontend/package.json" />
       <jump line="39" column="5" filename="$USER_HOME$/projects/infinity-works/frontend/package.json" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/infinity-works/frontend/.eslintrc.js" />
@@ -1249,6 +1248,8 @@
       <jump line="20" column="25" filename="$USER_HOME$/projects/rust/Tufon/src/circuit/element.rs" />
       <jump line="58" column="8" filename="$USER_HOME$/projects/rust/Tufon/src/circuit/element.rs" />
       <jump line="60" column="7" filename="$USER_HOME$/projects/rust/Tufon/src/circuit/element.rs" />
+      <jump line="13" column="4" filename="$USER_HOME$/projects/rust/Tufon/src/graph/graph_imp.rs" />
+      <jump line="12" column="6" filename="$USER_HOME$/projects/rust/Tufon/src/graph/graph_imp.rs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1275,56 +1276,57 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>application</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>application</text>
+        <text encoding="base64">IGVkZ2U6IEVkZ2U8RSwgTj4=</text>
       </register>
       <register name="/" type="4">
-        <text>imp</text>
+        <text>T</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IGlvLmt0b3IuYXBwbGljYXRpb24uKgo=</text>
+        <text encoding="base64">ICAgIHB1YiBmbiBhZGRfZWRnZSgmbXV0IHNlbGYsIGVkZ2U6IEVkZ2U8RSwgTj4pIHsKICAgICAgICBzZWxmLmVkZ2VzLnB1c2goZWRnZSkKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">amgK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="r" type="4">
         <text>placeholder</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Z2oK</text>
+        <text encoding="base64">c3RydWN0IEZvb3t9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cGV0Z3JhcGg9IjAuNC4xMyIK</text>
+        <text encoding="base64">ICAgIGxldCBiID0gRGlHcmFwaDo6Zm9vKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNlIHBldGdyYXBoOjpncmFwaDo6Tm9kZTsK</text>
+        <text encoding="base64">ICAgIHB1YiBmbiBhZGRfZWRnZSgmbXV0IHNlbGYsIGE6ICZOZXQsIGI6ICZOZXQsIGVsOiAmRWxlbWVudCkgewogICAgICAgIGxldCBlZGdlID0gRWRnZSB7IGVsLCBhLCBiIH07CiAgICAgICAgc2VsZi5lZGdlcy5wdXNoKCYnYSBlZGdlKQogICAgfQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHViIGVudW0gVW5pdCB7CiAgICBPaG0oZjY0KSwKICAgIFZvbHQoZjY0KSwKICAgIEFtcChmNjQpLAp9Cg==</text>
+        <text encoding="base64">c3RydWN0IEVkZ2U8J2E+IHsKICAgIGVsOiAmJ2EgRWxlbWVudCwKICAgIGE6ICYnYSBOZXQsCiAgICBiOiAmJ2EgTmV0Cn0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGVkZ2VzOiBWZWM8JidhIEVkZ2U8J2E+PiwK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGxldCBhID0gUmVzaXN0b3I6Om5ldygxMDAuMCk7Cg==</text>
+      <register name="9" type="8">
+        <text>Element
+Element</text>
       </register>
       <register name=":" type="4">
         <text>action KJumpAction.Word0</text>
       </register>
     </registers>
     <search>
-      <last-search>imp</last-search>
+      <last-search>T</last-search>
       <last-offset />
-      <last-pattern>imp</last-pattern>
+      <last-pattern>T</last-pattern>
       <last-replace />
       <last-substitute>chapar.</last-substitute>
       <last-dir>1</last-dir>
@@ -1332,8 +1334,6 @@
     </search>
     <history>
       <history-search>
-        <entry>pret</entry>
-        <entry>state</entry>
         <entry>URL</entry>
         <entry>EX</entry>
         <entry>Ra</entry>
@@ -1352,6 +1352,8 @@
         <entry>Error</entry>
         <entry>'a</entry>
         <entry>imp</entry>
+        <entry>Foo</entry>
+        <entry>T</entry>
       </history-search>
       <history-cmd>
         <entry>%s/chapar.//g</entry>
