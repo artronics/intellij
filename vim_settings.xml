@@ -1148,6 +1148,12 @@
         <mark key="." line="6" column="45" />
         <mark key="^" line="6" column="45" />
       </file>
+      <file name="$USER_HOME$/projects/kotlin/message-adaptor/src/main/kotlin/com/infinityworks/sbg/messageadaptor/channel/FitChannel.kt" timestamp="1557427877387">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
+        <mark key="^" line="53" column="41" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="141" column="0" filename="$USER_HOME$/projects/infinity-works/frontend/package.json" />
@@ -1277,56 +1283,57 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGVkZ2U6IEVkZ2U8RSwgTj4=</text>
+        <text encoding="base64">eyBtZXNzYWdlIC0+</text>
       </register>
       <register name="/" type="4">
-        <text>T</text>
+        <text>details</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YiBmbiBhZGRfZWRnZSgmbXV0IHNlbGYsIGVkZ2U6IEVkZ2U8RSwgTj4pIHsKICAgICAgICBzZWxmLmVkZ2VzLnB1c2goZWRnZSkKICAgIH0K</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAuaGFuZGxlIHsgbSAtPiBwcmludGxuKG0pfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuaGFuZGxlKG0pCg==</text>
       </register>
       <register name="r" type="4">
         <text>placeholder</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c3RydWN0IEZvb3t9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxldCBiID0gRGlHcmFwaDo6Zm9vKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YiBmbiBhZGRfZWRnZSgmbXV0IHNlbGYsIGE6ICZOZXQsIGI6ICZOZXQsIGVsOiAmRWxlbWVudCkgewogICAgICAgIGxldCBlZGdlID0gRWRnZSB7IGVsLCBhLCBiIH07CiAgICAgICAgc2VsZi5lZGdlcy5wdXNoKCYnYSBlZGdlKQogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgRm9vdGJhbGxNYXRjaFN1bW1hcnlJc2RNZXNzYWdlKEluYm91bmRIZWFkZXIoKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBGb290YmFsbE1hdGNoU3VtbWFyeUlzZE1lc3NhZ2UoKQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">c3RydWN0IEVkZ2U8J2E+IHsKICAgIGVsOiAmJ2EgRWxlbWVudCwKICAgIGE6ICYnYSBOZXQsCiAgICBiOiAmJ2EgTmV0Cn0K</text>
+      <register name="7" type="4">
+        <text>{
+        
+    }</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGVkZ2VzOiBWZWM8JidhIEVkZ2U8J2E+PiwK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="9" type="8">
-        <text>Element
-Element</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>action KJumpAction.Word0</text>
       </register>
     </registers>
     <search>
-      <last-search>T</last-search>
+      <last-search>details</last-search>
       <last-offset />
-      <last-pattern>T</last-pattern>
+      <last-pattern>details</last-pattern>
       <last-replace />
       <last-substitute>chapar.</last-substitute>
       <last-dir>1</last-dir>
@@ -1334,8 +1341,6 @@ Element</text>
     </search>
     <history>
       <history-search>
-        <entry>URL</entry>
-        <entry>EX</entry>
         <entry>Ra</entry>
         <entry>api</entry>
         <entry>pro</entry>
@@ -1354,6 +1359,8 @@ Element</text>
         <entry>imp</entry>
         <entry>Foo</entry>
         <entry>T</entry>
+        <entry>summary</entry>
+        <entry>details</entry>
       </history-search>
       <history-cmd>
         <entry>%s/chapar.//g</entry>
