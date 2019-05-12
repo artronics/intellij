@@ -15,6 +15,10 @@
         <mark key="." line="7" column="47" />
         <mark key="^" line="7" column="47" />
       </file>
+      <file name="$USER_HOME$/projects/kotlin/message-adaptor/src/test/resources/1-goalDetails.json" timestamp="1557672062081">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="52" />
+      </file>
       <file name="$USER_HOME$/projects/kotlin/feedme/src/main/kotlin/com/artronics/feedme/app.kt" timestamp="1553990534581">
         <mark key="[" line="21" column="30" />
         <mark key="]" line="21" column="33" />
@@ -537,9 +541,6 @@
         <mark key="." line="42" column="0" />
         <mark key="^" line="42" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1556379498128">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/pawncade/pawncade-backend/src/main/kotlin/com/artronics/pawncade/backend/App.kt" timestamp="1556722060422">
         <mark key="[" line="23" column="31" />
         <mark key="]" line="24" column="7" />
@@ -552,17 +553,24 @@
         <mark key="^" line="3" column="25" />
         <mark key="." line="3" column="25" />
       </file>
+      <file name="$USER_HOME$/projects/kotlin/message-adaptor/src/main/kotlin/com/infinityworks/sbg/messageadaptor/message/DateTimeUtils.kt" timestamp="1557674435082">
+        <mark key="[" line="16" column="61" />
+        <mark key="]" line="16" column="70" />
+        <mark key="." line="16" column="70" />
+        <mark key="^" line="16" column="70" />
+      </file>
       <file name="$USER_HOME$/projects/latex/resume/src/software-developer/section_projects.tex" timestamp="1553199188793">
         <mark key="[" line="33" column="29" />
         <mark key="]" line="33" column="28" />
         <mark key="^" line="33" column="28" />
         <mark key="." line="33" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/kotlin/message-adaptor/src/test/kotlin/com/infinityworks/sbg/messageadaptor/InboundMessageAggregatorTest.kt" timestamp="1557671935431">
-        <mark key="[" line="118" column="50" />
-        <mark key="]" line="118" column="47" />
-        <mark key="^" line="118" column="47" />
-        <mark key="." line="118" column="47" />
+      <file name="$USER_HOME$/projects/kotlin/message-adaptor/src/test/kotlin/com/infinityworks/sbg/messageadaptor/InboundMessageAggregatorTest.kt" timestamp="1557673250031">
+        <mark key="'" line="134" column="69" />
+        <mark key="[" line="146" column="39" />
+        <mark key="]" line="146" column="73" />
+        <mark key="^" line="146" column="73" />
+        <mark key="." line="146" column="73" />
       </file>
       <file name="$USER_HOME$/projects/masir/masir-journey-producer/src/main/kotlin/com/artronics/masir/journey/producer/MasirJourneyProducerApplication.kt" timestamp="1544991594811">
         <mark key="[" line="6" column="0" />
@@ -939,17 +947,22 @@
         <mark key="." line="48" column="14" />
         <mark key="^" line="48" column="14" />
       </file>
+      <file name="$USER_HOME$/projects/kotlin/message-adaptor/src/main/kotlin/com/infinityworks/sbg/messageadaptor/message/OutboundMessage.kt" timestamp="1557672133412">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/masir/masir-journey-producer/build.gradle" timestamp="1545000076281">
         <mark key="[" line="81" column="50" />
         <mark key="]" line="81" column="50" />
         <mark key="." line="81" column="50" />
         <mark key="^" line="81" column="48" />
       </file>
-      <file name="/fragment.kt" timestamp="1554416527895">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="17" />
-        <mark key="." line="0" column="17" />
-        <mark key="^" line="0" column="17" />
+      <file name="/fragment.kt" timestamp="1557674160457">
+        <mark key="[" line="0" column="11" />
+        <mark key="]" line="0" column="9" />
+        <mark key="^" line="0" column="9" />
+        <mark key="." line="0" column="9" />
       </file>
       <file name="$USER_HOME$/projects/infinity-works/food-hygiene/src/test/kotlin/com/artronics/food/fhrs/EstablishmentRatingAggregatorTest.kt" timestamp="1554418708651">
         <mark key="[" line="33" column="45" />
@@ -1094,6 +1107,12 @@
         <mark key="." line="15" column="9" />
         <mark key="^" line="15" column="9" />
       </file>
+      <file name="$USER_HOME$/projects/kotlin/message-adaptor/src/main/kotlin/com/infinityworks/sbg/messageadaptor/channel/Aggregator.kt" timestamp="1557674111833">
+        <mark key="[" line="26" column="29" />
+        <mark key="]" line="26" column="29" />
+        <mark key="^" line="25" column="61" />
+        <mark key="." line="26" column="32" />
+      </file>
       <file name="$USER_HOME$/projects/latex/resume/src/software-developer/section_headline.tex" timestamp="1553197355761">
         <mark key="[" line="14" column="17" />
         <mark key="]" line="14" column="22" />
@@ -1161,7 +1180,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="141" column="0" filename="$USER_HOME$/projects/infinity-works/frontend/package.json" />
       <jump line="39" column="5" filename="$USER_HOME$/projects/infinity-works/frontend/package.json" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/infinity-works/frontend/.eslintrc.js" />
       <jump line="2" column="20" filename="$USER_HOME$/projects/infinity-works/frontend/.eslintrc.js" />
@@ -1261,78 +1279,56 @@
       <jump line="60" column="7" filename="$USER_HOME$/projects/rust/Tufon/src/circuit/element.rs" />
       <jump line="13" column="4" filename="$USER_HOME$/projects/rust/Tufon/src/graph/graph_imp.rs" />
       <jump line="12" column="6" filename="$USER_HOME$/projects/rust/Tufon/src/graph/graph_imp.rs" />
+      <jump line="131" column="69" filename="$USER_HOME$/projects/kotlin/message-adaptor/src/test/kotlin/com/infinityworks/sbg/messageadaptor/InboundMessageAggregatorTest.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
-        <keys>
-          <key char="105" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="94" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="34" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="104" code="0" mods="0" />
-          <key char="104" code="0" mods="0" />
-          <key char="119" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="34" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="65" code="0" mods="0" />
-          <key char="44" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="103" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-        </keys>
+        <text>^vwdf,hxgj</text>
       </register>
       <register name="&quot;" type="4">
-        <text>mockSummaryMessage();</text>
+        <text>withZoneSameInstant(utc)</text>
       </register>
       <register name="-" type="4">
-        <text>mockSummaryMessage();</text>
+        <text>withZoneSameInstant(utc)</text>
       </register>
       <register name="/" type="4">
         <text>details</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAuaGFuZGxlIHsgbSAtPiBwcmludGxuKG0pfQo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgbGF0ZXN0RGV0YWlscyA9IG1lc3NhZ2VzCiAgICAgICAgICAgICAgICAuZmlsdGVyIHsgaXQgaXMgRm9vdGJhbGxNYXRjaERldGFpbHNJc2RNZXNzYWdlIH0KICAgICAgICAgICAgICAgIC5tYXAgeyBpdCBhcyBGb290YmFsbE1hdGNoRGV0YWlsc0lzZE1lc3NhZ2UgfQogICAgICAgICAgICAgICAgLnNvcnRlZEJ5RGVzY2VuZGluZyB7IHBhcnNlSGVhZGVyVGltZXN0YW1wKGl0LmJvZHkuSGVhZGVyLlRpbWVTdGFtcFV0YykgfQogICAgICAgICAgICAgICAgLmZpcnN0KCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">KChGb290YmFsbE1hdGNoU3VtbWFyeUlzZE1lc3NhZ2UpKChqYXZhLnV0aWwuQXJyYXlzLkFycmF5TGlzdCltZXNzYWdlcykuZ2V0KDEpKS5ib3kK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuaGFuZGxlKG0pCg==</text>
+        <text encoding="base64">ICAgIHZhbCBzdW1tYXJ5ID0gbW9ja2s8Rm9vdGJhbGxNYXRjaFN1bW1hcnlJc2RNZXNzYWdlPigpCg==</text>
       </register>
       <register name="r" type="4">
         <text>placeholder</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHZhbCBkZXRhaWwgPSBtb2NrazxGb290YmFsbE1hdGNoRGV0YWlsc0lzZE1lc3NhZ2U+KCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXIK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgbGF0ZXN0U3VtbWFyeSA9IG1vY2trPEZvb3RiYWxsTWF0Y2hTdW1tYXJ5SXNkTWVzc2FnZT4oKQogICAgICAgIGV2ZXJ5IHsgc3VtbWFyeS5ib2R5LkhlYWRlci5UaW1lU3RhbXBVdGMgfS5yZXR1cm5zKGZvcm1hdEhlYWRlclRpbWVzdGFtcChub3cpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRm9vdGJhbGxNYXRjaFN1bW1hcnlJc2RNZXNzYWdlKEluYm91bmRIZWFkZXIoKSkK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBGb290YmFsbE1hdGNoU3VtbWFyeUlzZE1lc3NhZ2UoKQo=</text>
+        <text encoding="base64">cHJpdmF0ZSBjb25zdCB2YWwgZGF0ZVRpbWVGb3JtYXQgPSAieXl5eS1NTS1kZCdUJ0hIOm1tOnNzLlNTUydaJyIKcHJpdmF0ZSB2YWwgaGVhZGVyVGltZXN0YW1wRm9ybWF0dGVyID0gRGF0ZVRpbWVGb3JtYXR0ZXIub2ZQYXR0ZXJuKGRhdGVUaW1lRm9ybWF0KQpwcml2YXRlIHZhbCB1dGMgPSBab25lSWQub2YoIlVUQyIpCgpmdW4gZm9ybWF0SGVhZGVyVGltZXN0YW1wKHRpbWVzdGFtcDogWm9uZWREYXRlVGltZSk6IFN0cmluZyB7CiAgICByZXR1cm4gaGVhZGVyVGltZXN0YW1wRm9ybWF0dGVyLmZvcm1hdCh0aW1lc3RhbXAud2l0aFpvbmVTYW1lSW5zdGFudCh1dGMpKQp9Cgo=</text>
       </register>
-      <register name="7" type="4">
-        <text>{
-        
-    }</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuaGFuZGxlKG0pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action KJumpAction.Word0</text>
+        <text>action KJumpAction.Line</text>
       </register>
     </registers>
     <search>
@@ -1371,8 +1367,8 @@
         <entry>%s/chapar.//g</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>action KJumpAction</entry>
-        <entry>action KJumpAction.Line</entry>
         <entry>action KJumpAction.Word0</entry>
+        <entry>action KJumpAction.Line</entry>
       </history-cmd>
       <history-expr />
       <history-input />
