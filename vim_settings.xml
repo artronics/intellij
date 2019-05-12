@@ -558,6 +558,12 @@
         <mark key="^" line="33" column="28" />
         <mark key="." line="33" column="28" />
       </file>
+      <file name="$USER_HOME$/projects/kotlin/message-adaptor/src/test/kotlin/com/infinityworks/sbg/messageadaptor/InboundMessageAggregatorTest.kt" timestamp="1557671935431">
+        <mark key="[" line="118" column="50" />
+        <mark key="]" line="118" column="47" />
+        <mark key="^" line="118" column="47" />
+        <mark key="." line="118" column="47" />
+      </file>
       <file name="$USER_HOME$/projects/masir/masir-journey-producer/src/main/kotlin/com/artronics/masir/journey/producer/MasirJourneyProducerApplication.kt" timestamp="1544991594811">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -1281,11 +1287,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>mockSummaryMessage();</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">eyBtZXNzYWdlIC0+</text>
+        <text>mockSummaryMessage();</text>
       </register>
       <register name="/" type="4">
         <text>details</text>
