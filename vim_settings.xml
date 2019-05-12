@@ -541,6 +541,9 @@
         <mark key="." line="42" column="0" />
         <mark key="^" line="42" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1557702912857">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/pawncade/pawncade-backend/src/main/kotlin/com/artronics/pawncade/backend/App.kt" timestamp="1556722060422">
         <mark key="[" line="23" column="31" />
         <mark key="]" line="24" column="7" />
@@ -948,9 +951,9 @@
         <mark key="^" line="48" column="14" />
       </file>
       <file name="$USER_HOME$/projects/kotlin/message-adaptor/src/main/kotlin/com/infinityworks/sbg/messageadaptor/message/OutboundMessage.kt" timestamp="1557672133412">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/projects/masir/masir-journey-producer/build.gradle" timestamp="1545000076281">
         <mark key="[" line="81" column="50" />
@@ -1108,10 +1111,10 @@
         <mark key="^" line="15" column="9" />
       </file>
       <file name="$USER_HOME$/projects/kotlin/message-adaptor/src/main/kotlin/com/infinityworks/sbg/messageadaptor/channel/Aggregator.kt" timestamp="1557674111833">
-        <mark key="[" line="26" column="29" />
-        <mark key="]" line="26" column="29" />
-        <mark key="^" line="25" column="61" />
-        <mark key="." line="26" column="32" />
+        <mark key="[" line="25" column="29" />
+        <mark key="]" line="25" column="29" />
+        <mark key="^" line="24" column="61" />
+        <mark key="." line="25" column="32" />
       </file>
       <file name="$USER_HOME$/projects/latex/resume/src/software-developer/section_headline.tex" timestamp="1553197355761">
         <mark key="[" line="14" column="17" />
